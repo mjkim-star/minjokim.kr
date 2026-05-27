@@ -19,11 +19,12 @@
 
 .latest-link {
   margin: 0;
-  font-size: 1.05rem;
+  font-size: 1.16rem;
   line-height: 1.6;
 }
 
 .latest-link a {
+  display: inline-block;
   font-weight: 700;
 }
 
@@ -156,7 +157,7 @@
   }
 
   .latest-link {
-    font-size: clamp(0.96rem, 4vw, 1.05rem);
+    font-size: clamp(1.06rem, 4.3vw, 1.16rem);
     line-height: 1.55;
   }
 
