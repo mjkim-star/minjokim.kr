@@ -23,9 +23,12 @@ style_status: style_pass
 convergence_risk: low
 external_planning_conclusion: false
 business_layer: excluded
+english_version: "2026-05-28_published_en_ai-adoption-dynamic-capability-mediation"
 ---
 
 # AI를 도입했는데 왜 회사는 달라지지 않는가?
+
+English version: [Why Do Companies Remain the Same After Adopting AI?](/research/2026-05-28_published_en_ai-adoption-dynamic-capability-mediation)
 
 AI를 쓰면 일이 빨라질 것이라고 기대한다. 이 기대는 자연스럽다. 문서를 요약하고, 메일을 쓰고, 고객 질문에 답하고, 자료를 정리하는 일은 실제로 빨라진다. 이전에는 사람이 오래 붙잡고 있던 일이 몇 분 안에 끝나기도 한다.
 
