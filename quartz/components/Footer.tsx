@@ -10,10 +10,11 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const email = Object.entries(opts?.links ?? {})[0]
     const isEnglish = fileData.frontmatter?.language === "en"
+    const authorName = isEnglish ? "Kim Minjo" : "김민조"
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          © {year} 김민조 / All rights reserved
+          © {year} {authorName} / All rights reserved
           {email ? (
             <>
               {" / "}
