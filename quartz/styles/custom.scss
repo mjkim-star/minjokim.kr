@@ -88,8 +88,98 @@
 }
 
 @media (max-width: 720px) {
+  :root {
+    --mobile-page-pad: clamp(0.9rem, 4vw, 1.25rem);
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  .page,
+  .page > #quartz-body,
+  .center,
+  .page-header,
+  article,
+  .popover-hint {
+    max-width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+
+  .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr) !important;
+    width: 100%;
+    padding-left: var(--mobile-page-pad);
+    padding-right: var(--mobile-page-pad);
+  }
+
+  .page > #quartz-body > * {
+    min-width: 0;
+  }
+
+  .center,
+  .page-header,
+  article,
+  .popover-hint {
+    width: calc(100vw - (var(--mobile-page-pad) * 2)) !important;
+  }
+
+  h1,
+  article h1,
+  .article-title,
+  .page-title {
+    font-size: clamp(1.55rem, 7vw, 1.9rem);
+    line-height: 1.28;
+    overflow-wrap: anywhere;
+    word-break: keep-all;
+  }
+
+  article p,
+  article li {
+    font-size: clamp(0.98rem, 4vw, 1.05rem);
+    line-height: 1.72;
+    overflow-wrap: anywhere;
+    word-break: keep-all;
+  }
+
+  .breadcrumb-container {
+    display: none;
+  }
+
+  .home-section {
+    margin: 1rem 0;
+  }
+
+  .latest-section h2 {
+    font-size: clamp(1.18rem, 5vw, 1.35rem);
+  }
+
+  .latest-link {
+    font-size: clamp(0.96rem, 4vw, 1.05rem);
+    line-height: 1.55;
+  }
+
+  .intro-section {
+    font-size: clamp(0.96rem, 4vw, 1.02rem);
+    line-height: 1.48;
+  }
+
+  .intro-body {
+    line-height: 1.62;
+  }
+
+  .home-divider {
+    margin: 1.55rem 0;
+  }
+
   .research-cards {
     grid-template-columns: 1fr;
+    gap: 0.65rem;
+  }
+
+  .research-cards section {
+    padding: 0.85rem 0.9rem;
   }
 }
 // put your custom CSS here!
