@@ -112,6 +112,10 @@ export default (() => {
         <meta property="og:image:alt" content={description} />
         <meta name="author" content={author} />
         <meta name="robots" content="index, follow, max-image-preview:large" />
+        <meta
+          name="naver-site-verification"
+          content="6b07382a210e109afcc2be2e14c1167ab34e8a45"
+        />
         {isArticle && datePublished && (
           <meta property="article:published_time" content={datePublished} />
         )}
