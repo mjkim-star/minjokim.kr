@@ -20,13 +20,15 @@ enableToc: false
 <section class="home-section intro-section">
   <p class="section-label">About</p>
 
-<p class="intro-line">김민조는 조직, 전략, 동적역량, AI 전환을 연구합니다.</p>
+<p class="intro-line">경영학박사이자 경영지도사입니다.</p>
+
+<p class="intro-line">전략, 동적역량, 의사결정, AI 전환을 연구합니다.</p>
 
 <p class="intro-line">중심 질문은 하나입니다.</p>
 
-<p class="intro-question">좋은 이론은 왜 현장에서 자주 멈추는가.</p>
+<p class="intro-question">좋은 이론은 왜 현장에서 빈번하게 멈추는가.</p>
 
-<p class="intro-body">이 질문에서 글은 시작합니다. 기존 이론이 설명하지 못한 빈칸을 찾고, 그 위에 새로운 방법론과 개념 모델을 세우는 것이 이곳의 작업입니다.</p>
+<p class="intro-body">이 질문에서 글은 시작합니다. 기존 이론이 설명하지 못한 빈칸을 찾고, 그 위에 새로운 방법론을 모색하고 개념 모델을 확장하는 것이 이곳의 작업입니다.</p>
 </section>
 
 <hr class="home-divider" />
