@@ -28,6 +28,40 @@
   font-weight: 700;
 }
 
+.latest-list {
+  display: grid;
+  gap: 0.45rem;
+  margin-top: 0.75rem;
+}
+
+.latest-list a {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  width: 100%;
+  max-width: 46rem;
+  padding: 0.24rem 0;
+  color: var(--secondary);
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 1.45;
+  text-decoration: none;
+}
+
+.latest-list a:hover span {
+  text-decoration: underline;
+  text-underline-offset: 0.18rem;
+}
+
+.latest-list time {
+  flex: 0 0 auto;
+  color: var(--darkgray);
+  font-size: 0.82rem;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
 .intro-section {
   font-size: 1rem;
   line-height: 1.45;
@@ -177,6 +211,20 @@
   .latest-link {
     font-size: clamp(1.06rem, 4.3vw, 1.16rem);
     line-height: 1.55;
+  }
+
+  .latest-list {
+    gap: 0.6rem;
+  }
+
+  .latest-list a {
+    display: grid;
+    gap: 0.12rem;
+    font-size: clamp(1.02rem, 4.2vw, 1.12rem);
+  }
+
+  .latest-list time {
+    font-size: 0.78rem;
   }
 
   .intro-section {

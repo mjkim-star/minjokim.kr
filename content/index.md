@@ -11,9 +11,16 @@ enableToc: false
 <section class="home-section latest-section">
   <p class="section-label">Latest</p>
   <h2>최근 글</h2>
-  <p class="latest-link">
-    <a href="./research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">AI를 도입했는데 왜 회사는 달라지지 않는가?</a>
-  </p>
+  <div class="latest-list">
+    <a href="./research/2026-05-28_published_en_ai-adoption-dynamic-capability-mediation">
+      <span>Why Do Companies Remain the Same After Adopting AI?</span>
+      <time>2026.05.28</time>
+    </a>
+    <a href="./research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">
+      <span>AI를 도입했는데 왜 회사는 달라지지 않는가?</span>
+      <time>2026.05.27</time>
+    </a>
+  </div>
 </section>
 
 <hr class="home-divider" />
