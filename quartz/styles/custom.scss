@@ -49,6 +49,10 @@
   text-decoration: none;
 }
 
+.latest-list a:nth-of-type(n + 4) {
+  display: none;
+}
+
 .latest-list a:hover span {
   text-decoration: underline;
   text-underline-offset: 0.18rem;

@@ -11,6 +11,7 @@ enableToc: false
 <section class="home-section latest-section">
   <p class="section-label">Latest</p>
   <h2>최근 글</h2>
+  <!-- 최근 글은 최대 3개만 노출합니다. -->
   <div class="latest-list">
     <a href="./research/2026-05-28_published_en_ai-adoption-dynamic-capability-mediation">
       <span>Why Do Companies Remain the Same After Adopting AI?</span>
