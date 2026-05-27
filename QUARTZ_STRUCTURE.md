@@ -6,7 +6,8 @@
 
 ```text
 Academic_WIKI 전체를 공개하지 않는다.
-06_Published 중 quartz_status: ready_for_quartz 인 글만 공개한다.
+06_Published 중 quartz_status: ready_for_quartz 이고 quartz_user_approved: true 인 글만 공개한다.
+Quartz로 넘어가기 전에는 반드시 김민조가 최종 확인한다.
 ```
 
 ## 1. 전체 구조
@@ -41,6 +42,7 @@ Academic_WIKI/06_Published
   조건:
     status: published
     quartz_status: ready_for_quartz
+    quartz_user_approved: true
   ↓
 scripts/sync-published.ps1
   ↓
@@ -103,6 +105,15 @@ RSS/Sitemap: enabled
 .\scripts\sync-published.ps1
 ```
 
+승인되지 않은 글은 동기화되지 않는다.
+승인 조건은 해당 글 frontmatter에 아래 값을 넣는 것이다.
+
+```yaml
+quartz_user_approved: true
+quartz_user_approved_at: YYYY-MM-DD
+quartz_user_approval_note: "김민조 최종 확인 후 Quartz 반영 승인"
+```
+
 로컬 빌드:
 
 ```powershell
@@ -131,4 +142,3 @@ http://localhost:8080
 ```text
 Academic_Quartz_v4
 ```
-

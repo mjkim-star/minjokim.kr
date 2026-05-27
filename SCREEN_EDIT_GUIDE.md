@@ -148,7 +148,11 @@ Academic_WIKI/06_Published
 ```text
 status: published
 quartz_status: ready_for_quartz
+quartz_user_approved: true
 ```
+
+`quartz_user_approved: true`는 김민조가 최종 글을 확인한 뒤에만 넣는다.
+이 값이 없으면 Published 폴더에 있어도 Quartz로 넘어가지 않는다.
 
 동기화:
 
@@ -172,4 +176,3 @@ Quartz 첫 화면을 더 학술적이고 보기 좋게 꾸며줘.
 연구 범주를 카드 형태로 바꿔줘.
 글 목록을 연구 에세이/방법론 노트/이론 노트로 나눠줘.
 ```
-
