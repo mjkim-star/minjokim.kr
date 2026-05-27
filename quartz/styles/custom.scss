@@ -1,6 +1,6 @@
 @use "./base.scss";
 .home-section {
-  margin: 1.1rem 0;
+  margin: 1.15rem 0;
 }
 
 .section-label {
@@ -13,7 +13,7 @@
 }
 
 .latest-section h2 {
-  margin: 0 0 0.75rem;
+  margin: 0 0 0.65rem;
   font-size: 1.35rem;
 }
 
@@ -29,13 +29,34 @@
 
 .intro-section {
   font-size: 1rem;
-  line-height: 1.8;
+  line-height: 1.45;
+}
+
+.intro-section p {
+  margin: 0;
+}
+
+.intro-line + .intro-line {
+  margin-top: 0.25rem;
+}
+
+.intro-question {
+  margin-top: 0.75rem !important;
+  font-weight: 700;
+  color: var(--dark);
+}
+
+.intro-body {
+  margin-top: 0.75rem !important;
+  color: var(--darkgray);
+  line-height: 1.55;
 }
 
 .home-divider {
   border: 0;
-  border-top: 1px solid var(--lightgray);
-  margin: 1.65rem 0;
+  border-top: 2px solid var(--lightgray);
+  margin: 1.8rem 0;
+  opacity: 0.95;
 }
 
 .research-cards {
