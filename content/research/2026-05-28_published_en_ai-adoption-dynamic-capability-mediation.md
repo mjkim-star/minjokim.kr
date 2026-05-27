@@ -148,10 +148,3 @@ This is where the academic argument ends. Someone may later turn this method int
 [^jie2025]: Jie, Gooi, and Lou's 2025 PLS-SEM study of 587 Chinese high-tech SMEs. The source note summarizes dynamic capabilities as a mediator between digital maturity and innovation performance.
 [^axconcept]: Kim Minjo's methodological note on classifying AI-worker division by repetition, exception rate, and contextual dependence.
 [^helfat2015]: Helfat & Peteraf (2015), *Managerial Cognitive Capabilities and the Microfoundations of Dynamic Capabilities*.
-
----
-
-© 2026 Kim Minjo.
-
-This essay is the English version of an original article published in Kim Minjo Research Notes.  
-If you quote or share part of this essay, please include the source and the original link.

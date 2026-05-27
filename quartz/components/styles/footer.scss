@@ -13,4 +13,9 @@ footer {
   & a {
     font-weight: 400;
   }
+
+  & .source-note {
+    margin-top: 0.55rem;
+    max-width: 48rem;
+  }
 }
