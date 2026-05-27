@@ -30,7 +30,7 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconVersion = "20260527-mono-smile"
     const iconPath = `${joinSegments(baseDir, "static/icon.png")}?v=${iconVersion}`
-    const faviconPath = `${joinSegments(baseDir, "favicon.ico")}?v=${iconVersion}`
+    const faviconPath = `${joinSegments(baseDir, "static/favicon-mono-smile.png")}?v=${iconVersion}`
 
     // Url of current page
     const socialUrl =
@@ -141,7 +141,7 @@ export default (() => {
           </>
         )}
 
-        <link rel="icon" href={iconPath} type="image/png" />
+        <link rel="icon" href={faviconPath} type="image/png" />
         <link rel="shortcut icon" href={faviconPath} />
         <link rel="apple-touch-icon" href={iconPath} />
         <link rel="canonical" href={canonicalUrl} />
