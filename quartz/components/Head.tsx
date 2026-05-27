@@ -52,7 +52,7 @@ export default (() => {
           author: {
             "@type": "Person",
             name: author,
-            jobTitle: "경영학박사, 경영지도사",
+            jobTitle: "경영학 박사, 경영지도사",
           },
           publisher: {
             "@type": "Person",
@@ -75,7 +75,7 @@ export default (() => {
           author: {
             "@type": "Person",
             name: "김민조",
-            jobTitle: "경영학박사, 경영지도사",
+            jobTitle: "경영학 박사, 경영지도사",
           },
         }
     const jsonLdText = JSON.stringify(jsonLd).replace(/</g, "\\u003c")

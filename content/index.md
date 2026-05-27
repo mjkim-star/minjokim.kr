@@ -24,7 +24,7 @@ enableToc: false
     <p class="section-label">About</p>
   </div>
 
-<p class="intro-line">경영학박사이자 경영지도사입니다.</p>
+<p class="intro-line">경영학 박사이자 경영지도사입니다.</p>
 
 <p class="intro-line">전략, 동적역량, 의사결정, AI 전환을 연구합니다.</p>
 
