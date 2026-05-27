@@ -11,6 +11,7 @@ Set-Location $projectRoot
 
 $sourceRoot = Resolve-Path $WikiPublished
 $targetRoot = Resolve-Path $QuartzResearch
+$writerNotify = Resolve-Path (Join-Path $projectRoot "..\Academic_WIKI\.claude\scripts\writer-notify.ps1") -ErrorAction SilentlyContinue
 
 $files = Get-ChildItem -LiteralPath $sourceRoot -Filter "*.md" -File
 $synced = 0
@@ -57,3 +58,24 @@ foreach ($file in $files) {
 
 Write-Host "Synced approved published files:" $synced
 Write-Host "Skipped pending user approval:" $skippedApproval
+
+if ($writerNotify) {
+  if ($skippedApproval -gt 0) {
+    & $writerNotify.Path `
+      -Stage "quartz-sync" `
+      -Status "APPROVAL REQUIRED" `
+      -Message "Quartz 동기화에서 사용자 승인 전 파일 $skippedApproval개를 보류했습니다. Obsidian Published 파일에 quartz_user_approved: true를 넣어 승인해야 홈페이지로 넘어갑니다."
+  }
+  elseif ($synced -gt 0) {
+    & $writerNotify.Path `
+      -Stage "quartz-sync" `
+      -Status "DONE" `
+      -Message "사용자 승인된 Published 파일 $synced개를 Quartz research로 동기화했습니다. 빌드/배포 확인이 필요합니다."
+  }
+  else {
+    & $writerNotify.Path `
+      -Stage "quartz-sync" `
+      -Status "NO CHANGE" `
+      -Message "Quartz로 동기화할 승인 완료 Published 파일이 없습니다."
+  }
+}
