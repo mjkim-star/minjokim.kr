@@ -20,7 +20,7 @@ enableToc: false
 
 <section class="home-section intro-section">
   <div class="intro-mark-row">
-    <img class="intro-mark" src="./static/icon.png?v=20260527-mono-smile" alt="" />
+    <img class="intro-mark" src="/static/icon.png" alt="" />
     <p class="section-label">About</p>
   </div>
 

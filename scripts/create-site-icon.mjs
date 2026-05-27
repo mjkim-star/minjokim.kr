@@ -21,7 +21,7 @@ const svg = `
   />
 </svg>`
 
-const png = sharp(Buffer.from(svg)).png()
+const svgBuffer = Buffer.from(svg)
 
-await png.clone().toFile("quartz/static/icon.png")
-await png.clone().resize(48, 48).toFile("quartz/static/favicon-mono-smile.png")
+await sharp(svgBuffer).png().toFile("quartz/static/icon.png")
+await sharp(svgBuffer).resize(48, 48).png().toFile("quartz/static/favicon-mono-smile.png")
