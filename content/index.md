@@ -43,7 +43,7 @@ enableToc: false
   </section>
   <section>
     <strong>방법론과 진단틀</strong>
-    <span>반복해서 사용할 수 있는 분류와 개념 모델을 만듭니다.</span>
+    <span>방법론을 모색하고, 개념 모델을 확장합니다.</span>
   </section>
   <section>
     <strong>AI와 업무 구조</strong>
