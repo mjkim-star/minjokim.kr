@@ -12,7 +12,7 @@ enableToc: false
   <p class="section-label">Latest</p>
   <h2>최근 글</h2>
   <p class="latest-link">
-    <a href="./research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">AI를 넣었는데 왜 회사는 달라지지 않는가</a>
+    <a href="./research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">AI를 도입했는데 왜 회사는 달라지지 않는가?</a>
   </p>
 </section>
 
