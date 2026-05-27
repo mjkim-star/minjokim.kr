@@ -19,7 +19,10 @@ enableToc: false
 <hr class="home-divider" />
 
 <section class="home-section intro-section">
-  <p class="section-label">About</p>
+  <div class="intro-mark-row">
+    <img class="intro-mark" src="./static/icon.png?v=20260527-mono-smile" alt="" />
+    <p class="section-label">About</p>
+  </div>
 
 <p class="intro-line">경영학박사이자 경영지도사입니다.</p>
 

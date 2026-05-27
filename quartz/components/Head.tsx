@@ -28,7 +28,7 @@ export default (() => {
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
-    const iconVersion = "20260527-simple"
+    const iconVersion = "20260527-mono-smile"
     const iconPath = `${joinSegments(baseDir, "static/icon.png")}?v=${iconVersion}`
     const faviconPath = `${joinSegments(baseDir, "favicon.ico")}?v=${iconVersion}`
 
