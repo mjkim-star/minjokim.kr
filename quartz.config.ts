@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     locale: "ko-KR",
     baseUrl: "minjokim.kr",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

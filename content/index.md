@@ -2,6 +2,7 @@
 title: 김민조 연구노트
 description: 조직, 전략, 동적역량, AI 전환을 이론과 방법론의 관점에서 탐구하는 공개 연구노트
 date: 2026-05-27
+published: 2026-05-27
 enableToc: false
 ---
 

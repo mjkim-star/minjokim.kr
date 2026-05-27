@@ -19,6 +19,9 @@ export default (() => {
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
       unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+    const author = String(fileData.frontmatter?.author ?? "김민조")
+    const isHome = fileData.slug === "index"
+    const isArticle = !isHome && fileData.slug !== "404"
 
     const { css, js, additionalHead } = externalResources
 
@@ -30,6 +33,50 @@ export default (() => {
     // Url of current page
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+    const canonicalUrl = socialUrl
+    const datePublished =
+      fileData.frontmatter?.published?.toString() ?? fileData.dates?.published?.toISOString()
+    const dateModified =
+      fileData.frontmatter?.modified?.toString() ??
+      fileData.frontmatter?.published?.toString() ??
+      fileData.dates?.modified?.toISOString()
+    const tags = fileData.frontmatter?.tags ?? []
+    const jsonLd = isArticle
+      ? {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          headline: fileData.frontmatter?.title ?? title,
+          description,
+          author: {
+            "@type": "Person",
+            name: author,
+            jobTitle: "경영학박사, 경영지도사",
+          },
+          publisher: {
+            "@type": "Person",
+            name: "김민조",
+          },
+          datePublished,
+          dateModified,
+          inLanguage: cfg.locale,
+          mainEntityOfPage: canonicalUrl,
+          url: canonicalUrl,
+          keywords: Array.isArray(tags) ? tags.join(", ") : String(tags),
+        }
+      : {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          name: cfg.pageTitle,
+          description,
+          url: canonicalUrl,
+          inLanguage: cfg.locale,
+          author: {
+            "@type": "Person",
+            name: "김민조",
+            jobTitle: "경영학박사, 경영지도사",
+          },
+        }
+    const jsonLdText = JSON.stringify(jsonLd).replace(/</g, "\\u003c")
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
@@ -55,12 +102,22 @@ export default (() => {
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={isArticle ? "article" : "website"} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
+        <meta name="author" content={author} />
+        <meta name="robots" content="index, follow, max-image-preview:large" />
+        {isArticle && datePublished && (
+          <meta property="article:published_time" content={datePublished} />
+        )}
+        {isArticle && dateModified && <meta property="article:modified_time" content={dateModified} />}
+        {isArticle && <meta property="article:author" content={author} />}
+        {isArticle &&
+          Array.isArray(tags) &&
+          tags.map((tag) => <meta property="article:tag" content={String(tag)} />)}
 
         {!usesCustomOgImage && (
           <>
@@ -83,8 +140,10 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        <link rel="canonical" href={canonicalUrl} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdText }} />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

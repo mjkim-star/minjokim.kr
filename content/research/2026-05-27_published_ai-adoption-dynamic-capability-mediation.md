@@ -1,9 +1,17 @@
 ---
 title: AI를 넣었는데 왜 회사는 달라지지 않는가
+description: AI 도입의 성과가 도구 자체가 아니라 조직의 감지, 선택, 재구성 회로와 동적역량에서 나온다는 점을 설명하는 연구 에세이입니다.
 type: published
 status: published
 created: 2026-05-27
+published: 2026-05-27
 published_at: 2026-05-27
+author: 김민조
+tags:
+  - AI전환
+  - 동적역량
+  - 조직이론
+  - 의사결정
 channel: Quartz
 quartz_status: ready_for_quartz
 domain: minjokim.kr
