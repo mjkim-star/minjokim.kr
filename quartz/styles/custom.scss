@@ -1,4 +1,29 @@
 @use "./base.scss";
+
+:root {
+  --zhFont: "Noto Sans SC", "Microsoft YaHei", "PingFang SC", "Source Han Sans SC", "Hiragino Sans GB", sans-serif;
+}
+
+body[data-slug*="_zh_"] {
+  font-family: var(--zhFont);
+}
+
+body[data-slug*="_zh_"] h1,
+body[data-slug*="_zh_"] h2,
+body[data-slug*="_zh_"] h3,
+body[data-slug*="_zh_"] .article-title,
+.latest-list a[data-slug*="_zh_"],
+.explorer-content a[data-for*="_zh_"] {
+  font-family: var(--zhFont);
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+body[data-slug*="_zh_"] article p,
+body[data-slug*="_zh_"] article li {
+  line-height: 1.78;
+}
+
 .home-section {
   margin: 1.15rem 0;
 }
