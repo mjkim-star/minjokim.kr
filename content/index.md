@@ -14,11 +14,11 @@ enableToc: false
   <!-- 최근 글은 최대 3개만 노출합니다. -->
   <div class="latest-list">
     <a href="./research/2026-05-29_published_zh_sme-ambidexterity-boundary">
-      <span>双元能力何时不再是优点，而成为成本？</span>
+      <span>双元组织何时不再是优点，而成为成本？</span>
       <time>2026.05.29</time>
     </a>
     <a href="./research/2026-05-29_published_sme-ambidexterity-boundary">
-      <span>양손잡이는 언제 미덕이 아니라 비용이 되는가?</span>
+      <span>"양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?</span>
       <time>2026.05.29</time>
     </a>
     <a href="./research/2026-05-28_published_en_ai-adoption-dynamic-capability-mediation">
