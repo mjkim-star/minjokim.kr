@@ -1,5 +1,38 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileTrieNode } from "./quartz/util/fileTrie"
+
+const explorerSortByOriginalGroup = (a: FileTrieNode, b: FileTrieNode) => {
+  if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+    const key = (node: FileTrieNode) => {
+      const slug = node.slug ?? ""
+      const title = node.displayName ?? ""
+
+      if (slug.includes("sme-ambidexterity-boundary")) {
+        if (slug.includes("_zh_")) return "2026-05-29-01-translation-zh"
+        return "2026-05-29-00-original-ko"
+      }
+
+      if (slug.includes("ai-adoption-dynamic-capability-mediation")) {
+        if (slug.includes("_en_")) return "2026-05-27-01-translation-en"
+        return "2026-05-27-00-original-ko"
+      }
+
+      return `${title}`.toLowerCase()
+    }
+
+    return key(a).localeCompare(key(b), undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  }
+
+  if (!a.isFolder && b.isFolder) {
+    return 1
+  } else {
+    return -1
+  }
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -46,6 +79,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       folderDefaultState: "open",
       useSavedState: false,
+      sortFn: explorerSortByOriginalGroup,
     }),
   ],
   right: [
@@ -73,6 +107,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       folderDefaultState: "open",
       useSavedState: false,
+      sortFn: explorerSortByOriginalGroup,
     }),
   ],
   right: [],

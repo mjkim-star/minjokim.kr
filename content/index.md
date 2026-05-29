@@ -11,20 +11,28 @@ enableToc: false
 <section class="home-section latest-section">
   <p class="section-label">Latest</p>
   <h2>최근 글</h2>
-  <!-- 최근 글은 최대 3개만 노출합니다. -->
+  <!-- 최근 글은 원문 기준 최대 3개 묶음만 노출합니다. 번역본은 원문 바로 아래에 둡니다. -->
   <div class="latest-list">
-    <a href="./research/2026-05-29_published_zh_sme-ambidexterity-boundary">
-      <span>双元组织何时不再是优点，而成为成本？</span>
-      <time>2026.05.29</time>
-    </a>
-    <a href="./research/2026-05-29_published_sme-ambidexterity-boundary">
-      <span>"양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?</span>
-      <time>2026.05.29</time>
-    </a>
-    <a href="./research/2026-05-28_published_en_ai-adoption-dynamic-capability-mediation">
-      <span>Why Do Companies Remain the Same After Adopting AI?</span>
-      <time>2026.05.28</time>
-    </a>
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-05-29_published_sme-ambidexterity-boundary">
+        <span>"양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?</span>
+        <time>2026.05.29</time>
+      </a>
+      <a class="latest-translation" href="./research/2026-05-29_published_zh_sme-ambidexterity-boundary">
+        <span><small>중문 번역</small> 双元组织何时不再是优点，而成为成本？</span>
+        <time>2026.05.29</time>
+      </a>
+    </div>
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">
+        <span>AI를 도입했는데 왜 회사는 달라지지 않는가?</span>
+        <time>2026.05.27</time>
+      </a>
+      <a class="latest-translation" href="./research/2026-05-28_published_en_ai-adoption-dynamic-capability-mediation">
+        <span><small>영문 번역</small> Why Do Companies Remain the Same After Adopting AI?</span>
+        <time>2026.05.28</time>
+      </a>
+    </div>
   </div>
 </section>
 
