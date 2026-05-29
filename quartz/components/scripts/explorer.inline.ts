@@ -20,6 +20,38 @@ type FolderState = {
 }
 
 let currentExplorerState: Array<FolderState>
+
+function sortResearchEntries<T extends FileTrieNode>(nodes: T[]): T[] {
+  return nodes.sort((a, b) => {
+    const aSlug = a.slug ?? ""
+    const bSlug = b.slug ?? ""
+    const aDate = `${aSlug}`.match(/\d{4}-\d{2}-\d{2}/)?.[0] ?? ""
+    const bDate = `${bSlug}`.match(/\d{4}-\d{2}-\d{2}/)?.[0] ?? ""
+
+    if (aDate !== bDate) {
+      return bDate.localeCompare(aDate)
+    }
+
+    const aIsTranslation = /_(en|zh)_/.test(aSlug)
+    const bIsTranslation = /_(en|zh)_/.test(bSlug)
+    if (aIsTranslation !== bIsTranslation) {
+      return aIsTranslation ? 1 : -1
+    }
+
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  })
+}
+
+function sortResearchFolder(trie: FileTrieNode) {
+  const research = trie.children.find((node) => node.isFolder && node.slugSegment === "research")
+  if (research) {
+    research.children = sortResearchEntries(research.children)
+  }
+}
+
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
@@ -194,6 +226,7 @@ async function setupExplorer(currentSlug: FullSlug) {
           break
       }
     }
+    sortResearchFolder(trie)
 
     // Get folder paths for state management
     const folderPaths = trie.getFolderPaths()

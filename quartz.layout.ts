@@ -1,32 +1,27 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-function explorerSortByOriginalGroup(a: any, b: any) {
+
+function explorerSortByRecentDate(a: any, b: any) {
   if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-    let aKey = `${a.displayName ?? ""}`.toLowerCase()
-    let bKey = `${b.displayName ?? ""}`.toLowerCase()
     const aSlug = a.slug ?? ""
     const bSlug = b.slug ?? ""
+    const aDate =
+      a.data?.date?.slice?.(0, 10) ?? `${aSlug}`.match(/\d{4}-\d{2}-\d{2}/)?.[0] ?? ""
+    const bDate =
+      b.data?.date?.slice?.(0, 10) ?? `${bSlug}`.match(/\d{4}-\d{2}-\d{2}/)?.[0] ?? ""
 
-    if (aSlug.includes("sme-ambidexterity-boundary")) {
-      aKey = aSlug.includes("_zh_")
-        ? "2026-05-29-01-translation-zh"
-        : "2026-05-29-00-original-ko"
-    } else if (aSlug.includes("ai-adoption-dynamic-capability-mediation")) {
-      aKey = aSlug.includes("_en_")
-        ? "2026-05-27-01-translation-en"
-        : "2026-05-27-00-original-ko"
+    if (aDate !== bDate) {
+      return bDate.localeCompare(aDate)
     }
 
-    if (bSlug.includes("sme-ambidexterity-boundary")) {
-      bKey = bSlug.includes("_zh_")
-        ? "2026-05-29-01-translation-zh"
-        : "2026-05-29-00-original-ko"
-    } else if (bSlug.includes("ai-adoption-dynamic-capability-mediation")) {
-      bKey = bSlug.includes("_en_")
-        ? "2026-05-27-01-translation-en"
-        : "2026-05-27-00-original-ko"
+    const aIsTranslation = /_(en|zh)_/.test(aSlug)
+    const bIsTranslation = /_(en|zh)_/.test(bSlug)
+    if (aIsTranslation !== bIsTranslation) {
+      return aIsTranslation ? 1 : -1
     }
 
+    const aKey = `${a.displayName ?? ""}`.toLowerCase()
+    const bKey = `${b.displayName ?? ""}`.toLowerCase()
     return aKey.localeCompare(bKey, undefined, {
       numeric: true,
       sensitivity: "base",
@@ -85,7 +80,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       folderDefaultState: "open",
       useSavedState: false,
-      sortFn: explorerSortByOriginalGroup,
+      sortFn: explorerSortByRecentDate,
     }),
   ],
   right: [
@@ -113,7 +108,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       folderDefaultState: "open",
       useSavedState: false,
-      sortFn: explorerSortByOriginalGroup,
+      sortFn: explorerSortByRecentDate,
     }),
   ],
   right: [],
