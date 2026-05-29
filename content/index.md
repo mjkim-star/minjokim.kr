@@ -13,6 +13,10 @@ enableToc: false
   <h2>최근 글</h2>
   <!-- 최근 글은 최대 3개만 노출합니다. -->
   <div class="latest-list">
+    <a href="./research/2026-05-29_published_sme-ambidexterity-boundary">
+      <span>양손잡이는 언제 미덕이 아니라 비용이 되는가?</span>
+      <time>2026.05.29</time>
+    </a>
     <a href="./research/2026-05-28_published_en_ai-adoption-dynamic-capability-mediation">
       <span>Why Do Companies Remain the Same After Adopting AI?</span>
       <time>2026.05.28</time>
