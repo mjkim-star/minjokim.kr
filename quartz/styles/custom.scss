@@ -32,7 +32,9 @@
   display: grid;
   gap: 0.62rem;
   margin-top: 0.75rem;
+  width: 100%;
   max-width: 46rem;
+  box-sizing: border-box;
 }
 
 .latest-list a {
@@ -41,6 +43,7 @@
   justify-content: space-between;
   gap: 1rem;
   width: 100%;
+  box-sizing: border-box;
   padding: 0.72rem 0.85rem;
   border: 1px solid color-mix(in srgb, var(--lightgray) 82%, transparent);
   border-radius: 6px;
@@ -228,12 +231,17 @@
 
   .latest-list {
     gap: 0.58rem;
+    max-width: 100%;
   }
 
   .latest-list a {
     display: grid;
     gap: 0.2rem;
-    padding: 0.78rem 0.82rem;
+    width: 100%;
+    max-width: 100%;
+    padding: 0.78rem 0.78rem;
+    border-color: color-mix(in srgb, var(--lightgray) 70%, transparent);
+    background: color-mix(in srgb, var(--light) 94%, var(--darkgray) 6%);
     font-size: clamp(1.02rem, 4.2vw, 1.12rem);
     overflow-wrap: anywhere;
     word-break: keep-all;
