@@ -1,27 +1,33 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { FileTrieNode } from "./quartz/util/fileTrie"
-
-const explorerSortByOriginalGroup = (a: FileTrieNode, b: FileTrieNode) => {
+function explorerSortByOriginalGroup(a: any, b: any) {
   if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-    const key = (node: FileTrieNode) => {
-      const slug = node.slug ?? ""
-      const title = node.displayName ?? ""
+    let aKey = `${a.displayName ?? ""}`.toLowerCase()
+    let bKey = `${b.displayName ?? ""}`.toLowerCase()
+    const aSlug = a.slug ?? ""
+    const bSlug = b.slug ?? ""
 
-      if (slug.includes("sme-ambidexterity-boundary")) {
-        if (slug.includes("_zh_")) return "2026-05-29-01-translation-zh"
-        return "2026-05-29-00-original-ko"
-      }
-
-      if (slug.includes("ai-adoption-dynamic-capability-mediation")) {
-        if (slug.includes("_en_")) return "2026-05-27-01-translation-en"
-        return "2026-05-27-00-original-ko"
-      }
-
-      return `${title}`.toLowerCase()
+    if (aSlug.includes("sme-ambidexterity-boundary")) {
+      aKey = aSlug.includes("_zh_")
+        ? "2026-05-29-01-translation-zh"
+        : "2026-05-29-00-original-ko"
+    } else if (aSlug.includes("ai-adoption-dynamic-capability-mediation")) {
+      aKey = aSlug.includes("_en_")
+        ? "2026-05-27-01-translation-en"
+        : "2026-05-27-00-original-ko"
     }
 
-    return key(a).localeCompare(key(b), undefined, {
+    if (bSlug.includes("sme-ambidexterity-boundary")) {
+      bKey = bSlug.includes("_zh_")
+        ? "2026-05-29-01-translation-zh"
+        : "2026-05-29-00-original-ko"
+    } else if (bSlug.includes("ai-adoption-dynamic-capability-mediation")) {
+      bKey = bSlug.includes("_en_")
+        ? "2026-05-27-01-translation-en"
+        : "2026-05-27-00-original-ko"
+    }
+
+    return aKey.localeCompare(bKey, undefined, {
       numeric: true,
       sensitivity: "base",
     })
