@@ -30,10 +30,9 @@
 
 .latest-list {
   display: grid;
-  gap: 0;
+  gap: 0.62rem;
   margin-top: 0.75rem;
   max-width: 46rem;
-  border-top: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
 }
 
 .latest-list a {
@@ -42,13 +41,21 @@
   justify-content: space-between;
   gap: 1rem;
   width: 100%;
-  padding: 0.62rem 0;
-  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
+  padding: 0.72rem 0.85rem;
+  border: 1px solid color-mix(in srgb, var(--lightgray) 82%, transparent);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--light) 88%, var(--darkgray) 12%);
   color: var(--secondary);
   font-size: 1.08rem;
   font-weight: 600;
   line-height: 1.45;
   text-decoration: none;
+}
+
+.latest-list a span {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
 }
 
 .latest-list a:nth-of-type(n + 4) {
@@ -220,14 +227,16 @@
   }
 
   .latest-list {
-    gap: 0;
+    gap: 0.58rem;
   }
 
   .latest-list a {
     display: grid;
     gap: 0.2rem;
-    padding: 0.72rem 0;
+    padding: 0.78rem 0.82rem;
     font-size: clamp(1.02rem, 4.2vw, 1.12rem);
+    overflow-wrap: anywhere;
+    word-break: keep-all;
   }
 
   .latest-list time {
@@ -260,6 +269,17 @@
 
   .research-cards section {
     padding: 0.85rem 0.9rem;
+  }
+
+  .explorer-content .folder-outer > ul > li > a {
+    padding: 0.58rem 0.08rem 0.62rem 0;
+    line-height: 1.48;
+    overflow-wrap: anywhere;
+    word-break: keep-all;
+  }
+
+  .explorer-content .folder-outer > ul > li {
+    border-bottom-color: color-mix(in srgb, var(--lightgray) 82%, transparent);
   }
 }
 
