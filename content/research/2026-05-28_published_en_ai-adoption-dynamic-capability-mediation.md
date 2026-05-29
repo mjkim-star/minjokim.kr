@@ -34,7 +34,7 @@ When a company adopts AI, it often expects work to become faster. That expectati
 
 Yet a strange thing often happens at the organizational level. The tools arrive, but the company does not really change. A few employees use AI enthusiastically, but the team's way of working remains the same. More reports are produced, but decisions are still slow. Meetings repeat the phrase "we should use AI," while the organization has not decided which tasks should be delegated to AI and which judgments must remain with people.
 
-In that situation, the problem may not be AI performance. More precisely, the problem may be whether the company has a working circuit for sensing, choosing, and reconfiguring work before the technology is introduced. In management theory, this capability is often discussed as dynamic capabilities. David Teece describes dynamic capabilities as a firm's ability to integrate, build, and reconfigure resources in response to changing environments.[^teece2007]
+In that situation, the problem may not be AI performance. More precisely, the problem may be whether the company has a working circuit for sensing, choosing, and reconfiguring work before the technology is introduced. In management theory, this capability is often discussed as dynamic capabilities. David Teece describes dynamic capabilities as a firm's ability to integrate, build, and reconfigure resources in response to changing environments.[1]
 
 The argument of this essay is simple. The impact of AI adoption does not come directly from AI itself. It emerges when AI enters the organization's circuit of sensing, choosing, and reconfiguring.
 
@@ -42,7 +42,7 @@ The argument of this essay is simple. The impact of AI adoption does not come di
 
 Discussions of digital transformation often skip one important point. There is a missing space between tools and performance. Buying software does not automatically increase revenue. Introducing automation does not automatically create innovation. Building a dashboard does not automatically improve decision-making.
 
-Recent studies on small and medium-sized enterprises explain this missing space through dynamic capabilities. Digital maturity can lead to innovation performance only when sensing, seizing, and reconfiguring capabilities operate between the tool and the outcome. A 2025 study by Jie, Gooi, and Lou, based on 587 Chinese high-tech SMEs, also suggests that dynamic capabilities mediate the relationship between digital maturity and innovation performance.[^jie2025]
+Recent studies on small and medium-sized enterprises explain this missing space through dynamic capabilities. Digital maturity can lead to innovation performance only when sensing, seizing, and reconfiguring capabilities operate between the tool and the outcome. A 2025 study by Jie, Gooi, and Lou, based on 587 Chinese high-tech SMEs, also suggests that dynamic capabilities mediate the relationship between digital maturity and innovation performance.[2]
 
 In plain language, a company does not perform better simply because it has introduced a new tool. If it does not know what to observe, performance does not follow. If it cannot choose which opportunity to pursue, performance does not follow. If it cannot change existing roles, routines, and responsibilities after making a choice, performance does not follow.
 
@@ -58,7 +58,7 @@ In Korean business practice, AI is often described as an "AI employee." The phra
 
 But the phrase also hides an important issue. If AI is imagined as another employee, it becomes easy to think that the company only needs to place one more "person" into the existing organizational chart. Real change does not happen that way. When AI enters the organization, a new person is not simply added. The boundaries of work are redrawn. Some tasks move toward AI, some human judgments become more important, and the points at which people must intervene also change.
 
-This is why AI transformation is not just technology adoption. It is closer to the redesign of work. At a minimum, three criteria are needed: how repetitive the task is, how often exceptions occur, and how much contextual judgment is required.[^axconcept]
+This is why AI transformation is not just technology adoption. It is closer to the redesign of work. At a minimum, three criteria are needed: how repetitive the task is, how often exceptions occur, and how much contextual judgment is required.[3]
 
 Tasks that are highly repetitive, low in exceptions, and low in contextual judgment can be delegated to AI more easily. Tasks with many exceptions and high contextual dependence may allow AI to produce drafts, but final judgment remains difficult to delegate. If a company says "let us become more efficient with AI" without this distinction, it is placing a fast tool inside a slow structure.
 
@@ -82,7 +82,7 @@ At the same time, SMEs often have weaker dynamic capability circuits. They may n
 
 In such a structure, AI adoption does not easily translate into performance. Some companies fail because they do not have AI. But more companies may fail even after adopting AI. The difference lies not in the tool, but in cognition and organizational circuitry.
 
-Research on managerial cognitive capabilities helps clarify this issue. Constance Helfat and Margaret Peteraf connect the microfoundations of dynamic capabilities to managerial attention, problem solving, language, communication, and social cognition.[^helfat2015]
+Research on managerial cognitive capabilities helps clarify this issue. Constance Helfat and Margaret Peteraf connect the microfoundations of dynamic capabilities to managerial attention, problem solving, language, communication, and social cognition.[4]
 
 AI adoption tests precisely these cognitive capabilities. What signals should managers attend to? What should be named as the problem? How should the change be explained to employees? How should resistance be interpreted? These are not merely technical questions.
 
@@ -142,9 +142,9 @@ AI adoption is not mainly a question of "what should we automate?" It is a quest
 
 This is where the academic argument ends. Someone may later turn this method into a tool, a service, or an educational program. That is a later stage. The scope of this essay is to build a method on top of theory.
 
-## Notes
+## References and Notes
 
-[^teece2007]: Teece's discussion of dynamic capabilities and sensing, seizing, transforming/reconfiguring.
-[^jie2025]: Jie, Gooi, and Lou's 2025 PLS-SEM study of 587 Chinese high-tech SMEs. The source note summarizes dynamic capabilities as a mediator between digital maturity and innovation performance.
-[^axconcept]: Kim Minjo's methodological note on classifying AI-worker division by repetition, exception rate, and contextual dependence.
-[^helfat2015]: Helfat & Peteraf (2015), *Managerial Cognitive Capabilities and the Microfoundations of Dynamic Capabilities*.
+1. 2026-05-14_paper_teece-dynamic-capabilities-microfoundations — Teece's discussion of dynamic capabilities and sensing, seizing, transforming/reconfiguring.
+2. 2026-05-16_paper_jie-gooi-lou-digital-maturity-dc-hightech-sme-2025 — Jie, Gooi, and Lou's 2025 PLS-SEM study of 587 Chinese high-tech SMEs. The source note summarizes dynamic capabilities as a mediator between digital maturity and innovation performance.
+3. AX_AI직원분업_역할재정의 — Kim Minjo's methodological note on classifying AI-worker division by repetition, exception rate, and contextual dependence.
+4. 2026-05-19_paper_helfat-peteraf-2015-managerial-cognitive-capabilities — Helfat & Peteraf (2015), *Managerial Cognitive Capabilities and the Microfoundations of Dynamic Capabilities*.
