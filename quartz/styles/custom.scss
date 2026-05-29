@@ -30,8 +30,10 @@
 
 .latest-list {
   display: grid;
-  gap: 0.45rem;
+  gap: 0;
   margin-top: 0.75rem;
+  max-width: 46rem;
+  border-top: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
 }
 
 .latest-list a {
@@ -40,8 +42,8 @@
   justify-content: space-between;
   gap: 1rem;
   width: 100%;
-  max-width: 46rem;
-  padding: 0.24rem 0;
+  padding: 0.62rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 78%, transparent);
   color: var(--secondary);
   font-size: 1.08rem;
   font-weight: 600;
@@ -218,12 +220,13 @@
   }
 
   .latest-list {
-    gap: 0.6rem;
+    gap: 0;
   }
 
   .latest-list a {
     display: grid;
-    gap: 0.12rem;
+    gap: 0.2rem;
+    padding: 0.72rem 0;
     font-size: clamp(1.02rem, 4.2vw, 1.12rem);
   }
 
@@ -258,5 +261,24 @@
   .research-cards section {
     padding: 0.85rem 0.9rem;
   }
+}
+
+.explorer-content .folder-outer > ul > li {
+  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 70%, transparent);
+}
+
+.explorer-content .folder-outer > ul > li:last-child {
+  border-bottom: 0;
+}
+
+.explorer-content .folder-outer > ul > li > a {
+  display: block;
+  padding: 0.44rem 0.1rem 0.48rem 0;
+  line-height: 1.42;
+}
+
+.explorer-content .folder-outer > ul > li > a:hover {
+  color: var(--secondary);
+  opacity: 1;
 }
 // put your custom CSS here!
