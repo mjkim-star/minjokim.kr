@@ -174,6 +174,78 @@ body[data-slug*="_zh_"] article li {
   opacity: 0.95;
 }
 
+.publications-section h2 {
+  margin: 0 0 0.45rem;
+  font-size: 1.25rem;
+}
+
+.publication-intro {
+  margin: 0 0 0.75rem;
+  color: var(--darkgray);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.publication-index-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.52rem 0.72rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  color: var(--secondary);
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.publication-index-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.18rem;
+}
+
+.publication-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 1.1rem 0 1.6rem;
+}
+
+.publication-card {
+  display: grid;
+  gap: 0.45rem;
+  padding: 0.95rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
+  color: var(--dark);
+  text-decoration: none;
+}
+
+.publication-card:hover strong {
+  color: var(--secondary);
+  text-decoration: underline;
+  text-underline-offset: 0.18rem;
+}
+
+.publication-type {
+  color: var(--secondary);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.publication-card strong {
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.publication-card small {
+  color: var(--darkgray);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
 .research-cards {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -334,6 +406,10 @@ body[data-slug*="_zh_"] article li {
   .research-cards {
     grid-template-columns: 1fr;
     gap: 0.65rem;
+  }
+
+  .publication-grid {
+    grid-template-columns: 1fr;
   }
 
   .research-cards section {

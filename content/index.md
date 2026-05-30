@@ -38,6 +38,15 @@ enableToc: false
 
 <hr class="home-divider" />
 
+<section class="home-section publications-section">
+  <p class="section-label">Publications</p>
+  <h2>논문과 저서</h2>
+  <p class="publication-intro">공개 가능한 논문과 저서를 별도로 정리합니다.</p>
+  <a class="publication-index-link" href="./publications/">논문과 저서 보기</a>
+</section>
+
+<hr class="home-divider" />
+
 <section class="home-section intro-section">
   <div class="intro-mark-row">
     <img class="intro-mark" src="/static/icon.png" alt="" />
