@@ -24,6 +24,34 @@ body[data-slug*="_zh_"] article li {
   line-height: 1.78;
 }
 
+body[data-slug^="research/"]:not([data-slug="research/index"]) article {
+  max-width: 46rem;
+}
+
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2 {
+  margin-top: 2.35rem;
+  padding-top: 1.15rem;
+  border-top: 1px solid color-mix(in srgb, var(--lightgray) 82%, transparent);
+  font-size: 1.22rem;
+  line-height: 1.38;
+}
+
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2:first-of-type {
+  margin-top: 2rem;
+}
+
+body[data-slug^="research/"]:not([data-slug="research/index"]) article p {
+  margin: 0.92rem 0;
+  line-height: 1.78;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+body[data-slug^="research/"]:not([data-slug="research/index"]) article hr {
+  margin: 2.1rem 0 1.65rem;
+  opacity: 0.72;
+}
+
 .home-section {
   margin: 1.15rem 0;
 }
@@ -557,6 +585,22 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
     line-height: 1.72;
     overflow-wrap: anywhere;
     word-break: keep-all;
+  }
+
+  body[data-slug^="research/"]:not([data-slug="research/index"]) article {
+    max-width: 100%;
+  }
+
+  body[data-slug^="research/"]:not([data-slug="research/index"]) article h2 {
+    margin-top: 1.9rem;
+    padding-top: 0.95rem;
+    font-size: clamp(1.08rem, 4.7vw, 1.22rem);
+    line-height: 1.38;
+  }
+
+  body[data-slug^="research/"]:not([data-slug="research/index"]) article p {
+    margin: 0.82rem 0;
+    line-height: 1.74;
   }
 
   .breadcrumb-container {
