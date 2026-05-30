@@ -9,6 +9,7 @@ enableToc: false
 # 김민조 연구노트
 
 <section class="home-section home-hero">
+  <p class="section-label hero-label">Research Note</p>
   <p class="hero-kicker">경영학 박사이자 경영지도사입니다.</p>
   <p class="hero-question">좋은 이론은 왜 현장에서 빈번하게 멈추는가.</p>
   <p class="hero-body">전략, 동적역량, 의사결정, AI 전환을 통해 이론이 다시 판단과 실행으로 이어지는 구조를 살핍니다.</p>
