@@ -52,13 +52,17 @@ body[data-slug^="research/"]:not([data-slug="research/index"]) article hr {
   opacity: 0.72;
 }
 
+body[data-slug="index"] article > h1:first-child {
+  display: none;
+}
+
 .home-section {
   margin: 1.15rem 0;
 }
 
 .home-hero {
   max-width: 44rem;
-  margin-top: 0.3rem;
+  margin-top: 0;
 }
 
 .home-hero p {
@@ -220,7 +224,7 @@ body[data-slug^="research/"]:not([data-slug="research/index"]) article hr {
 
 .intro-section {
   font-size: 1rem;
-  line-height: 1.45;
+  line-height: 1.5;
 }
 
 .intro-mark-row {
@@ -243,6 +247,8 @@ body[data-slug^="research/"]:not([data-slug="research/index"]) article hr {
 
 .intro-section p {
   margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
 }
 
 .intro-line + .intro-line {
@@ -258,7 +264,7 @@ body[data-slug^="research/"]:not([data-slug="research/index"]) article hr {
 .intro-body {
   margin-top: 0.75rem !important;
   color: var(--darkgray);
-  line-height: 1.55;
+  line-height: 1.5;
 }
 
 .home-divider {

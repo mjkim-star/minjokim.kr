@@ -17,7 +17,7 @@ enableToc: false
 <section class="home-section latest-section">
   <p class="section-label">Latest</p>
   <div class="section-title-row">
-    <h2>최근 글</h2>
+    <h2>최신 글</h2>
     <a class="section-count-link" href="./research">전체 글 보기</a>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 연구 글 목록에서 원문 아래에 둡니다. -->
