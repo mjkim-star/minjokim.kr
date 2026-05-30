@@ -8,8 +8,6 @@ enableToc: false
 
 # 김민조 연구노트
 
-<p class="home-identity">경영학 박사이자 경영지도사입니다. 좋은 이론이 현장에서 멈추는 지점과, 그것이 다시 판단과 실행으로 이어지는 구조를 연구합니다.</p>
-
 <section class="home-section latest-section">
   <p class="section-label">Latest</p>
   <h2>최근 글</h2>
