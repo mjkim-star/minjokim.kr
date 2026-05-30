@@ -85,7 +85,7 @@ enableToc: false
 <section class="home-section publications-section">
   <p class="section-label">Publications</p>
   <h2>논문과 저서</h2>
-  <p class="publication-intro">연구 범위와 연결되는 학위논문과 공저 이력을 공개 가능한 범위에서 정리합니다.</p>
+  <p class="publication-intro">연구 범위와 연결되는 학위논문과 공저 이력을 조용히 정리합니다.</p>
   <div class="publication-grid publication-preview-grid">
     <a class="publication-card" href="./research/papers-and-books/papers/master-thesis-sungkyunkwan-2015">
       <span class="publication-type">석사논문</span>
