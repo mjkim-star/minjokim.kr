@@ -9,7 +9,10 @@ enableToc: false
 # 김민조 연구노트
 
 <section class="home-section home-hero">
-  <p class="section-label hero-label">Research Note</p>
+  <div class="hero-label-row">
+    <img class="section-mark" src="/static/icon.png" alt="" />
+    <p class="section-label hero-label">Research Note</p>
+  </div>
   <p class="hero-kicker">경영학 박사이자 경영지도사입니다.</p>
   <p class="hero-question">좋은 이론은 왜 현장에서 빈번하게 멈추는가.</p>
   <p class="hero-body">전략, 동적역량, 의사결정, AI 전환을 통해 이론이 다시 판단과 실행으로 이어지는 구조를 살핍니다.</p>
@@ -41,10 +44,7 @@ enableToc: false
 <hr class="home-divider" />
 
 <section class="home-section intro-section">
-  <div class="intro-mark-row">
-    <img class="intro-mark" src="/static/icon.png" alt="" />
-    <p class="section-label">About</p>
-  </div>
+  <p class="section-label">About</p>
 
 <p class="intro-line">이곳의 글은 현장 문제에서 출발해 이론으로 구조를 살피고, 다시 판단과 실행의 언어로 풀어 쓰는 기록입니다.</p>
 
