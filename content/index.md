@@ -85,15 +85,15 @@ enableToc: false
 <section class="home-section publications-section">
   <p class="section-label">논문과 저서</p>
   <div class="publication-grid publication-preview-grid">
-    <a class="publication-card" href="./research/papers/master-thesis-sungkyunkwan-2015">
-      <span class="publication-type">석사논문</span>
-      <strong>한국제조기업의 재료비 원가행태에 관한 연구</strong>
-      <small>성균관대학교 · 2015년 · 원가행태와 관리회계</small>
-    </a>
     <a class="publication-card" href="./research/papers/phd-higher-order-resources-performance-persistence">
       <span class="publication-type">박사논문</span>
       <strong>고차자원이 성과 지속성에 미치는 영향</strong>
       <small>한양대학교 · 2025년 · 고차자원과 성과 지속성</small>
+    </a>
+    <a class="publication-card" href="./research/papers/master-thesis-sungkyunkwan-2015">
+      <span class="publication-type">석사논문</span>
+      <strong>한국제조기업의 재료비 원가행태에 관한 연구</strong>
+      <small>성균관대학교 · 2015년 · 원가행태와 관리회계</small>
     </a>
     <a class="publication-card" href="./research/books/barun-succession-guide">
       <span class="publication-type">저서</span>

@@ -1,33 +1,31 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// Returns the date string (YYYY-MM-DD) used for sorting.
-function nodeDate(n: any): string {
-  const slug = n.slug ?? ""
-  return n.data?.date?.slice?.(0, 10) ?? `${slug}`.match(/\d{4}-\d{2}-\d{2}/)?.[0] ?? ""
-}
-
-// Detect translation by frontmatter language first, then fall back to slug pattern.
-function isTranslation(n: any): boolean {
-  const lang = `${n.data?.frontmatter?.language ?? ""}`.toLowerCase()
-  if (lang && lang !== "ko" && lang !== "ko-kr") return true
-  const slug = n.slug ?? ""
-  return /_(en|zh)_/.test(slug)
-}
-
-// Translation group key — prefer explicit frontmatter, fall back to slug normalization.
-function translationGroupKey(n: any): string {
-  const fm = n.data?.frontmatter?.translationKey
-  if (typeof fm === "string" && fm.length > 0) return fm
-  const slug = `${n.slug ?? ""}`
-  return slug
-    .replace(/^\d{4}-\d{2}-\d{2}_/, "")
-    .replace(/^published_/, "")
-    .replace(/^(en|zh)_/, "")
-}
-
 function explorerSortByRecentDate(a: any, b: any) {
   if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+    const nodeDate = (n: any): string => {
+      const slug = n.slug ?? ""
+      return n.data?.date?.slice?.(0, 10) ?? `${slug}`.match(/\d{4}-\d{2}-\d{2}/)?.[0] ?? ""
+    }
+
+    const isTranslation = (n: any): boolean => {
+      const lang = `${n.data?.frontmatter?.language ?? ""}`.toLowerCase()
+      if (lang && lang !== "ko" && lang !== "ko-kr") return true
+      const slug = n.slug ?? ""
+      return /_(en|zh)_/.test(slug)
+    }
+
+    const translationGroupKey = (n: any): string => {
+      const fm = n.data?.frontmatter?.translationKey
+      if (typeof fm === "string" && fm.length > 0) return fm
+      const slug = `${n.slug ?? ""}`
+      return slug
+        .replace(/^research\//, "")
+        .replace(/^\d{4}-\d{2}-\d{2}_/, "")
+        .replace(/^published_/, "")
+        .replace(/^(en|zh)_/, "")
+    }
+
     const aGroup = translationGroupKey(a)
     const bGroup = translationGroupKey(b)
 
