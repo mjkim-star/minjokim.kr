@@ -3,6 +3,8 @@ title: AI를 도입했는데 왜 회사는 달라지지 않는가?
 description: AI 도입의 성과가 도구 자체가 아니라 조직의 감지, 선택, 재구성 회로와 동적역량에서 나온다는 점을 설명하는 연구 에세이입니다.
 type: published
 status: published
+language: ko-KR
+translationKey: ai-adoption-dynamic-capability-mediation
 created: 2026-05-27
 published: 2026-05-27
 published_at: 2026-05-27

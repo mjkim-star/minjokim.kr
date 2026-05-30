@@ -4,6 +4,7 @@ description: English version of Kim Minjo's research essay on why AI adoption on
 type: published
 status: published
 language: en
+translationKey: ai-adoption-dynamic-capability-mediation
 created: 2026-05-28
 published: 2026-05-28
 published_at: 2026-05-28

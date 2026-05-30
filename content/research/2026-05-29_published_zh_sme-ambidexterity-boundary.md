@@ -2,6 +2,7 @@
 type: published
 status: published
 language: zh-CN
+translationKey: sme-ambidexterity-boundary
 created: 2026-05-29
 published: 2026-05-29
 published_at: 2026-05-29

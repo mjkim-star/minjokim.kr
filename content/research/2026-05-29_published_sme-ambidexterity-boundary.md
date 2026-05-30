@@ -1,6 +1,8 @@
 ---
 type: published
 status: published
+language: ko-KR
+translationKey: sme-ambidexterity-boundary
 created: 2026-05-27
 published: 2026-05-29
 published_at: 2026-05-29
