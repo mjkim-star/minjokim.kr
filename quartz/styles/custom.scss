@@ -300,6 +300,17 @@ body[data-slug="index"] article {
   color: var(--darkgray);
 }
 
+.home-section > .section-label,
+.hero-label-row > .section-label {
+  color: var(--secondary) !important;
+  font-family: var(--bodyFont) !important;
+  font-size: var(--home-section-label-size) !important;
+  font-weight: var(--home-section-label-weight) !important;
+  letter-spacing: 0 !important;
+  line-height: 1.35 !important;
+  text-transform: uppercase;
+}
+
 .home-divider {
   border: 0;
   border-top: 1px solid var(--lightgray);
