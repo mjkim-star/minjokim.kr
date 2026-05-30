@@ -2,48 +2,62 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
 function explorerSortByRecentDate(a: any, b: any) {
+  const aSlug = `${a.slug ?? ""}`
+  const bSlug = `${b.slug ?? ""}`
+
+  if (a.isFolder && b.isFolder) {
+    let aRank: number | undefined
+    let bRank: number | undefined
+
+    if (aSlug === "research/index") aRank = 0
+    if (aSlug === "papers-and-books/index") aRank = 1
+    if (aSlug === "papers-and-books/papers/index") aRank = 0
+    if (aSlug === "papers-and-books/books/index") aRank = 1
+
+    if (bSlug === "research/index") bRank = 0
+    if (bSlug === "papers-and-books/index") bRank = 1
+    if (bSlug === "papers-and-books/papers/index") bRank = 0
+    if (bSlug === "papers-and-books/books/index") bRank = 1
+
+    if (aRank !== undefined || bRank !== undefined) {
+      return (aRank ?? 99) - (bRank ?? 99)
+    }
+  }
+
   if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-    const nodeDate = (n: any): string => {
-      const slug = n.slug ?? ""
-      return n.data?.date?.slice?.(0, 10) ?? `${slug}`.match(/\d{4}-\d{2}-\d{2}/)?.[0] ?? ""
-    }
+    const aFm = a.data?.frontmatter?.translationKey
+    const bFm = b.data?.frontmatter?.translationKey
+    const aGroup =
+      typeof aFm === "string" && aFm.length > 0
+        ? aFm
+        : aSlug
+            .replace(/^research\//, "")
+            .replace(/^\d{4}-\d{2}-\d{2}_/, "")
+            .replace(/^published_/, "")
+            .replace(/^(en|zh)_/, "")
+    const bGroup =
+      typeof bFm === "string" && bFm.length > 0
+        ? bFm
+        : bSlug
+            .replace(/^research\//, "")
+            .replace(/^\d{4}-\d{2}-\d{2}_/, "")
+            .replace(/^published_/, "")
+            .replace(/^(en|zh)_/, "")
 
-    const isTranslation = (n: any): boolean => {
-      const lang = `${n.data?.frontmatter?.language ?? ""}`.toLowerCase()
-      if (lang && lang !== "ko" && lang !== "ko-kr") return true
-      const slug = n.slug ?? ""
-      return /_(en|zh)_/.test(slug)
-    }
-
-    const translationGroupKey = (n: any): string => {
-      const fm = n.data?.frontmatter?.translationKey
-      if (typeof fm === "string" && fm.length > 0) return fm
-      const slug = `${n.slug ?? ""}`
-      return slug
-        .replace(/^research\//, "")
-        .replace(/^\d{4}-\d{2}-\d{2}_/, "")
-        .replace(/^published_/, "")
-        .replace(/^(en|zh)_/, "")
-    }
-
-    const aGroup = translationGroupKey(a)
-    const bGroup = translationGroupKey(b)
+    const aLang = `${a.data?.frontmatter?.language ?? ""}`.toLowerCase()
+    const bLang = `${b.data?.frontmatter?.language ?? ""}`.toLowerCase()
+    const aIsT = (aLang && aLang !== "ko" && aLang !== "ko-kr") || /_(en|zh)_/.test(aSlug)
+    const bIsT = (bLang && bLang !== "ko" && bLang !== "ko-kr") || /_(en|zh)_/.test(bSlug)
 
     if (aGroup === bGroup) {
-      const aIsT = isTranslation(a)
-      const bIsT = isTranslation(b)
       if (aIsT !== bIsT) return aIsT ? 1 : -1
-      const aSlug = `${a.slug ?? ""}`
-      const bSlug = `${b.slug ?? ""}`
       return aSlug.localeCompare(bSlug, undefined, { numeric: true, sensitivity: "base" })
     }
 
-    const aDate = nodeDate(a)
-    const bDate = nodeDate(b)
+    const aDate = a.data?.date?.slice?.(0, 10) ?? aSlug.match(/\d{4}-\d{2}-\d{2}/)?.[0] ?? ""
+    const bDate = b.data?.date?.slice?.(0, 10) ?? bSlug.match(/\d{4}-\d{2}-\d{2}/)?.[0] ?? ""
     if (aDate !== bDate) return bDate.localeCompare(aDate)
 
-    const aIsT = isTranslation(a)
-    const bIsT = isTranslation(b)
     if (aIsT !== bIsT) return aIsT ? 1 : -1
 
     const aKey = `${a.displayName ?? ""}`.toLowerCase()
@@ -59,11 +73,14 @@ function explorerSortByRecentDate(a: any, b: any) {
 }
 
 function explorerDisplayNames(node: any) {
+  if (node.slugSegment === "papers-and-books") {
+    node.displayName = "Papers & Books"
+  }
   if (node.slugSegment === "papers") {
-    node.displayName = "Papers (논문)"
+    node.displayName = "Papers"
   }
   if (node.slugSegment === "books") {
-    node.displayName = "Books (저서)"
+    node.displayName = "Books"
   }
 }
 
@@ -72,9 +89,6 @@ function explorerDisplayNames(node: any) {
 function explorerFilter(node: any): boolean {
   const slug = `${node.slug ?? ""}`
   if (slug === "research/papers-and-books" || slug.startsWith("research/papers-and-books/")) {
-    return false
-  }
-  if (node.slugSegment === "papers-and-books") {
     return false
   }
   return true

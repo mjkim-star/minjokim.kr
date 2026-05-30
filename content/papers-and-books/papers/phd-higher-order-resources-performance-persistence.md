@@ -5,6 +5,7 @@ date: 2026-05-30
 author: 김민조
 aliases:
   - "research/papers-and-books/papers/phd-higher-order-resources-performance-persistence"
+  - "research/papers/phd-higher-order-resources-performance-persistence"
 tags:
   - 박사논문
   - 고차자원
@@ -47,6 +48,8 @@ tags:
 
 ## 의의
 운영자원을 잘 관리하는 것은 이익의 수준을 지키는 데 도움이 됩니다. 그러나 그 이익이 오래 이어지는 데에는 그것만으로 부족하다는 관점입니다. 장기 경쟁우위를 위해서는 자원을 다시 감지하고 다시 짜는 능력, 곧 고차자원을 더 기민하게 활용할 필요가 있습니다.
+
+이 연구는 이후 연구노트의 중심 질문과도 이어집니다. 좋은 자원과 좋은 이론이 있어도, 그것이 시간 속에서 다시 판단되고 재구성되지 않으면 현장의 성과로 오래 남기 어렵다는 문제의식입니다.
 
 ## 기본 정보
 | 항목 | 내용 |

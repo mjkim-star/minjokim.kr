@@ -232,7 +232,8 @@ async function setupExplorer(currentSlug: FullSlug) {
     const folderPaths = trie.getFolderPaths()
     currentExplorerState = folderPaths.map((path) => {
       const previousState = oldIndex.get(path)
-      const shouldCollapseByDefault = path === "research/papers-and-books/index"
+      const shouldCollapseByDefault =
+        path === "papers-and-books/index" || path.startsWith("papers-and-books/")
       return {
         path,
         collapsed:

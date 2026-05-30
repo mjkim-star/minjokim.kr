@@ -8,6 +8,8 @@ enableToc: false
 
 # 김민조 연구노트
 
+<p class="home-identity">경영학 박사이자 경영지도사입니다. 좋은 이론이 현장에서 멈추는 지점과, 그것이 다시 판단과 실행으로 이어지는 구조를 연구합니다.</p>
+
 <section class="home-section latest-section">
   <p class="section-label">Latest</p>
   <h2>최근 글</h2>
@@ -84,18 +86,19 @@ enableToc: false
 
 <section class="home-section publications-section">
   <p class="section-label">논문과 저서</p>
+  <p class="publication-note">연구노트의 질문이 어떤 연구 경험 위에서 이어져 왔는지 보여주는 배경입니다.</p>
   <div class="publication-grid publication-preview-grid">
-    <a class="publication-card" href="./research/papers/phd-higher-order-resources-performance-persistence">
+    <a class="publication-card" href="./papers-and-books/papers/phd-higher-order-resources-performance-persistence">
       <span class="publication-type">박사논문</span>
       <strong>고차자원이 성과 지속성에 미치는 영향</strong>
       <small>한양대학교 · 2025년 · 고차자원과 성과 지속성</small>
     </a>
-    <a class="publication-card" href="./research/papers/master-thesis-sungkyunkwan-2015">
+    <a class="publication-card" href="./papers-and-books/papers/master-thesis-sungkyunkwan-2015">
       <span class="publication-type">석사논문</span>
       <strong>한국제조기업의 재료비 원가행태에 관한 연구</strong>
       <small>성균관대학교 · 2015년 · 원가행태와 관리회계</small>
     </a>
-    <a class="publication-card" href="./research/books/barun-succession-guide">
+    <a class="publication-card" href="./papers-and-books/books/barun-succession-guide">
       <span class="publication-type">저서</span>
       <strong>바른 승계 길라잡이</strong>
     </a>
