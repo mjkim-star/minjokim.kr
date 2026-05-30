@@ -91,16 +91,17 @@ enableToc: false
     <a class="publication-card" href="./papers-and-books/papers/phd-higher-order-resources-performance-persistence">
       <span class="publication-type">박사논문</span>
       <strong>고차자원이 성과 지속성에 미치는 영향</strong>
-      <small>한양대학교 · 2025년 · 고차자원과 성과 지속성</small>
+      <small>한양대학교</small>
     </a>
     <a class="publication-card" href="./papers-and-books/papers/master-thesis-sungkyunkwan-2015">
       <span class="publication-type">석사논문</span>
       <strong>한국제조기업의 재료비 원가행태에 관한 연구</strong>
-      <small>성균관대학교 · 2015년 · 원가행태와 관리회계</small>
+      <small>성균관대학교</small>
     </a>
     <a class="publication-card" href="./papers-and-books/books/barun-succession-guide">
       <span class="publication-type">저서</span>
       <strong>바른 승계 길라잡이</strong>
+      <small>공저</small>
     </a>
   </div>
 </section>
