@@ -36,7 +36,3 @@ tags:
 | 출간일 | 2025년 11월 28일 |
 | ISBN | 9791188768974 |
 | 공개 확인 | [교보문고 상세 페이지](https://product.kyobobook.co.kr/detail/S000218631190) |
-
----
-
-© 2026 김민조 / All rights reserved / mjkim@bridge-abm.com

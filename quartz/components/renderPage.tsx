@@ -22,7 +22,7 @@ interface RenderComponents {
   footer: QuartzComponent
 }
 
-const STATIC_ASSET_VERSION = "20260530-section-labels"
+const STATIC_ASSET_VERSION = "20260531-single-footer"
 
 const headerRegex = new RegExp(/h[1-6]/)
 export function pageResources(
