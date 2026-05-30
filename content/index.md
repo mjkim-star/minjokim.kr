@@ -10,8 +10,11 @@ enableToc: false
 
 <section class="home-section latest-section">
   <p class="section-label">Latest</p>
-  <h2>최근 글</h2>
-  <!-- 최근 글은 원문 기준 최대 3개 묶음만 노출합니다. 번역본은 원문 바로 아래에 둡니다. -->
+  <div class="section-title-row">
+    <h2>최근 글</h2>
+    <a class="section-count-link" href="./research">전체 글 2편</a>
+  </div>
+  <!-- 최근 글은 원문 기준 최대 2개 묶음만 노출합니다. 번역본은 원문 바로 아래에 둡니다. -->
   <div class="latest-list">
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-05-29_published_sme-ambidexterity-boundary">

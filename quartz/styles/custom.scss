@@ -48,8 +48,31 @@ body[data-slug*="_zh_"] article li {
 }
 
 .latest-section h2 {
-  margin: 0 0 0.65rem;
+  margin: 0;
   font-size: 1.35rem;
+}
+
+.section-title-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.85rem;
+  max-width: 46rem;
+  margin: 0 0 0.65rem;
+}
+
+.section-count-link {
+  flex: 0 0 auto;
+  color: var(--darkgray);
+  font-size: 0.78rem;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.section-count-link:hover {
+  color: var(--secondary);
+  text-decoration: underline;
+  text-underline-offset: 0.16rem;
 }
 
 .latest-link {
@@ -117,7 +140,7 @@ body[data-slug*="_zh_"] article li {
   font-weight: 500;
 }
 
-.latest-list > .latest-group:nth-of-type(n + 4) {
+.latest-list > .latest-group:nth-of-type(n + 3) {
   display: none;
 }
 
@@ -416,6 +439,17 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
 
   .latest-section h2 {
     font-size: clamp(1.18rem, 5vw, 1.35rem);
+  }
+
+  .section-title-row {
+    align-items: baseline;
+    gap: 0.6rem;
+    margin-bottom: 0.58rem;
+  }
+
+  .section-count-link {
+    font-size: 0.76rem;
+    white-space: nowrap;
   }
 
   .latest-link {
