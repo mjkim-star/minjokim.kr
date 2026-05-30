@@ -300,6 +300,107 @@ body[data-slug*="_zh_"] article li {
   overflow-wrap: anywhere;
 }
 
+.clean-index-page + .page-listing {
+  display: none;
+}
+
+.clean-index-page h1 {
+  margin-bottom: 0.7rem;
+}
+
+.clean-index-page > p {
+  max-width: 46rem;
+  color: var(--darkgray);
+  font-size: 0.95rem;
+  line-height: 1.62;
+}
+
+.clean-index-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1rem 0 1.35rem;
+}
+
+.clean-index-summary span {
+  padding: 0.28rem 0.48rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  color: var(--darkgray);
+  font-size: 0.76rem;
+  font-weight: 400;
+}
+
+.clean-index-list {
+  display: grid;
+  gap: 0.55rem;
+  max-width: 52rem;
+  margin: 1rem 0 1.6rem;
+}
+
+.clean-index-item {
+  display: grid;
+  grid-template-columns: 6.2rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.86rem 0;
+  border-top: 1px solid color-mix(in srgb, var(--lightgray) 86%, transparent);
+}
+
+.clean-index-item:last-child {
+  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 86%, transparent);
+}
+
+.clean-index-date {
+  margin: 0;
+  color: var(--gray);
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+
+.clean-index-title {
+  display: inline-block;
+  color: var(--secondary);
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.45;
+  text-decoration: none;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.clean-index-title:hover,
+.clean-index-subitem:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.18rem;
+}
+
+.clean-index-subitem {
+  display: block;
+  margin-top: 0.38rem;
+  color: var(--darkgray);
+  font-size: 0.86rem;
+  font-weight: 400;
+  line-height: 1.45;
+  text-decoration: none;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.clean-index-subitem span {
+  margin-right: 0.42rem;
+  color: var(--gray);
+  font-size: 0.72rem;
+}
+
+.clean-index-meta {
+  margin: 0.38rem 0 0;
+  color: var(--darkgray);
+  font-size: 0.82rem;
+  line-height: 1.55;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
 body[data-slug*="papers-and-books"] article h2[id="기본-정보"] {
   font-size: 1.05rem;
   font-weight: 600;
@@ -560,6 +661,41 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   .publication-card small {
     font-size: clamp(0.72rem, 3.1vw, 0.8rem);
     line-height: 1.45;
+  }
+
+  .clean-index-page > p {
+    font-size: clamp(0.9rem, 3.7vw, 0.98rem);
+  }
+
+  .clean-index-summary {
+    margin: 0.85rem 0 1.1rem;
+  }
+
+  .clean-index-list {
+    gap: 0;
+    margin-top: 0.75rem;
+  }
+
+  .clean-index-item {
+    grid-template-columns: 1fr;
+    gap: 0.28rem;
+    padding: 0.8rem 0;
+  }
+
+  .clean-index-date {
+    font-size: 0.74rem;
+  }
+
+  .clean-index-title {
+    font-size: clamp(0.96rem, 4vw, 1.04rem);
+  }
+
+  .clean-index-subitem {
+    font-size: clamp(0.82rem, 3.5vw, 0.9rem);
+  }
+
+  .clean-index-meta {
+    font-size: clamp(0.8rem, 3.3vw, 0.88rem);
   }
 
   .publication-index-link {
