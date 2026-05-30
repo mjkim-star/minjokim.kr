@@ -35,6 +35,12 @@ function explorerSortByRecentDate(a: any, b: any) {
   }
 }
 
+function explorerDisplayNames(node: any) {
+  if (node.slugSegment === "papers-and-books") {
+    node.displayName = "Papers & Books"
+  }
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -81,6 +87,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       useSavedState: false,
       sortFn: explorerSortByRecentDate,
+      mapFn: explorerDisplayNames,
     }),
   ],
   right: [
@@ -109,6 +116,7 @@ export const defaultListPageLayout: PageLayout = {
       folderDefaultState: "open",
       useSavedState: false,
       sortFn: explorerSortByRecentDate,
+      mapFn: explorerDisplayNames,
     }),
   ],
   right: [],
