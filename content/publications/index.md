@@ -9,7 +9,7 @@ enableToc: false
 
 이곳은 김민조의 논문과 저서를 공개 가능한 범위에서 정리하는 아카이브입니다.
 
-연구노트의 글이 현재 진행 중인 질문이라면, 이 페이지는 그 질문들이 어떤 학술적·저술적 기반 위에 놓여 있는지를 보여주는 공간입니다.
+연구노트의 글이 현재 진행 중인 질문이라면, 이 페이지는 그 질문들이 어떤 학술적·저술적 기반 위에 놓여 있는지를 보여주는 공간입니다. 저서 항목은 전문 분야를 과장하기 위한 소개가 아니라, 현재 연구 범위와 맞닿는 문제의식이 어디에서 나왔는지를 정리하기 위한 자료입니다.
 
 <div class="publication-grid">
   <a class="publication-card" href="./papers/master-thesis-sungkyunkwan-2015">
@@ -27,7 +27,7 @@ enableToc: false
   <a class="publication-card" href="./books/barun-succession-guide">
     <span class="publication-type">저서</span>
     <strong>바른 승계 길라잡이</strong>
-    <small>가업승계 · 가족기업 · 의사결정 · 조직 혁신</small>
+    <small>공저 · 승계 장면에서 본 의사결정과 조직 전환</small>
   </a>
 </div>
 

@@ -41,7 +41,7 @@ enableToc: false
 <section class="home-section publications-section">
   <p class="section-label">Publications</p>
   <h2>논문과 저서</h2>
-  <p class="publication-intro">연구 글과 별도로, 학위논문과 저서를 공개 가능한 범위에서 정리합니다.</p>
+  <p class="publication-intro">연구 범위와 연결되는 학위논문과 공저 이력을 공개 가능한 범위에서 정리합니다.</p>
   <div class="publication-grid publication-preview-grid">
     <a class="publication-card" href="./publications/papers/master-thesis-sungkyunkwan-2015">
       <span class="publication-type">석사논문</span>
@@ -56,7 +56,7 @@ enableToc: false
     <a class="publication-card" href="./publications/books/barun-succession-guide">
       <span class="publication-type">저서</span>
       <strong>바른 승계 길라잡이</strong>
-      <small>가업승계 · 가족기업 · 의사결정과 조직 혁신</small>
+      <small>공저 · 승계 장면에서 본 의사결정과 조직 전환</small>
     </a>
   </div>
   <a class="publication-index-link" href="./publications/">아카이브 전체 보기</a>
