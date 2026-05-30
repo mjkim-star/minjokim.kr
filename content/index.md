@@ -8,21 +8,23 @@ enableToc: false
 
 # 김민조 연구노트
 
+<section class="home-section home-hero">
+  <p class="hero-kicker">경영학 박사이자 경영지도사입니다.</p>
+  <p class="hero-question">좋은 이론은 왜 현장에서 빈번하게 멈추는가.</p>
+  <p class="hero-body">전략, 동적역량, 의사결정, AI 전환을 통해 이론이 다시 판단과 실행으로 이어지는 구조를 살핍니다.</p>
+</section>
+
 <section class="home-section latest-section">
   <p class="section-label">Latest</p>
   <div class="section-title-row">
     <h2>최근 글</h2>
-    <a class="section-count-link" href="./research">전체 글 4편</a>
+    <a class="section-count-link" href="./research">전체 글 보기</a>
   </div>
-  <!-- 최근 글은 원문 기준 최대 2개 묶음만 노출합니다. 번역본은 원문 바로 아래에 둡니다. -->
+  <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 연구 글 목록에서 원문 아래에 둡니다. -->
   <div class="latest-list">
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-05-29_published_sme-ambidexterity-boundary">
         <span>"양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?</span>
-        <time>2026.05.29</time>
-      </a>
-      <a class="latest-translation" href="./research/2026-05-29_published_zh_sme-ambidexterity-boundary">
-        <span><small>중문 번역</small> 双元组织何时不再是优点，而成为成本？</span>
         <time>2026.05.29</time>
       </a>
     </div>
@@ -30,10 +32,6 @@ enableToc: false
       <a class="latest-original" href="./research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">
         <span>AI를 도입했는데 왜 회사는 달라지지 않는가?</span>
         <time>2026.05.27</time>
-      </a>
-      <a class="latest-translation" href="./research/2026-05-28_published_en_ai-adoption-dynamic-capability-mediation">
-        <span><small>영문 번역</small> Why Do Companies Remain the Same After Adopting AI?</span>
-        <time>2026.05.28</time>
       </a>
     </div>
   </div>
@@ -46,8 +44,6 @@ enableToc: false
     <img class="intro-mark" src="/static/icon.png" alt="" />
     <p class="section-label">About</p>
   </div>
-
-<p class="intro-line">경영학 박사이자 경영지도사입니다.</p>
 
 <p class="intro-line">전략, 동적역량, 의사결정, AI 전환을 연구합니다.</p>
 

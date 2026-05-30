@@ -28,6 +28,39 @@ body[data-slug*="_zh_"] article li {
   margin: 1.15rem 0;
 }
 
+.home-hero {
+  max-width: 44rem;
+  margin-top: 0.3rem;
+}
+
+.home-hero p {
+  margin: 0;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.hero-kicker {
+  color: var(--dark);
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.hero-question {
+  margin-top: 0.45rem !important;
+  color: var(--dark);
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.hero-body {
+  margin-top: 0.45rem !important;
+  color: var(--darkgray);
+  font-size: 0.94rem;
+  line-height: 1.58;
+}
+
 .home-identity {
   max-width: 44rem;
   margin: -0.35rem 0 1.35rem;
@@ -49,7 +82,7 @@ body[data-slug*="_zh_"] article li {
 
 .latest-section h2 {
   margin: 0;
-  font-size: 1.35rem;
+  font-size: 1.2rem;
 }
 
 .section-title-row {
@@ -88,10 +121,10 @@ body[data-slug*="_zh_"] article li {
 
 .latest-list {
   display: grid;
-  gap: 0.62rem;
-  margin-top: 0.75rem;
+  gap: 0.48rem;
+  margin-top: 0.62rem;
   width: 100%;
-  max-width: 46rem;
+  max-width: 42rem;
   box-sizing: border-box;
 }
 
@@ -107,12 +140,12 @@ body[data-slug*="_zh_"] article li {
   gap: 1rem;
   width: 100%;
   box-sizing: border-box;
-  padding: 0.72rem 0.85rem;
+  padding: 0.62rem 0.76rem;
   border: 1px solid color-mix(in srgb, var(--lightgray) 82%, transparent);
   border-radius: 6px;
   background: color-mix(in srgb, var(--light) 88%, var(--darkgray) 12%);
   color: var(--secondary);
-  font-size: 1.08rem;
+  font-size: 1rem;
   font-weight: 600;
   line-height: 1.45;
   text-decoration: none;
@@ -202,9 +235,9 @@ body[data-slug*="_zh_"] article li {
 
 .home-divider {
   border: 0;
-  border-top: 2px solid var(--lightgray);
-  margin: 1.8rem 0;
-  opacity: 0.95;
+  border-top: 1px solid var(--lightgray);
+  margin: 1.45rem 0;
+  opacity: 0.85;
 }
 
 .publications-section h2 {
@@ -531,7 +564,28 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   }
 
   .home-section {
-    margin: 1rem 0;
+    margin: 0.9rem 0;
+  }
+
+  .home-hero {
+    margin-top: 0.1rem;
+  }
+
+  .hero-kicker {
+    font-size: clamp(0.9rem, 3.8vw, 0.98rem);
+    line-height: 1.42;
+  }
+
+  .hero-question {
+    margin-top: 0.34rem !important;
+    font-size: clamp(1rem, 4.2vw, 1.12rem);
+    line-height: 1.42;
+  }
+
+  .hero-body {
+    margin-top: 0.32rem !important;
+    font-size: clamp(0.84rem, 3.5vw, 0.92rem);
+    line-height: 1.52;
   }
 
   .home-identity {
@@ -541,7 +595,7 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   }
 
   .latest-section h2 {
-    font-size: clamp(1.18rem, 5vw, 1.35rem);
+    font-size: clamp(1.06rem, 4.4vw, 1.2rem);
   }
 
   .section-title-row {
@@ -561,7 +615,7 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   }
 
   .latest-list {
-    gap: 0.58rem;
+    gap: 0.46rem;
     max-width: 100%;
   }
 
@@ -574,10 +628,10 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
     gap: 0.2rem;
     width: 100%;
     max-width: 100%;
-    padding: 0.78rem 0.78rem;
+    padding: 0.64rem 0.68rem;
     border-color: color-mix(in srgb, var(--lightgray) 70%, transparent);
     background: color-mix(in srgb, var(--light) 94%, var(--darkgray) 6%);
-    font-size: clamp(1.02rem, 4.2vw, 1.12rem);
+    font-size: clamp(0.94rem, 3.9vw, 1.04rem);
     overflow-wrap: anywhere;
     word-break: keep-all;
   }
@@ -613,7 +667,7 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   }
 
   .home-divider {
-    margin: 1.55rem 0;
+    margin: 1.1rem 0;
   }
 
   .research-cards {
