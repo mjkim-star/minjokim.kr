@@ -168,10 +168,3 @@ quartz_user_approved: true
 
 1. Charles A. O'Reilly III and Michael L. Tushman, "Ambidexterity as a Dynamic Capability: Resolving the Innovator's Dilemma," Harvard Business School Working Paper 07-088, 2007. 이 논문은 이후 *Research in Organizational Behavior*에 게재되었다.
 2. Telma Mendes, Miguel Gonzalez-Loureiro, Carina Silva, and Vitor Braga, "Exploration, Exploitation, or Ambidexterity? A Meta-Analysis of SME Strategic Orientation and Performance Across Different Levels of Environmental Munificence," *BRQ Business Research Quarterly*, 2026, DOI: 10.1177/23409444251397410.
-
----
-
-© 2026 김민조 / All rights reserved / mjkim@bridge-abm.com
-
-이 글은 김민조 연구노트의 원문입니다.  
-글의 일부를 인용하거나 공유하실 때에는 출처와 원문 링크를 남겨주세요.

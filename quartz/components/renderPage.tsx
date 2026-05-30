@@ -22,7 +22,7 @@ interface RenderComponents {
   footer: QuartzComponent
 }
 
-const STATIC_ASSET_VERSION = "20260529-research-order-font"
+const STATIC_ASSET_VERSION = "20260530-section-labels"
 
 const headerRegex = new RegExp(/h[1-6]/)
 export function pageResources(

@@ -2,6 +2,13 @@
 
 :root {
   --zhFont: "Noto Sans SC", "Microsoft YaHei", "PingFang SC", "Source Han Sans SC", "Hiragino Sans GB", sans-serif;
+  --home-content-width: 48rem;
+  --home-note-font: 0.86rem;
+  --home-note-line: 1.55;
+  --home-section-label-size: 0.75rem;
+  --home-section-label-weight: 700;
+  --home-card-bg: color-mix(in srgb, var(--light) 90%, var(--darkgray) 10%);
+  --home-card-border: color-mix(in srgb, var(--lightgray) 82%, transparent);
 }
 
 body[data-slug*="_zh_"] {
@@ -56,12 +63,22 @@ body[data-slug="index"] article > h1:first-child {
   display: none;
 }
 
+body[data-slug="index"] article {
+  width: min(100%, var(--home-content-width));
+  max-width: var(--home-content-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .home-section {
+  width: 100%;
+  max-width: var(--home-content-width);
   margin: 1.05rem 0;
+  box-sizing: border-box;
 }
 
 .home-hero {
-  max-width: 44rem;
+  max-width: var(--home-content-width);
   margin-top: 0;
 }
 
@@ -79,10 +96,18 @@ body[data-slug="index"] article > h1:first-child {
 }
 
 .section-mark {
-  width: 1.7rem;
-  height: 1.7rem;
+  display: block;
+  width: 1.7rem !important;
+  min-width: 1.7rem;
+  max-width: 1.7rem !important;
+  height: 1.7rem !important;
+  min-height: 1.7rem;
+  max-height: 1.7rem !important;
+  margin: 0 !important;
   border-radius: 0.46rem;
   flex: 0 0 1.7rem;
+  object-fit: contain;
+  content-visibility: visible;
 }
 
 .hero-label {
@@ -91,9 +116,9 @@ body[data-slug="index"] article > h1:first-child {
 
 .hero-kicker {
   color: var(--dark);
-  font-size: 0.86rem;
+  font-size: var(--home-note-font);
   font-weight: 500;
-  line-height: 1.55;
+  line-height: var(--home-note-line);
 }
 
 .hero-question {
@@ -107,8 +132,8 @@ body[data-slug="index"] article > h1:first-child {
 .hero-body {
   margin-top: 0.45rem !important;
   color: var(--darkgray);
-  font-size: 0.86rem;
-  line-height: 1.55;
+  font-size: var(--home-note-font);
+  line-height: var(--home-note-line);
 }
 
 .home-identity {
@@ -122,12 +147,13 @@ body[data-slug="index"] article > h1:first-child {
 }
 
 .section-label {
-  margin: 0 0 0.35rem;
-  color: var(--secondary);
-  font-size: 0.75rem;
-  font-weight: 700;
-  font-family: inherit;
-  letter-spacing: 0;
+  margin: 0 0 0.35rem !important;
+  color: var(--secondary) !important;
+  font-family: var(--bodyFont) !important;
+  font-size: var(--home-section-label-size) !important;
+  font-weight: var(--home-section-label-weight) !important;
+  letter-spacing: 0 !important;
+  line-height: 1.35 !important;
   text-transform: uppercase;
 }
 
@@ -141,8 +167,10 @@ body[data-slug="index"] article > h1:first-child {
   align-items: baseline;
   justify-content: space-between;
   gap: 0.85rem;
-  max-width: 46rem;
+  width: 100%;
+  max-width: var(--home-content-width);
   margin: 0 0 0.65rem;
+  box-sizing: border-box;
 }
 
 .section-count-link {
@@ -175,7 +203,7 @@ body[data-slug="index"] article > h1:first-child {
   gap: 0.48rem;
   margin-top: 0.62rem;
   width: 100%;
-  max-width: 42rem;
+  max-width: var(--home-content-width);
   box-sizing: border-box;
 }
 
@@ -192,9 +220,9 @@ body[data-slug="index"] article > h1:first-child {
   width: 100%;
   box-sizing: border-box;
   padding: 0.62rem 0.76rem;
-  border: 1px solid color-mix(in srgb, var(--lightgray) 82%, transparent);
+  border: 1px solid var(--home-card-border);
   border-radius: 6px;
-  background: color-mix(in srgb, var(--light) 88%, var(--darkgray) 12%);
+  background: var(--home-card-bg);
   color: var(--secondary);
   font-size: 1.06rem;
   font-weight: 600;
@@ -242,17 +270,17 @@ body[data-slug="index"] article > h1:first-child {
 }
 
 .intro-section {
-  max-width: 44rem;
-  font-size: 0.86rem;
-  line-height: 1.58;
+  max-width: var(--home-content-width);
+  font-size: var(--home-note-font);
+  line-height: var(--home-note-line);
 }
 
 .intro-section p {
   margin: 0;
   color: var(--darkgray);
-  font-size: 0.86rem;
+  font-size: var(--home-note-font);
   font-weight: 400;
-  line-height: 1.58;
+  line-height: var(--home-note-line);
   word-break: keep-all;
   overflow-wrap: anywhere;
 }
@@ -275,6 +303,8 @@ body[data-slug="index"] article > h1:first-child {
 .home-divider {
   border: 0;
   border-top: 1px solid var(--lightgray);
+  width: 100%;
+  max-width: var(--home-content-width);
   margin: 1.35rem 0;
   opacity: 0.85;
 }
@@ -292,11 +322,11 @@ body[data-slug="index"] article > h1:first-child {
 }
 
 .publication-note {
-  max-width: 42rem;
+  max-width: var(--home-content-width);
   margin: 0.1rem 0 0.8rem;
   color: var(--darkgray);
-  font-size: 0.86rem;
-  line-height: 1.55;
+  font-size: var(--home-note-font);
+  line-height: var(--home-note-line);
   word-break: keep-all;
 }
 
@@ -518,14 +548,18 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.75rem;
+  width: 100%;
+  max-width: var(--home-content-width);
   margin: 0.75rem 0 2rem;
+  box-sizing: border-box;
 }
 
 .research-cards section {
-  border: 1px solid var(--lightgray);
-  border-radius: 8px;
+  border: 1px solid var(--home-card-border);
+  border-radius: 6px;
   padding: 0.9rem 1rem;
-  background: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
+  background: var(--home-card-bg);
+  box-sizing: border-box;
 }
 
 .research-cards strong {
@@ -542,9 +576,23 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   line-height: 1.55;
 }
 
+.explorer-content ul li > a,
+.explorer-content .folder-title {
+  font-size: 0.86rem;
+  font-weight: 400;
+  line-height: 1.45;
+}
+
+.explorer-content .folder-title {
+  color: var(--secondary);
+  font-weight: 500;
+}
+
 @media (max-width: 720px) {
   :root {
     --mobile-page-pad: clamp(0.9rem, 4vw, 1.25rem);
+    --home-note-font: clamp(0.84rem, 3.5vw, 0.92rem);
+    --home-note-line: 1.58;
   }
 
   body {
@@ -632,14 +680,18 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   }
 
   .section-mark {
-    width: 1.55rem;
-    height: 1.55rem;
-    flex-basis: 1.55rem;
+    width: 1.45rem !important;
+    min-width: 1.45rem;
+    max-width: 1.45rem !important;
+    height: 1.45rem !important;
+    min-height: 1.45rem;
+    max-height: 1.45rem !important;
+    flex-basis: 1.45rem;
   }
 
   .hero-kicker {
-    font-size: clamp(0.84rem, 3.5vw, 0.92rem);
-    line-height: 1.55;
+    font-size: var(--home-note-font);
+    line-height: var(--home-note-line);
   }
 
   .hero-question {
@@ -650,8 +702,8 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
 
   .hero-body {
     margin-top: 0.32rem !important;
-    font-size: clamp(0.84rem, 3.5vw, 0.92rem);
-    line-height: 1.55;
+    font-size: var(--home-note-font);
+    line-height: var(--home-note-line);
   }
 
   .home-identity {
@@ -695,8 +747,8 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
     width: 100%;
     max-width: 100%;
     padding: 0.64rem 0.68rem;
-    border-color: color-mix(in srgb, var(--lightgray) 70%, transparent);
-    background: color-mix(in srgb, var(--light) 94%, var(--darkgray) 6%);
+    border-color: var(--home-card-border);
+    background: var(--home-card-bg);
     font-size: clamp(0.98rem, 4.05vw, 1.08rem);
     overflow-wrap: anywhere;
     word-break: keep-all;
@@ -718,14 +770,14 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   }
 
   .intro-section {
-    font-size: clamp(0.84rem, 3.5vw, 0.92rem);
-    line-height: 1.6;
+    font-size: var(--home-note-font);
+    line-height: var(--home-note-line);
   }
 
   .intro-section p {
-    font-size: clamp(0.84rem, 3.5vw, 0.92rem);
+    font-size: var(--home-note-font);
     font-weight: 400;
-    line-height: 1.6;
+    line-height: var(--home-note-line);
   }
 
   .intro-line + .intro-line,
@@ -733,14 +785,8 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
     margin-top: 0.38rem !important;
   }
 
-  .intro-mark {
-    width: 1.85rem;
-    height: 1.85rem;
-    flex-basis: 1.85rem;
-  }
-
   .intro-body {
-    line-height: 1.6;
+    line-height: var(--home-note-line);
   }
 
   .home-divider {
@@ -774,8 +820,15 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
 
   .publication-note {
     margin-bottom: 0.62rem;
-    font-size: clamp(0.82rem, 3.4vw, 0.9rem);
-    line-height: 1.5;
+    font-size: var(--home-note-font);
+    line-height: var(--home-note-line);
+  }
+
+  .explorer-content ul li > a,
+  .explorer-content .folder-title {
+    font-size: clamp(0.82rem, 3.45vw, 0.9rem);
+    font-weight: 400;
+    line-height: 1.42;
   }
 
   .publication-card {
