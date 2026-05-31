@@ -10,11 +10,18 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 2편</span>
+  <span>원문 3편</span>
   <span>번역 2편</span>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.05.31</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-05-31_published_recognition-justice-politics-decision-structure">칭찬이 없으면 왜 사내정치가 커지는가?</a>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.05.29</p>
     <div>
