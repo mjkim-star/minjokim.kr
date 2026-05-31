@@ -27,15 +27,15 @@ enableToc: false
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 연구 글 목록에서 원문 아래에 둡니다. -->
   <div class="latest-list">
     <div class="latest-group">
-      <a class="latest-original" href="./research/2026-05-29_published_sme-ambidexterity-boundary">
-        <span>"양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?</span>
-        <time>2026.05.29</time>
+      <a class="latest-original" href="./research/2026-05-31_published_recognition-justice-politics-decision-structure">
+        <span>칭찬이 없으면 왜 사내정치가 커지는가?</span>
+        <time>2026.05.31</time>
       </a>
     </div>
     <div class="latest-group">
-      <a class="latest-original" href="./research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">
-        <span>AI를 도입했는데 왜 회사는 달라지지 않는가?</span>
-        <time>2026.05.27</time>
+      <a class="latest-original" href="./research/2026-05-29_published_sme-ambidexterity-boundary">
+        <span>"양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?</span>
+        <time>2026.05.29</time>
       </a>
     </div>
   </div>
