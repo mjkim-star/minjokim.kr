@@ -54,9 +54,9 @@ body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="f
   margin-top: 2.1rem;
   padding-top: 1rem;
   color: var(--dark);
-  font-size: var(--home-note-font);
-  font-weight: 600;
-  line-height: var(--home-note-line);
+  font-size: var(--home-note-font) !important;
+  font-weight: 600 !important;
+  line-height: var(--home-note-line) !important;
 }
 
 body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="참고문헌"] ~ ol,
@@ -77,6 +77,30 @@ body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnote
   margin: 0.45rem 0;
   font-size: var(--home-note-font);
   line-height: var(--home-note-line);
+}
+
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="참고문헌"] ~ ol,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="参考文献"] ~ ol,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="references"] ~ ol,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="footnotes"] ~ ol {
+  padding-left: 1.25rem;
+}
+
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="참고문헌"] ~ ol li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="참고문헌"] ~ ol li p,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="参考文献"] ~ ol li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="参考文献"] ~ ol li p,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="references"] ~ ol li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="references"] ~ ol li p,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="footnotes"] ~ ol li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="footnotes"] ~ ol li p,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes ol,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes p {
+  font-size: var(--home-note-font) !important;
+  line-height: var(--home-note-line) !important;
+  font-weight: 400 !important;
 }
 
 body[data-slug^="research/"]:not([data-slug="research/index"]) article p {
@@ -284,7 +308,7 @@ body[data-slug="index"] article {
   font-weight: 500;
 }
 
-.latest-list > .latest-group:nth-of-type(n + 3) {
+.latest-list > .latest-group:nth-of-type(n + 4) {
   display: none;
 }
 
@@ -1008,4 +1032,43 @@ ul.toc-content.overflow > li > a.in-view {
   font-weight: 500;
   opacity: 0.8;
 }
-// put your custom CSS here!
+
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="참고문헌"],
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="参考文献"],
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="references"],
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="footnotes"],
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes h2 {
+  font-size: var(--home-note-font) !important;
+  font-weight: 600 !important;
+  line-height: var(--home-note-line) !important;
+}
+
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="참고문헌"] ~ ol,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="参考文献"] ~ ol,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="references"] ~ ol,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="footnotes"] ~ ol,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes ol {
+  font-size: var(--home-note-font) !important;
+  line-height: var(--home-note-line) !important;
+}
+
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="참고문헌"] ~ ol li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="참고문헌"] ~ ol li p,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="참고문헌"] ~ ol li a,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="参考文献"] ~ ol li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="参考文献"] ~ ol li p,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="参考文献"] ~ ol li a,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="references"] ~ ol li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="references"] ~ ol li p,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="references"] ~ ol li a,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="footnotes"] ~ ol li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="footnotes"] ~ ol li p,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article h2[id*="footnotes"] ~ ol li a,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes li,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes li p,
+body[data-slug^="research/"]:not([data-slug="research/index"]) article .footnotes li a {
+  font-size: inherit !important;
+  font-weight: 400 !important;
+  line-height: inherit !important;
+}
