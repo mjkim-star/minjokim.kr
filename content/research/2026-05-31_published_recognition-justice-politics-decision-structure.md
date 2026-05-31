@@ -193,10 +193,3 @@ tags:
 
 4. Gerald R. Ferris and K. Michele Kacmar, "Perceptions of Organizational Politics," Journal of Management 18, no. 1 (1992): 93-116. DOI: 10.1177/014920639201800107. 이 글에서는 기준과 설명이 약할 때 구성원이 조직을 정치적으로 해석할 수 있다는 논지를 보강하는 데 사용했다.
 
----
-
-© 2026 김민조 / All rights reserved / mjkim@bridge-abm.com
-
-이 글은 김민조 연구노트의 원문입니다.  
-글의 일부를 인용하거나 공유하실 때에는 출처와 원문 링크를 남겨주세요.
-
