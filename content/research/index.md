@@ -10,18 +10,11 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 4편</span>
+  <span>원문 3편</span>
   <span>번역 2편</span>
 </section>
 
 <section class="clean-index-list">
-  <article class="clean-index-item">
-    <p class="clean-index-date">2026.06.03</p>
-    <div>
-      <a class="clean-index-title" href="/research/2026-06-03_published_ai-prompt-as-job-description">AI 프롬프트는 새로운 직무기술서인가?</a>
-    </div>
-  </article>
-
   <article class="clean-index-item">
     <p class="clean-index-date">2026.05.31</p>
     <div>
