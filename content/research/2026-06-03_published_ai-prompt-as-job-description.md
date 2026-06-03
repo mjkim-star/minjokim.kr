@@ -251,10 +251,6 @@ AI를 잘 쓰는 회사는 프롬프트를 많이 가진 회사가 아니다.
 
 프롬프트를 통해 일을 더 분명하게 이해하고, 그 이해를 조직의 루틴으로 남기는 회사다.
 
-## 가져가야 할 한 문장
-
-> 회사에서 프롬프트는 AI에게 던지는 문장이 아니라, 조직이 일을 어떻게 설명하고 누가 책임지는지 드러내는 문장이다.
-
 ## 참고문헌과 주석
 
 1. J. Richard Hackman and Greg R. Oldham, “Motivation through the Design of Work: Test of a Theory,” *Organizational Behavior and Human Performance* 16, no. 2 (1976): 250-279. DOI: 10.1016/0030-5073(76)90016-7. 이 글에서는 일이 설계 대상이며, 역할과 피드백 구조가 성과와 경험에 영향을 준다는 배경으로 사용했다.
@@ -262,9 +258,3 @@ AI를 잘 쓰는 회사는 프롬프트를 많이 가진 회사가 아니다.
 2. Martha S. Feldman and Brian T. Pentland, “Reconceptualizing Organizational Routines as a Source of Flexibility and Change,” *Administrative Science Quarterly* 48, no. 1 (2003): 94-118. DOI: 10.2307/3556620. 이 글에서는 루틴을 고정된 절차가 아니라 반복 수행 속에서 수정될 수 있는 조직 행동으로 보는 배경으로 사용했다.
 
 3. Ikujiro Nonaka, “A Dynamic Theory of Organizational Knowledge Creation,” *Organization Science* 5, no. 1 (1994): 14-37. DOI: 10.1287/orsc.5.1.14. 이 글에서는 개인의 암묵지가 조직의 명시지와 행동으로 전환되는 지식창조 관점의 배경으로 사용했다.
-
----
-
-© 2026 김민조 / All rights reserved / mjkim@bridge-abm.com
-
-이 글은 김민조 연구노트의 원문입니다. 글의 일부를 인용하거나 공유하실 때에는 출처와 원문 링크를 남겨주세요.
