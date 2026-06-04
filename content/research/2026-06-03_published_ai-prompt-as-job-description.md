@@ -2,6 +2,8 @@
 type: published
 status: published
 created: 2026-06-03
+date: 2026-06-03
+published: 2026-06-03
 ready_at: 2026-06-03
 published_at: 2026-06-03
 channel: Quartz
