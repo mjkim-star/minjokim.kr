@@ -508,8 +508,11 @@ body[data-slug="papers-and-books/index"] .page-listing {
 .clean-index-list {
   display: grid;
   gap: 0;
+  width: 100%;
   max-width: 46rem;
   margin: 1rem 0 1.6rem;
+  overflow: hidden;
+  box-sizing: border-box;
 }
 
 .clean-index-item {
@@ -518,6 +521,9 @@ body[data-slug="papers-and-books/index"] .page-listing {
   gap: 0.85rem;
   padding: 0.72rem 0;
   border-top: 1px solid color-mix(in srgb, var(--lightgray) 86%, transparent);
+  min-width: 0;
+  overflow: hidden;
+  box-sizing: border-box;
 }
 
 .clean-index-item:last-child {
@@ -542,6 +548,15 @@ body[data-slug="papers-and-books/index"] .page-listing {
   overflow-wrap: anywhere;
 }
 
+.clean-index-page a.clean-index-title,
+.clean-index-page a.clean-index-subitem {
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  text-decoration: none !important;
+}
+
 .clean-index-title:hover,
 .clean-index-subitem:hover {
   text-decoration: underline;
@@ -558,6 +573,7 @@ body[data-slug="papers-and-books/index"] .page-listing {
   text-decoration: none;
   word-break: keep-all;
   overflow-wrap: anywhere;
+  max-width: 100%;
 }
 
 .clean-index-subitem span {
@@ -669,6 +685,11 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
     overflow-x: hidden;
   }
 
+  html,
+  .page {
+    overflow-x: clip;
+  }
+
   .page,
   .page > #quartz-body,
   .center,
@@ -685,6 +706,7 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
     width: 100%;
     padding-left: var(--mobile-page-pad);
     padding-right: var(--mobile-page-pad);
+    overflow-x: clip;
   }
 
   .page > #quartz-body > * {
@@ -937,13 +959,18 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
 
   .clean-index-list {
     gap: 0;
+    width: 100%;
+    max-width: 100%;
     margin-top: 0.75rem;
+    overflow: hidden;
   }
 
   .clean-index-item {
     grid-template-columns: 1fr;
     gap: 0.28rem;
     padding: 0.8rem 0;
+    width: 100%;
+    max-width: 100%;
   }
 
   .clean-index-date {
@@ -951,10 +978,14 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
   }
 
   .clean-index-title {
+    display: block;
+    width: fit-content;
+    max-width: 100%;
     font-size: clamp(0.9rem, 3.8vw, 0.98rem);
   }
 
   .clean-index-subitem {
+    width: 100%;
     font-size: clamp(0.78rem, 3.3vw, 0.86rem);
   }
 
