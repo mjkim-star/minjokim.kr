@@ -139,7 +139,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
       useSavedState: false,
       sortFn: explorerSortByRecentDate,
       mapFn: explorerDisplayNames,
@@ -167,7 +167,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
       useSavedState: false,
       sortFn: explorerSortByRecentDate,
       mapFn: explorerDisplayNames,
