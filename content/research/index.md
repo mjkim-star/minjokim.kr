@@ -10,11 +10,18 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 5편</span>
+  <span>원문 6편</span>
   <span>번역 10편</span>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.06.07</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-06-07_published_sme-network-confusion-internal-conversion">[SME] 대표의 관계는 언제 회사의 힘이 아니라 혼선이 되는가?</a>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.06.03</p>
     <div>
