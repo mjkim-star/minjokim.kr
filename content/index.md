@@ -22,10 +22,16 @@ enableToc: false
   <p class="section-label">Latest</p>
   <div class="section-title-row">
     <h2>최신 글</h2>
-    <a class="section-count-link" href="./research">전체 글 보기 (15)</a>
+    <a class="section-count-link" href="./research">전체 글 보기 (16)</a>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 연구 글 목록에서 원문 아래에 둡니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-06-07_published_sme-network-confusion-internal-conversion">
+        <span>[SME] 대표의 관계는 언제 회사의 힘이 아니라 혼선이 되는가?</span>
+        <time>2026.06.07</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-06-03_published_strategy-meeting-management-system">
         <span>전략은 왜 회의에서 멈추는가?</span>
@@ -36,12 +42,6 @@ enableToc: false
       <a class="latest-original" href="./research/2026-06-03_published_ai-prompt-as-job-description">
         <span>회사에서 AI 프롬프트는 왜 업무를 다시 정의하게 만드는가?</span>
         <time>2026.06.03</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-05-31_published_recognition-justice-politics-decision-structure">
-        <span>칭찬이 없으면 왜 사내정치가 커지는가?</span>
-        <time>2026.05.31</time>
       </a>
     </div>
   </div>
