@@ -36,7 +36,7 @@ quality_review_log: _logs/2026-06-07_publication-quality-review_sme-network-conf
 integrity_status: integrity_pass
 reference_truth_audit: pass
 reference_truth_audit_date: 2026-06-07
-truth_audit: "Jiang et al.(2025), Ode et al.(2026), Biswakarma & Bohora(2025), Cohen & Levinthal(1990) 서지와 핵심 주장 확인. 외부 관계를 성과 직접 원인이 아니라 신호, 흡수, 선택, 재구성의 조건으로 제한해 사용함."
+truth_audit: "Jiang et al.(2025, DOI: 10.1371/journal.pone.0325378), Ode et al.(2026, DOI: 10.1002/jsc.70051), Biswakarma & Bohora(2025, DOI: 10.1186/s43093-025-00592-w), Cohen & Levinthal(1990) 서지와 핵심 주장 확인. 외부 관계를 성과 직접 원인이 아니라 신호, 흡수, 선택, 재구성의 조건으로 제한해 사용함."
 style_status: style_pass
 academic_review_status: publish_ready
 self_plagiarism_review:
@@ -222,4 +222,4 @@ tags:
 
 [^absorptive_capacity_note]: 흡수역량은 외부 지식을 알아보고, 이해하고, 조직 안에서 활용하는 능력이다. 이 글에서는 대표가 들은 외부 정보를 회사 안의 문제, 선택, 실행 언어로 바꾸는 과정을 설명하는 보조 렌즈로 사용했다. Cohen and Levinthal, "Absorptive Capacity: A New Perspective on Learning and Innovation," *Administrative Science Quarterly*, 1990.
 
-[^resilience_note]: SME 회복탄력성 연구는 위기 대응을 단순한 버티기가 아니라 외부 자원, 적응, 학습, 내부 실행 역량의 결합으로 본다. 이 글에서는 회복탄력성을 대표 개인의 인맥이 아니라 조직 안에서 소화되는 전환 능력으로 제한해 해석했다. Ode et al., "Archetypes of SME Resilience: A Systematic Literature Review of Antecedents, Types and Outcomes of Resilience in SMEs," *Strategic Change*, 2026; Biswakarma and Bohora, "Dynamic capabilities and organizational performance: the mediating role of organizational resilience in IT sector," *Future Business Journal*, 2025, DOI: 10.1186/s43093-025-00592-w.
+[^resilience_note]: SME 회복탄력성 연구는 위기 대응을 단순한 버티기가 아니라 외부 자원, 적응, 학습, 내부 실행 역량의 결합으로 본다. 이 글에서는 회복탄력성을 대표 개인의 인맥이 아니라 조직 안에서 소화되는 전환 능력으로 제한해 해석했다. Ode et al., "Archetypes of SME Resilience: A Systematic Literature Review of Antecedents, Types and Outcomes of Resilience in SMEs," *Strategic Change*, 2026, DOI: 10.1002/jsc.70051; Biswakarma and Bohora, "Dynamic capabilities and organizational performance: the mediating role of organizational resilience in IT sector," *Future Business Journal*, 2025, DOI: 10.1186/s43093-025-00592-w.
