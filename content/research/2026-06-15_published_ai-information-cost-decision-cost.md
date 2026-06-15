@@ -16,6 +16,7 @@ author: 김민조
 title: "AI로 정보는 싸졌는데 왜 결정은 더 비싸졌는가?"
 subtitle: "AI가 낮춘 것은 정보 처리 비용이고, 드러낸 것은 판단과 책임의 비용이다"
 description: "AI가 정보를 더 빠르고 싸게 만들수록 조직 안에서 판단, 책임, 조율 비용이 어디로 이동하는지 살피는 연구 에세이."
+enableToc: true
 source_draft: "[[2026-06-14_draft_04_ai-lowers-information-cost-not-judgment-cost]]"
 source_concepts:
   - "[[AI_정보비용_판단비용_분리]]"
@@ -298,99 +299,5 @@ AI를 잘 쓰는 회사는 정보를 많이 가진 회사가 아닐 수 있다. 
 3. Liudmila Alekseeva, José Azar, Mireia Gine, Sampsa Samila, and Bledi Taska, "Artificial Intelligence Adoption and the Demand for Managerial Expertise," *Strategic Management Journal* (2026). DOI: 10.1002/smj.70099. 이 글에서는 AI 도입이 관리 역할을 단순 대체하기보다 조정과 판단 역할의 재구성을 요구할 수 있다는 근거로 제한해 사용했다.
 
 4. Rick Antle and Joel S. Demski, "The Controllability Principle in Responsibility Accounting," *The Accounting Review* 63, no. 4 (1988): 700-718. 이 글에서는 AI 산출물 이후 사람에게 책임을 묻기 전에 통제 가능한 범위와 권한을 확인해야 한다는 배경으로 사용했다.
-
-## Final Integrity Check
-
-### 1. 최종 판정
-
-- 판정: integrity_pass
-- reference_truth_audit: pass
-- 이유: 4개 인용 모두 Source Note와 DOI/서지가 일치하며 본문 사용 범위가 캐노니컬 정의 안에 머문다. Alekseeva et al.(2026)과 Antle & Demski(1988)는 본문에서 명시적으로 "이 연구를 너무 넓게 읽을 필요는 없다", "이 논의를 AI에 그대로 옮기자는 뜻은 아니다"로 적용 범위를 제한해 과잉 일반화 방지. 결론도 "정보는 싸질 수 있다 / 결정은 여전히 회사가 치러야 할 비용이다"라는 개념적 마감(conceptual closure)으로 닫혀 외부 기획실/컨설팅 수렴 없음. 공개 형식 자동 검사 PASS.
-
-### 2. 주장-근거 매핑
-
-| 핵심 주장 | 근거 노트 | 판정 | 조치 |
-|---|---|---|---|
-| AI는 정보 처리 비용을 낮추되 판단·책임·조율·정렬 비용을 드러낸다 | AI_정보비용_판단비용_분리 (Concept) + 4개 source notes | 내 해석 + 이론적 추론 | 유지 |
-| 의사결정권은 특정 지식이 있는 곳에 가깝되 통제·평가 장치가 함께 필요하다 | Jensen & Meckling Source Note (JACF 1995) | 근거 있음 | 유지 |
-| 공식 권한과 실제 권한은 구분된다 | Aghion & Tirole Source Note (JPE 1997) | 근거 있음 | 유지 |
-| AI 도입은 관리자 단순 대체가 아니라 조정·판단 역할 재구성을 요구할 수 있다 | Alekseeva et al. Source Note (SMJ 2026) | 근거 있음 (범위 제한 명시) | 유지 |
-| 책임을 묻기 전 통제 가능 범위를 확인해야 한다 | Antle & Demski Source Note (Accounting Review 1988) | 근거 있음 (AI 직접 이전 아님 명시) | 유지 |
-
-### 3. 환각 위험 문장
-
-- 없음. 4개 source notes 모두 노트 본문 내용과 본문 인용 주장이 일치하며, 사례·수치·기업명 단정 없음.
-
-### 4. 이론·학자·논문명 검수
-
-- 정확한 항목:
-  - Michael C. Jensen and William H. Meckling, "Specific and General Knowledge, and Organizational Structure," *Journal of Applied Corporate Finance* 8(2):4-18 (1995), DOI 10.1111/j.1745-6622.1995.tb00283.x — Source Note의 Wiley/SSRN 서지와 일치. 본문은 JACF 게재판 연도(1995)를 사용해 일관됨.
-  - Philippe Aghion and Jean Tirole, "Formal and Real Authority in Organizations," *Journal of Political Economy* 105(1):1-29 (1997), DOI 10.1086/262063 — Source Note의 University of Chicago Press 서지와 일치.
-  - Liudmila Alekseeva, José Azar, Mireia Gine, Sampsa Samila, Bledi Taska, "Artificial Intelligence Adoption and the Demand for Managerial Expertise," *Strategic Management Journal* (2026), DOI 10.1002/smj.70099 — Source Note(verification_status: partial, 전문 미정독)와 일치. 본문은 "관리자 단순 대체가 아니라 조정·판단·역량 개발 역할 재구성을 요구할 수 있다"로 약하게 사용해 partial verification 한계를 보완.
-  - Rick Antle and Joel S. Demski, "The Controllability Principle in Responsibility Accounting," *The Accounting Review* 63(4):700-718 (1988) — Source Note JSTOR 서지(https://www.jstor.org/stable/247906)와 일치.
-- 확인 필요한 항목: 없음.
-- 이론의 고유 정의와 본문 사용 방식 불일치: 없음.
-- 정의 차용 / 맥락 적용 / 확장 해석 / 반론 구분 누락: 없음. Alekseeva et al.과 Antle & Demski 두 인용은 본문에서 명시적 적용 범위 제한 문장을 동반함.
-- 근거 없이 이론의 의미를 넓힌 문장: 없음.
-- 이론 조합을 기존 이론의 확정 정의처럼 쓴 문장: 없음. 본문의 "정보비용·판단비용·책임비용·조율비용·정렬비용" 5분해 프레임은 김민조 개념(AI_정보비용_판단비용_분리)으로 명시되어 있고, 기존 이론의 확정 정의로 제시되지 않음.
-- 실재성 확인 완료 항목: 4개 모두.
-- 실재성 확인 실패 항목: 없음.
-- DOI/URL/출판정보 불일치: 없음.
-- 학자 이름 원문 병기 누락: 없음 (젠슨/Michael C. Jensen, 메클링/William H. Meckling, 아기옹/Philippe Aghion, 티롤/Jean Tirole, 앤틀/Rick Antle, 뎀스키/Joel S. Demski 모두 첫 등장 시 병기). Alekseeva 등은 본문에서 직접 호명하지 않고 "최근 AI 도입 기업을 다룬 연구"로 간접 참조.
-- 선행 논문 용어 차용 표시 누락: "formal authority/real authority", "controllability principle"은 본문 내 한국어 표현으로 풀이.
-- 오용 가능성: 없음.
-
-### 5. 사례·수치·날짜 검수
-
-- 정확한 항목: 본문에 특정 회사·산업 통계·수치 단정 없음. 표(원가표)도 비용 항목 정의용 진단표이며 수치를 포함하지 않음.
-- 확인 필요한 항목: 없음.
-- 과장된 표현: 없음. "더 잘 보이게 되었다", "관리의 위치가 달라진다" 등 약한 단정 위주.
-
-### 6. 인용과 위키링크 검수
-
-- Reference Truth Audit:
-  - 전체 참고문헌 수: 4
-  - 실재성 확인 완료: 4
-  - 실재성 확인 실패: 0
-  - DOI/URL 확인 완료: 3개 DOI 일치 + Antle & Demski JSTOR 서지 일치
-  - Source Note와 원자료 불일치: 없음
-  - 본문 주장과 참조자료 주장 불일치: 없음
-- 깨진 링크: 없음.
-- 근거 노트와 본문 불일치: 없음.
-- Source Note 없이 단정한 문장: 없음 (4개 인용 모두 Source Note 보유).
-- 각주 없는 핵심 주장: 없음. 본문 [1]-[4] ↔ 참고문헌 1-4 1:1 일치.
-- `## 참고문헌과 주석` 누락 또는 본문 각주와 불일치: 없음.
-- 공개 본문에 캐럿-대괄호 형식의 Markdown 각주(caret-bracket footnote) 잔존 여부: 없음 (validator PASS).
-- 공개 본문에 Obsidian 이중 대괄호 위키링크 잔존 여부: 없음 (본문 영역; frontmatter는 06_Published 이동 시 정리).
-- 공개 본문에 `## Footnotes`, `## 각주`, `## 脚注` 같은 렌더링용 각주 제목이 남아 있는지: 없음.
-- 진단표나 체크리스트가 ```text 코드블록으로 노출되는지: 없음 (원가표는 정상 Markdown 표).
-- 다국어판 제목, 핵심 학술어, 참고문헌 섹션이 원문과 같은 공개 형식 규칙을 따르는지: 다국어판 없음.
-
-### 7. 홍보/영업 오해 검수
-
-- 서비스 소개처럼 읽히는 문장: 없음.
-- 브릿지 홍보로 오해될 문장: 없음.
-- 연구 목적 문장으로 바꿀 부분: 없음.
-
-### 8. 주제 수렴 검수
-
-- 결론 유형: "정보는 싸질 수 있다 / 결정은 여전히 회사가 치러야 할 비용이다"는 개념적 마감 + 진단 질문 결합형. frontmatter의 `style_profile.ending_type: conceptual_closure`와 일치.
-- 결론이 외부 기획실/컨설팅 필요성으로 끝나는가: 아니오.
-- 외부 기획실/컨설팅이 연구 대상인지, 해결 상품처럼 등장하는지: 본문에 등장하지 않음.
-- 이론적 명제/연구 질문/방법론/개념 모델/후속 연구로 바꿀 부분: 5분해 비용 모델(정보·판단·책임·조율·정렬)이 진단 모델로 남음.
-
-### 9. 학술 범위 검수
-
-- 이론 검토가 충분한가: 정보·권한·책임 3축에서 각각 고전(Jensen-Meckling, Aghion-Tirole, Antle-Demski) + 최근 실증(Alekseeva 2026) 1편을 배경으로 사용. AI에 대한 직접 실증 확장 주장 없이 "렌즈"로 제한.
-- 이론의 한계, 경계조건, 반례, 미해결 질문이 있는가: 명시적 한계 절은 없으나, "이 연구를 너무 넓게 읽을 필요는 없다", "이 논의를 AI에 그대로 옮기자는 뜻은 아니다", "단순 감독이나 문서 정리만 한다면 그럴 수 있다" 등 본문 곳곳에서 경계조건 환기.
-- 방법론, 분류틀, 진단틀, 개념 모델 중 하나가 남는가: 5비용 원가표 진단틀이 명확히 남음.
-- 사업화/홍보/서비스 개발 문장으로 넘어간 부분: 없음.
-
-### 10. 공개 전 필수 수정
-
-- 반드시 수정: 없음.
-- 삭제 권장: 없음.
-- 약화 권장: 없음.
-- 추가 근거 필요: 없음. 공개 가능.
 
 
