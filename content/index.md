@@ -28,7 +28,7 @@ enableToc: false
   <div class="latest-list">
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-06-15_published_ai-information-cost-decision-cost">
-        <span>AI로 정보는 싸졌는데 왜 결정은 더 비싸졌는가?</span>
+        <span>AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</span>
         <time>2026.06.15</time>
       </a>
     </div>
