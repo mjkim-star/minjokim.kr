@@ -10,11 +10,18 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 8편</span>
+  <span>원문 9편</span>
   <span>번역 10편</span>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.06.16</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-06-16_published_exception-requests-profit-leakage">예외 요청은 왜 회사 이익을 새게 만드는가?</a>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.06.15</p>
     <div>
