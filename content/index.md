@@ -22,10 +22,16 @@ enableToc: false
   <p class="section-label">Latest</p>
   <div class="section-title-row">
     <h2>최신 글</h2>
-    <a class="section-count-link" href="./research">전체 글 보기 (19)</a>
+    <a class="section-count-link" href="./research">전체 글 보기 (20)</a>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 연구 글 목록에서 원문 아래에 둡니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-06-20_published_sme-flexibility-not-foresight">
+        <span>작은 회사는 왜 예측보다 바꾸는 속도가 중요한가?</span>
+        <time>2026.06.20</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-06-16_published_exception-requests-profit-leakage">
         <span>예외 요청은 왜 회사 이익을 새게 만드는가?</span>
@@ -36,12 +42,6 @@ enableToc: false
       <a class="latest-original" href="./research/2026-06-15_published_ai-information-cost-decision-cost">
         <span>AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</span>
         <time>2026.06.15</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-06-11_published_busy-company-cannot-learn">
-        <span>바쁜 회사는 왜 더 배우지 못하는가?</span>
-        <time>2026.06.11</time>
       </a>
     </div>
   </div>
