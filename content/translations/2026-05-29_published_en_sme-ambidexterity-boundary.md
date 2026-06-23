@@ -5,6 +5,8 @@ type: published
 status: published
 language: en
 translationKey: sme-ambidexterity-boundary
+aliases:
+  - "/research/2026-05-29_published_en_sme-ambidexterity-boundary"
 created: 2026-05-29
 published: 2026-05-29
 published_at: 2026-05-29

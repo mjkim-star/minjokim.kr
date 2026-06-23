@@ -33,7 +33,7 @@ function explorerSortByRecentDate(a: any, b: any) {
       typeof aFm === "string" && aFm.length > 0
         ? aFm
         : aSlug
-            .replace(/^research\//, "")
+            .replace(/^(research|translations)\//, "")
             .replace(/^\d{4}-\d{2}-\d{2}_/, "")
             .replace(/^published_/, "")
             .replace(/^(en|zh)_/, "")
@@ -41,7 +41,7 @@ function explorerSortByRecentDate(a: any, b: any) {
       typeof bFm === "string" && bFm.length > 0
         ? bFm
         : bSlug
-            .replace(/^research\//, "")
+            .replace(/^(research|translations)\//, "")
             .replace(/^\d{4}-\d{2}-\d{2}_/, "")
             .replace(/^published_/, "")
             .replace(/^(en|zh)_/, "")
@@ -93,9 +93,11 @@ function explorerDisplayNames(node: any) {
 // The folder still exists for alias / 404-prevention but should not be navigable.
 function explorerFilter(node: any): boolean {
   const slug = `${node.slug ?? ""}`
-  const language = `${node.data?.frontmatter?.language ?? ""}`.toLowerCase()
+  const language = `${node.data?.frontmatter?.language ?? node.data?.language ?? ""}`.toLowerCase()
   const isTranslation =
-    (language && language !== "ko" && language !== "ko-kr") || /\/\d{4}-\d{2}-\d{2}_published_(en|zh)_/.test(slug)
+    slug.startsWith("translations/") ||
+    (language && language !== "ko" && language !== "ko-kr") ||
+    /(^|\/)\d{4}-\d{2}-\d{2}_published_(en|zh)_/.test(slug)
 
   if (slug === "research/papers-and-books" || slug.startsWith("research/papers-and-books/")) {
     return false

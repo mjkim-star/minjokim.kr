@@ -5,6 +5,8 @@ type: published
 status: published
 language: zh-CN
 translationKey: ai-adoption-dynamic-capability-mediation
+aliases:
+  - "/research/2026-05-27_published_zh_ai-adoption-dynamic-capability-mediation"
 created: 2026-05-27
 published: 2026-05-27
 published_at: 2026-05-27

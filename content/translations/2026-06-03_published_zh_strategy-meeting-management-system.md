@@ -5,6 +5,8 @@ type: published
 status: published
 language: zh-CN
 translationKey: strategy-meeting-management-system
+aliases:
+  - "/research/2026-06-03_published_zh_strategy-meeting-management-system"
 created: 2026-06-03
 published: 2026-06-03
 published_at: 2026-06-03

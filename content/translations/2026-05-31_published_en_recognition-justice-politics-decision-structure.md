@@ -5,6 +5,8 @@ type: published
 status: published
 language: en
 translationKey: recognition-justice-politics-decision-structure
+aliases:
+  - "/research/2026-05-31_published_en_recognition-justice-politics-decision-structure"
 created: 2026-05-31
 published: 2026-05-31
 published_at: 2026-05-31

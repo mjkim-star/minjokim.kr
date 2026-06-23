@@ -5,6 +5,8 @@ type: published
 status: published
 language: zh-CN
 translationKey: ai-prompt-as-job-description
+aliases:
+  - "/research/2026-06-03_published_zh_ai-prompt-as-job-description"
 created: 2026-06-03
 published: 2026-06-03
 published_at: 2026-06-03

@@ -5,6 +5,8 @@ type: published
 status: published
 language: en
 translationKey: ai-adoption-dynamic-capability-mediation
+aliases:
+  - "/research/2026-05-28_published_en_ai-adoption-dynamic-capability-mediation"
 created: 2026-05-28
 published: 2026-05-28
 published_at: 2026-05-28
