@@ -229,6 +229,13 @@ body[data-slug="index"] article {
   box-sizing: border-box;
 }
 
+.section-action-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.35rem 0.6rem;
+}
+
 .section-count-link {
   flex: 0 0 auto;
   color: var(--darkgray);
@@ -301,6 +308,28 @@ body[data-slug="index"] article {
   max-width: 100%;
   overflow-wrap: anywhere;
   word-break: keep-all;
+}
+
+.latest-list a span strong {
+  display: block;
+  color: var(--secondary);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.42;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.latest-list a span em {
+  display: block;
+  margin-top: 0.22rem;
+  color: var(--darkgray);
+  font-size: 0.78rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.45;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 
 .latest-list small {
@@ -474,6 +503,7 @@ body[data-slug="index"] article {
 
 .clean-index-page + .page-listing,
 body[data-slug="research/index"] .page-listing,
+body[data-slug="translations/index"] .page-listing,
 body[data-slug="papers-and-books/index"] .page-listing {
   display: none !important;
 }
@@ -503,6 +533,21 @@ body[data-slug="papers-and-books/index"] .page-listing {
   color: var(--darkgray);
   font-size: 0.76rem;
   font-weight: 400;
+}
+
+.clean-index-summary a {
+  padding: 0.28rem 0.48rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  color: var(--secondary);
+  font-size: 0.76rem;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.clean-index-summary a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.16rem;
 }
 
 .clean-index-list {
@@ -810,8 +855,14 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
 
   .section-title-row {
     align-items: baseline;
+    flex-wrap: wrap;
     gap: 0.6rem;
     margin-bottom: 0.58rem;
+  }
+
+  .section-action-links {
+    justify-content: flex-start;
+    gap: 0.3rem 0.5rem;
   }
 
   .section-count-link {
@@ -852,6 +903,16 @@ body[data-slug*="papers-and-books"] article .table-container td:first-child {
     width: 100%;
     min-width: 0;
     max-width: 100%;
+  }
+
+  .latest-list a span strong {
+    font-size: clamp(0.96rem, 3.95vw, 1.04rem);
+    line-height: 1.42;
+  }
+
+  .latest-list a span em {
+    font-size: clamp(0.76rem, 3.25vw, 0.84rem);
+    line-height: 1.45;
   }
 
   .latest-translation {

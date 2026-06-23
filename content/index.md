@@ -13,34 +13,46 @@ enableToc: false
     <img class="section-mark" src="/static/icon.png" alt="" />
     <p class="section-label hero-label">Research Note</p>
   </div>
-  <p class="hero-kicker">경영학 박사이자 경영지도사입니다.</p>
+  <p class="hero-kicker">김민조 연구노트는 좋은 이론이 현장에서 멈추는 지점을 살핍니다.</p>
   <p class="hero-question">좋은 이론은 왜 현장에서 빈번하게 멈추는가.</p>
-  <p class="hero-body">전략, 동적역량, 의사결정, AI 전환을 통해 이론이 다시 판단과 실행으로 이어지는 구조를 살핍니다.</p>
+  <p class="hero-body">경영학 박사이자 경영지도사로서, 전략, 의사결정, 관리회계, 조직학습, AI 전환을 통해 판단이 실행으로 이어지는 조건을 기록합니다.</p>
 </section>
 
 <section class="home-section latest-section">
   <p class="section-label">Latest</p>
   <div class="section-title-row">
     <h2>최신 글</h2>
-    <a class="section-count-link" href="./research">전체 글 보기 (20)</a>
+    <div class="section-action-links">
+      <a class="section-count-link" href="./research">전체 원문 보기 (10)</a>
+      <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
+    </div>
   </div>
-  <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 연구 글 목록에서 원문 아래에 둡니다. -->
+  <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-06-21_published_incongruity-as-innovation-signal">
-        <span>불일치는 왜 혁신의 첫 신호가 되는가?</span>
+        <span>
+          <strong>불일치는 왜 혁신의 첫 신호가 되는가?</strong>
+          <em>반복되는 어긋남을 고객 변화의 신호로 읽는 법</em>
+        </span>
         <time>2026.06.21</time>
       </a>
     </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-06-16_published_exception-requests-profit-leakage">
-        <span>예외 요청은 왜 회사 이익을 새게 만드는가?</span>
+        <span>
+          <strong>예외 요청은 왜 회사 이익을 새게 만드는가?</strong>
+          <em>예외를 받아주는 순간 이익이 어디서 새는지 본다</em>
+        </span>
         <time>2026.06.16</time>
       </a>
     </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-06-15_published_ai-information-cost-decision-cost">
-        <span>AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</span>
+        <span>
+          <strong>AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</strong>
+          <em>정보가 많아질수록 판단 비용이 커지는 이유</em>
+        </span>
         <time>2026.06.15</time>
       </a>
     </div>
