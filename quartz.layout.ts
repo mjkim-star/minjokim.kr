@@ -93,7 +93,14 @@ function explorerDisplayNames(node: any) {
 // The folder still exists for alias / 404-prevention but should not be navigable.
 function explorerFilter(node: any): boolean {
   const slug = `${node.slug ?? ""}`
+  const language = `${node.data?.frontmatter?.language ?? ""}`.toLowerCase()
+  const isTranslation =
+    (language && language !== "ko" && language !== "ko-kr") || /\/\d{4}-\d{2}-\d{2}_published_(en|zh)_/.test(slug)
+
   if (slug === "research/papers-and-books" || slug.startsWith("research/papers-and-books/")) {
+    return false
+  }
+  if (slug.startsWith("research/") && isTranslation) {
     return false
   }
   return true

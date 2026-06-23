@@ -94,7 +94,7 @@ tags:
 
 그러나 걸러야 할 말도 많아진다.
 
-중소기업 회복탄력성 연구는 위기 대응을 단순한 정신력이나 버티기로 보지 않는다. 자원, 적응 능력, 지식 창출, 동적역량, 외부 네트워크가 함께 작동할 때 회사가 흔들림 뒤에 다시 움직일 수 있다고 본다.[^sme_resilience_cluster]
+중소기업 회복탄력성 연구는 위기 대응을 단순한 정신력이나 버티기로 보지 않는다. 자원, 적응 능력, 지식 창출, 동적역량, 외부 네트워크가 함께 작동할 때 회사가 흔들림 뒤에 다시 움직일 수 있다고 본다.
 
 여기서 중요한 것은 관계의 양이 아니라 전환이다.
 
@@ -156,9 +156,9 @@ tags:
 
 누가 볼 것인가. 언제까지 볼 것인가. 무엇을 확인할 것인가. 다음 회의에서 무엇이 바뀌었는지 다시 볼 것인가. 여기까지 내려오지 않으면 관계는 조직 역량이 되지 못한다.
 
-동적역량 관점에서 보면 외부 관계는 감지의 통로가 될 수 있다. 그러나 감지만으로 회사는 바뀌지 않는다. 감지한 것을 선택하고, 선택한 것을 회사의 자원 배치와 일하는 방식으로 다시 구성해야 한다.[^dynamic_capability_note]
+동적역량 관점에서 보면 외부 관계는 감지의 통로가 될 수 있다. 그러나 감지만으로 회사는 바뀌지 않는다. 감지한 것을 선택하고, 선택한 것을 회사의 자원 배치와 일하는 방식으로 다시 구성해야 한다.
 
-흡수역량 관점에서도 비슷하다. 외부 지식은 들어오는 순간 바로 조직 지식이 되지 않는다. 알아보고, 이해하고, 회사의 일과 연결하고, 실제 행동으로 써야 조직 안에 남는다.[^absorptive_capacity_note]
+흡수역량 관점에서도 비슷하다. 외부 지식은 들어오는 순간 바로 조직 지식이 되지 않는다. 알아보고, 이해하고, 회사의 일과 연결하고, 실제 행동으로 써야 조직 안에 남는다.
 
 관계가 많은 회사가 강해지는 것은 이 과정을 통과할 때다.
 
@@ -216,10 +216,7 @@ tags:
 
 ## 참고문헌과 주석
 
-[^sme_resilience_cluster]: Jiang 등은 중소기업의 사회적 네트워크 특성이 지속가능한 성과에 미치는 영향을 동적역량 관점에서 분석했다. 이 글에서는 이 논문을 관계가 성과로 바로 이어진다는 근거가 아니라, 외부 관계가 조직 내부의 역량과 결합될 때 의미를 갖는다는 배경으로 사용했다. Jiang et al., "Unveiling the influence of social network characteristics on sustainable performance in small and medium-sized enterprises: A dynamic capabilities perspective," *PLOS ONE*, 2025, DOI: 10.1371/journal.pone.0325378.
-
-[^dynamic_capability_note]: 동적역량은 변화 신호를 감지하는 것만이 아니라, 선택하고 조직의 자원과 일하는 방식을 다시 구성하는 과정을 포함한다. 이 글에서는 외부 관계를 감지의 통로로 제한해 사용하고, 성과의 직접 원인으로 확대하지 않았다.
-
-[^absorptive_capacity_note]: 흡수역량은 외부 지식을 알아보고, 이해하고, 조직 안에서 활용하는 능력이다. 이 글에서는 대표가 들은 외부 정보를 회사 안의 문제, 선택, 실행 언어로 바꾸는 과정을 설명하는 보조 렌즈로 사용했다. Cohen and Levinthal, "Absorptive Capacity: A New Perspective on Learning and Innovation," *Administrative Science Quarterly*, 1990.
-
-[^resilience_note]: SME 회복탄력성 연구는 위기 대응을 단순한 버티기가 아니라 외부 자원, 적응, 학습, 내부 실행 역량의 결합으로 본다. 이 글에서는 회복탄력성을 대표 개인의 인맥이 아니라 조직 안에서 소화되는 전환 능력으로 제한해 해석했다. Ode et al., "Archetypes of SME Resilience: A Systematic Literature Review of Antecedents, Types and Outcomes of Resilience in SMEs," *Strategic Change*, 2026, DOI: 10.1002/jsc.70051; Biswakarma and Bohora, "Dynamic capabilities and organizational performance: the mediating role of organizational resilience in IT sector," *Future Business Journal*, 2025, DOI: 10.1186/s43093-025-00592-w.
+1. Jiang 등은 중소기업의 사회적 네트워크 특성이 지속가능한 성과에 미치는 영향을 동적역량 관점에서 분석했다. 이 글에서는 이 논문을 관계가 성과로 바로 이어진다는 근거가 아니라, 외부 관계가 조직 내부의 역량과 결합될 때 의미를 갖는다는 배경으로 사용했다. Jiang et al., "Unveiling the influence of social network characteristics on sustainable performance in small and medium-sized enterprises: A dynamic capabilities perspective," *PLOS ONE*, 2025, DOI: 10.1371/journal.pone.0325378.
+2. 동적역량은 변화 신호를 감지하는 것만이 아니라, 선택하고 조직의 자원과 일하는 방식을 다시 구성하는 과정을 포함한다. 이 글에서는 외부 관계를 감지의 통로로 제한해 사용하고, 성과의 직접 원인으로 확대하지 않았다.
+3. 흡수역량은 외부 지식을 알아보고, 이해하고, 조직 안에서 활용하는 능력이다. 이 글에서는 대표가 들은 외부 정보를 회사 안의 문제, 선택, 실행 언어로 바꾸는 과정을 설명하는 보조 렌즈로 사용했다. Cohen and Levinthal, "Absorptive Capacity: A New Perspective on Learning and Innovation," *Administrative Science Quarterly*, 1990.
+4. SME 회복탄력성 연구는 위기 대응을 단순한 버티기가 아니라 외부 자원, 적응, 학습, 내부 실행 역량의 결합으로 본다. 이 글에서는 회복탄력성을 대표 개인의 인맥이 아니라 조직 안에서 소화되는 전환 능력으로 제한해 해석했다. Ode et al., "Archetypes of SME Resilience: A Systematic Literature Review of Antecedents, Types and Outcomes of Resilience in SMEs," *Strategic Change*, 2026, DOI: 10.1002/jsc.70051; Biswakarma and Bohora, "Dynamic capabilities and organizational performance: the mediating role of organizational resilience in IT sector," *Future Business Journal*, 2025, DOI: 10.1186/s43093-025-00592-w.

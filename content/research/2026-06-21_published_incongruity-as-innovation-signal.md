@@ -84,7 +84,7 @@ tags:
 따라서 불일치를 볼 때 먼저 해야 할 일은 책임자를 찾는 것이 아니다.
 가정과 현실 사이에 어떤 차이가 반복되는지 분리하는 일이다.
 
-Drucker는 혁신 기회를 찾을 때 예상치 못한 성공과 실패, 그리고 현실과 가정 사이의 불일치를 중요하게 보았다.[^1]
+Drucker는 혁신 기회를 찾을 때 예상치 못한 성공과 실패, 그리고 현실과 가정 사이의 불일치를 중요하게 보았다.
 그 관점에서 보면 불일치는 계획이 틀렸다는 증거만이 아니다.
 아직 회사가 이름 붙이지 못한 변화의 입구일 수 있다.
 
@@ -99,7 +99,7 @@ Drucker는 혁신 기회를 찾을 때 예상치 못한 성공과 실패, 그리
 그래서 고객이 반복해서 묻는 질문은 단순한 문의가 아닐 수 있다.
 그 질문은 회사가 아직 보지 못한 고객의 일을 드러낸다.
 
-Jobs to Be Done 관점은 고객을 인구통계나 취향으로만 보지 않고, 고객이 어떤 일을 해결하려고 제품과 서비스를 선택하는지 보라고 말한다.[^2]
+Jobs to Be Done 관점은 고객을 인구통계나 취향으로만 보지 않고, 고객이 어떤 일을 해결하려고 제품과 서비스를 선택하는지 보라고 말한다.
 이 관점은 작은 불일치를 읽는 데 유용하다.
 
 고객이 자꾸 같은 부분에서 멈춘다면, 그 지점에는 설명 부족만 있는 것이 아닐 수 있다.
@@ -117,8 +117,8 @@ Jobs to Be Done 관점은 고객을 인구통계나 취향으로만 보지 않�
 이때 불일치는 단순한 사용 오류가 아니다.
 회사 설명과 고객 사용 사이에 생긴 간격이다.
 
-Zeithaml은 고객이 지각하는 가치가 가격, 품질, 혜택, 희생의 관계 속에서 형성된다고 보았다.[^3]
-Woodruff 역시 고객가치를 경쟁우위의 중요한 원천으로 보면서, 기업이 고객이 원하는 가치와 실제 경험을 더 잘 이해해야 한다고 설명한다.[^4]
+Zeithaml은 고객이 지각하는 가치가 가격, 품질, 혜택, 희생의 관계 속에서 형성된다고 보았다.
+Woodruff 역시 고객가치를 경쟁우위의 중요한 원천으로 보면서, 기업이 고객이 원하는 가치와 실제 경험을 더 잘 이해해야 한다고 설명한다.
 
 이 논의는 회사가 고객의 반응을 볼 때 한 가지를 조심하게 해준다.
 
@@ -186,14 +186,7 @@ Woodruff 역시 고객가치를 경쟁우위의 중요한 원천으로 보면서
 
 ## 참고문헌과 주석
 
-[^1]: Peter F. Drucker, *Innovation and Entrepreneurship* 관련 발췌 자료. Drucker Institute의 “Sources of Innovation” 자료는 예상치 못한 사건과 불일치(incongruities)를 혁신 기회의 원천으로 설명한다.
-[^2]: Clayton M. Christensen, Taddy Hall, Karen Dillon, and David S. Duncan, “Know Your Customers’ ‘Jobs to Be Done,’” *Harvard Business Review*, September 2016.
-[^3]: Valarie A. Zeithaml, “Consumer Perceptions of Price, Quality, and Value: A Means-End Model and Synthesis of Evidence,” *Journal of Marketing* 52, no. 3 (1988): 2-22. DOI: 10.1177/002224298805200302.
-[^4]: Robert B. Woodruff, “Customer Value: The Next Source for Competitive Advantage,” *Journal of the Academy of Marketing Science* 25, no. 2 (1997): 139-153. DOI: 10.1007/BF02894350.
-
----
-
-© 2026 김민조 / All rights reserved / mjkim@bridge-abm.com
-
-이 글은 김민조 연구노트의 원문입니다.
-글의 일부를 인용하거나 공유하실 때에는 출처와 원문 링크를 남겨주세요.
+1. Peter F. Drucker, *Innovation and Entrepreneurship* 관련 발췌 자료. Drucker Institute의 “Sources of Innovation” 자료는 예상치 못한 사건과 불일치(incongruities)를 혁신 기회의 원천으로 설명한다.
+2. Clayton M. Christensen, Taddy Hall, Karen Dillon, and David S. Duncan, “Know Your Customers’ ‘Jobs to Be Done,’” *Harvard Business Review*, September 2016.
+3. Valarie A. Zeithaml, “Consumer Perceptions of Price, Quality, and Value: A Means-End Model and Synthesis of Evidence,” *Journal of Marketing* 52, no. 3 (1988): 2-22. DOI: 10.1177/002224298805200302.
+4. Robert B. Woodruff, “Customer Value: The Next Source for Competitive Advantage,” *Journal of the Academy of Marketing Science* 25, no. 2 (1997): 139-153. DOI: 10.1007/BF02894350.
