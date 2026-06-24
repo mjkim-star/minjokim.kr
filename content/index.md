@@ -23,12 +23,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (10)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (11)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-06-24_published_failure-strategy-withdrawal-judgment">
+        <span>
+          <strong>회사는 왜 실패한 전략을 더 오래 붙잡는가?</strong>
+          <em>멈출 일을 다시 판단하는 전략적 갱신의 조건</em>
+        </span>
+        <time>2026.06.24</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-06-21_published_incongruity-as-innovation-signal">
         <span>
@@ -45,15 +54,6 @@ enableToc: false
           <em>예외를 받아주는 순간 이익이 어디서 새는지 본다</em>
         </span>
         <time>2026.06.16</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-06-15_published_ai-information-cost-decision-cost">
-        <span>
-          <strong>AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</strong>
-          <em>정보가 많아질수록 판단 비용이 커지는 이유</em>
-        </span>
-        <time>2026.06.15</time>
       </a>
     </div>
   </div>

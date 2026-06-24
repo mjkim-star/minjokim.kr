@@ -10,11 +10,19 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 10편</span>
+  <span>원문 11편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.06.24</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-06-24_published_failure-strategy-withdrawal-judgment">회사는 왜 실패한 전략을 더 오래 붙잡는가?</a>
+      <p class="clean-index-meta">실패 신호 이후에도 전략이 오래 남는 이유와 철회 판단의 조건.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.06.21</p>
     <div>
