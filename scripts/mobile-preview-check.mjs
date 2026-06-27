@@ -1,17 +1,18 @@
-import playwright from "file:///C:/Users/%EA%B9%80%EB%AF%BC%EC%A1%B0/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/.pnpm/playwright@1.60.0/node_modules/playwright/index.js"
+import playwright from "file:///C:/Users/%EA%B9%80%EB%AF%BC%EC%A1%B0/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/.pnpm/playwright@1.61.0/node_modules/playwright/index.js"
 import fs from "node:fs/promises"
 
 const { chromium } = playwright
 
-const baseUrl = "http://localhost:8080"
+const baseUrl = "http://127.0.0.1:8080"
 const outDir = "C:/tmp/minjokim-mobile-check"
 
 const pages = [
   { name: "home", path: "/" },
   {
     name: "article",
-    path: "/research/2026-05-27_published_ai-adoption-dynamic-capability-mediation",
+    path: "/research/2026-06-27_published_user-value-buyer-approval-gap.html",
   },
+  { name: "research", path: "/research" },
 ]
 
 const viewports = [
@@ -38,7 +39,7 @@ for (const pageInfo of pages) {
     })
 
     const url = `${baseUrl}${pageInfo.path}`
-    await page.goto(url, { waitUntil: "networkidle" })
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 15000 })
 
     const screenshot = `${outDir}/${pageInfo.name}-${viewport.name}-${viewport.width}x${viewport.height}.png`
     await page.screenshot({ path: screenshot, fullPage: false })

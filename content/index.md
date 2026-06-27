@@ -23,12 +23,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (11)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (12)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-06-27_published_user-value-buyer-approval-gap">
+        <span>
+          <strong>[B2B] 써본 사람은 좋다는데 왜 구매는 멈추는가?</strong>
+          <em>사용자의 만족이 구매자의 승인 근거로 번역되는 조건</em>
+        </span>
+        <time>2026.06.27</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-06-24_published_failure-strategy-withdrawal-judgment">
         <span>
@@ -45,15 +54,6 @@ enableToc: false
           <em>반복되는 어긋남을 고객 변화의 신호로 읽는 법</em>
         </span>
         <time>2026.06.21</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-06-16_published_exception-requests-profit-leakage">
-        <span>
-          <strong>예외 요청은 왜 회사 이익을 새게 만드는가?</strong>
-          <em>예외를 받아주는 순간 이익이 어디서 새는지 본다</em>
-        </span>
-        <time>2026.06.16</time>
       </a>
     </div>
   </div>

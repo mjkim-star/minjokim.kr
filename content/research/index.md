@@ -10,11 +10,19 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 11편</span>
+  <span>원문 12편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.06.27</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-06-27_published_user-value-buyer-approval-gap">[B2B] 써본 사람은 좋다는데 왜 구매는 멈추는가?</a>
+      <p class="clean-index-meta">사용자의 만족이 구매자의 승인 근거로 번역되는 조건.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.06.24</p>
     <div>

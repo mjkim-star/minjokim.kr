@@ -23,6 +23,12 @@ foreach ($file in $files) {
   if ($text -notmatch "status:\s*published") { continue }
   if ($text -notmatch "quartz_status:\s*ready_for_quartz") { continue }
 
+  $isTranslation = $file.Name -match "_published_(en|zh)_" -or $text -match "(?m)^language:\s*(en|zh|en-US|zh-CN)"
+  if ($isTranslation) {
+    Write-Host "Skipped translation file for research sync:" $file.Name
+    continue
+  }
+
   if ($RequireUserApproval -and $text -notmatch "(?m)^quartz_user_approved:\s*true\s*$") {
     $skippedApproval += 1
     Write-Host "Skipped without user approval:" $file.Name
@@ -37,6 +43,12 @@ foreach ($file in $files) {
   $publicText = $publicText -replace "(?m)^quartz_user_approved:.*\r?\n", ""
   $publicText = $publicText -replace "(?m)^quartz_user_approved_at:.*\r?\n", ""
   $publicText = $publicText -replace "(?m)^quartz_user_approval_note:.*\r?\n", ""
+  $publicText = $publicText -replace "(?s)\r?\n---\r?\n©\s+20\d{2}[\s\S]*$", ""
+  $publicText = $publicText -replace "(?s)\r?\n##\s+Ready Quality Review[\s\S]*$", ""
+  $publicText = $publicText -replace "(?s)\r?\n##\s+Final Integrity Check[\s\S]*$", ""
+  $publicText = $publicText -replace "(?m)^©\s+20\d{2}.*\r?\n", ""
+  $publicText = $publicText -replace "(?m)^이 글은 김민조 연구노트의 원문입니다\..*\r?\n", ""
+  $publicText = $publicText -replace "(?m)^글의 일부를 인용하거나 공유하실 때에는 출처와 원문 링크를 남겨주세요\..*\r?\n", ""
 
   if ($publicText -match "^---\s*\r?\n([\s\S]*?)\r?\n---") {
     $frontmatter = $Matches[1]
