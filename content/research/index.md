@@ -10,11 +10,19 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 12편</span>
+  <span>원문 13편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.07.01</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-07-01_published_deadline-reveals-real-priority">마감일은 왜 회사의 진짜 우선순위를 드러내는가?</a>
+      <p class="clean-index-meta">마감일과 일정표에 남는 회사의 실제 우선순위.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.06.27</p>
     <div>

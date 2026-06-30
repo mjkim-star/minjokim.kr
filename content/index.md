@@ -23,12 +23,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (12)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (13)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-07-01_published_deadline-reveals-real-priority">
+        <span>
+          <strong>마감일은 왜 회사의 진짜 우선순위를 드러내는가?</strong>
+          <em>마감일과 일정표에 남는 회사의 실제 우선순위</em>
+        </span>
+        <time>2026.07.01</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-06-27_published_user-value-buyer-approval-gap">
         <span>
@@ -45,15 +54,6 @@ enableToc: false
           <em>멈출 일을 다시 판단하는 전략적 갱신의 조건</em>
         </span>
         <time>2026.06.24</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-06-21_published_incongruity-as-innovation-signal">
-        <span>
-          <strong>불일치는 왜 혁신의 첫 신호가 되는가?</strong>
-          <em>반복되는 어긋남을 고객 변화의 신호로 읽는 법</em>
-        </span>
-        <time>2026.06.21</time>
       </a>
     </div>
   </div>
