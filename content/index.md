@@ -16,6 +16,7 @@ enableToc: false
   <p class="hero-kicker">김민조 연구노트는 좋은 이론이 현장에서 멈추는 지점을 살핍니다.</p>
   <p class="hero-question">좋은 이론은 왜 현장에서 빈번하게 멈추는가.</p>
   <p class="hero-body">경영학 박사이자 경영지도사로서, 전략, 의사결정, 관리회계, 조직학습, AI 전환을 통해 판단이 실행으로 이어지는 조건을 기록합니다.</p>
+  <p class="hero-body"><a href="./about">김민조 소개와 연구 주제 보기</a></p>
 </section>
 
 <section class="home-section latest-section">
@@ -23,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (13)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (14)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-07-05_published_successful-company-late-ai-learning">
+        <span>
+          <strong>성과가 좋은 회사는 왜 AI를 늦게 배우는가?</strong>
+          <em>성과가 만든 찬성된 보류와 AI 학습 부채</em>
+        </span>
+        <time>2026.07.05</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-07-01_published_deadline-reveals-real-priority">
         <span>
@@ -47,15 +57,6 @@ enableToc: false
         <time>2026.06.27</time>
       </a>
     </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-06-24_published_failure-strategy-withdrawal-judgment">
-        <span>
-          <strong>회사는 왜 실패한 전략을 더 오래 붙잡는가?</strong>
-          <em>멈출 일을 다시 판단하는 전략적 갱신의 조건</em>
-        </span>
-        <time>2026.06.24</time>
-      </a>
-    </div>
   </div>
 </section>
 
@@ -68,7 +69,7 @@ enableToc: false
 
 <p class="intro-line">논문 요약이나 방법론 홍보보다, 좋은 이론이 실제 조직 안에서 작동하려면 무엇이 필요했는지를 묻습니다.</p>
 
-<p class="intro-body">글은 쉽게 읽히되, 근거와 개념의 깊이는 잃지 않는 방향을 지향합니다.</p>
+<p class="intro-body">글은 쉽게 읽히되, 근거와 개념의 깊이는 잃지 않는 방향을 지향합니다. 저자와 연구 배경은 <a href="./about">김민조 소개</a>에서 볼 수 있습니다.</p>
 </section>
 
 <hr class="home-divider" />

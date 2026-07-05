@@ -10,11 +10,53 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 13편</span>
+  <span>원문 14편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">전략 실행</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-06-03_published_strategy-meeting-management-system">전략은 왜 회의에서 멈추는가?</a>
+      <p class="clean-index-meta">전략, 회의, 지표, 책임, 점검이 실행으로 이어지는 조건. 함께 읽기: <a href="/research/2026-07-01_published_deadline-reveals-real-priority">마감일은 왜 회사의 진짜 우선순위를 드러내는가?</a>, <a href="/research/2026-06-24_published_failure-strategy-withdrawal-judgment">회사는 왜 실패한 전략을 더 오래 붙잡는가?</a></p>
+    </div>
+  </article>
+
+  <article class="clean-index-item">
+    <p class="clean-index-date">AI와 조직</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">AI를 도입했는데 왜 회사는 달라지지 않는가?</a>
+      <p class="clean-index-meta">AI 도입을 감지, 선택, 재구성의 조직 회로로 읽는 글. 함께 읽기: <a href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>, <a href="/research/2026-06-15_published_ai-information-cost-decision-cost">AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</a>, <a href="/research/2026-06-03_published_ai-prompt-as-job-description">회사에서 AI 프롬프트는 왜 업무를 다시 정의하게 만드는가?</a></p>
+    </div>
+  </article>
+
+  <article class="clean-index-item">
+    <p class="clean-index-date">조직학습</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-06-11_published_busy-company-cannot-learn">바쁜 회사는 왜 더 배우지 못하는가?</a>
+      <p class="clean-index-meta">경험이 조직학습으로 남는 조건. 함께 읽기: <a href="/research/2026-05-29_published_sme-ambidexterity-boundary">"양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?</a>, <a href="/research/2026-06-21_published_incongruity-as-innovation-signal">불일치는 왜 혁신의 첫 신호가 되는가?</a></p>
+    </div>
+  </article>
+
+  <article class="clean-index-item">
+    <p class="clean-index-date">가치와 고객</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-06-27_published_user-value-buyer-approval-gap">[B2B] 써본 사람은 좋다는데 왜 구매는 멈추는가?</a>
+      <p class="clean-index-meta">사용자의 만족이 구매자의 승인 근거로 번역되는 조건. 함께 읽기: <a href="/research/2026-06-16_published_exception-requests-profit-leakage">예외 요청은 왜 회사 이익을 새게 만드는가?</a>, <a href="/research/2026-06-21_published_incongruity-as-innovation-signal">불일치는 왜 혁신의 첫 신호가 되는가?</a></p>
+    </div>
+  </article>
+</section>
+
+<section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.07.05</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>
+      <p class="clean-index-meta">성과가 만든 찬성된 보류와 AI 학습 부채.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.07.01</p>
     <div>

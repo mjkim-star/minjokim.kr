@@ -20,8 +20,12 @@ export default (() => {
       fileData.frontmatter?.description ??
       unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
     const author = String(fileData.frontmatter?.author ?? "김민조")
-    const isHome = fileData.slug === "index"
-    const isArticle = !isHome && fileData.slug !== "404"
+    const slug = String(fileData.slug ?? "")
+    const isHome = slug === "index"
+    const isAbout = slug === "about"
+    const isIndexPage = isHome || slug.endsWith("/index")
+    const isTagPage = slug.startsWith("tags/")
+    const isArticle = !isIndexPage && !isAbout && !isTagPage && slug !== "404"
 
     const { css, js, additionalHead } = externalResources
 
@@ -43,41 +47,58 @@ export default (() => {
       fileData.frontmatter?.published?.toString() ??
       fileData.dates?.modified?.toISOString()
     const tags = fileData.frontmatter?.tags ?? []
-    const jsonLd = isArticle
+    const authorUrl = `https://${cfg.baseUrl ?? "example.com"}/about`
+    const authorSameAs = [
+      "https://blog.naver.com/frisbmin",
+      "https://brunch.co.kr/@47bc320fbf804b7",
+      "https://www.yes24.com/product/author/513894",
+    ]
+    const authorEntity = {
+      "@type": "Person",
+      "@id": `${authorUrl}#person`,
+      name: "김민조",
+      url: authorUrl,
+      sameAs: authorSameAs,
+      jobTitle: "경영학 박사, 경영지도사",
+      knowsAbout: ["전략", "의사결정", "조직학습", "AI 전환", "관리회계"],
+    }
+    const jsonLd = isAbout
       ? {
           "@context": "https://schema.org",
-          "@type": "Article",
-          headline: fileData.frontmatter?.title ?? title,
-          description,
-          author: {
-            "@type": "Person",
-            name: author,
-            jobTitle: "경영학 박사, 경영지도사",
-          },
-          publisher: {
-            "@type": "Person",
-            name: "김민조",
-          },
-          datePublished,
-          dateModified,
-          inLanguage: cfg.locale,
-          mainEntityOfPage: canonicalUrl,
-          url: canonicalUrl,
-          keywords: Array.isArray(tags) ? tags.join(", ") : String(tags),
-        }
-      : {
-          "@context": "https://schema.org",
-          "@type": "WebSite",
-          name: cfg.pageTitle,
+          "@type": "ProfilePage",
+          name: "김민조",
           description,
           url: canonicalUrl,
           inLanguage: cfg.locale,
-          author: {
-            "@type": "Person",
-            name: "김민조",
-            jobTitle: "경영학 박사, 경영지도사",
-          },
+          mainEntity: authorEntity,
         }
+      : isArticle
+        ? {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            headline: fileData.frontmatter?.title ?? title,
+            description,
+            author: {
+              ...authorEntity,
+              name: author,
+            },
+            publisher: authorEntity,
+            datePublished,
+            dateModified,
+            inLanguage: cfg.locale,
+            mainEntityOfPage: canonicalUrl,
+            url: canonicalUrl,
+            keywords: Array.isArray(tags) ? tags.join(", ") : String(tags),
+          }
+        : {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: cfg.pageTitle,
+            description,
+            url: canonicalUrl,
+            inLanguage: cfg.locale,
+            author: authorEntity,
+          }
     const jsonLdText = JSON.stringify(jsonLd).replace(/</g, "\\u003c")
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
