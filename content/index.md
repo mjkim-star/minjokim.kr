@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (14)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (15)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-07-08_published_inventory-organizational-memory">
+        <span>
+          <strong>재고는 왜 회사의 오래된 약속을 기억하는가?</strong>
+          <em>창고에 남은 약속과 재고 기억의 조건</em>
+        </span>
+        <time>2026.07.08</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-07-05_published_successful-company-late-ai-learning">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>마감일과 일정표에 남는 회사의 실제 우선순위</em>
         </span>
         <time>2026.07.01</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-06-27_published_user-value-buyer-approval-gap">
-        <span>
-          <strong>[B2B] 써본 사람은 좋다는데 왜 구매는 멈추는가?</strong>
-          <em>사용자의 만족이 구매자의 승인 근거로 번역되는 조건</em>
-        </span>
-        <time>2026.06.27</time>
       </a>
     </div>
   </div>
