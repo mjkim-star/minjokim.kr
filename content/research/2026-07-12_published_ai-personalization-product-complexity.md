@@ -133,7 +133,7 @@ AI가 발전할수록 제품은 더 쉽게 개인화될 수 있다.
 
 하지만 고객이 말한 기능은 대개 문제 그 자체가 아니라 고객이 생각한 해결책이다. 고객은 자기 일을 더 쉽게 하고 싶다. 오류를 줄이고 싶다. 내부 보고를 통과하고 싶다. 다른 부서와 다시 설명하는 시간을 줄이고 싶다.
 
-Jobs to Be Done 관점은 고객이 제품을 사는 이유를 제품의 속성보다 고객이 해결하려는 일에서 찾는다.[^1] 이 관점에서 보면 고객의 요청은 그대로 답이 아니다. 그 요청 뒤에 있는 일을 읽기 위한 단서다.
+Jobs to Be Done 관점은 고객이 제품을 사는 이유를 제품의 속성보다 고객이 해결하려는 일에서 찾는다. [1] 이 관점에서 보면 고객의 요청은 그대로 답이 아니다. 그 요청 뒤에 있는 일을 읽기 위한 단서다.
 
 고객이 “엑셀 다운로드”를 요구할 때, 진짜 일은 자료를 다시 가공해 보고해야 하는 것일 수 있다. 고객이 “항목 추가”를 요구할 때, 진짜 일은 내부 승인자가 확인해야 할 위험을 표시하는 것일 수 있다. 고객이 “우리 양식에 맞춰 달라”고 할 때, 진짜 일은 시스템 자체보다 조직 안의 설명 부담을 줄이는 것일 수 있다.
 
@@ -149,7 +149,7 @@ Jobs to Be Done 관점은 고객이 제품을 사는 이유를 제품의 속성�
 
 새 기능은 화면의 자리를 차지한다. 기존 기능과 연결된다. 설명 문서가 바뀐다. 고객지원팀이 알아야 할 내용이 늘어난다. 오류가 생길 수 있는 지점도 늘어난다. 다른 고객에게는 필요 없는 선택지가 생긴다.
 
-제품 아키텍처 연구는 제품을 단순한 부품의 모음으로 보지 않는다. 제품은 기능 요소와 물리적 요소, 그리고 그 사이의 연결 방식으로 구성된다.[^2] 그래서 기능을 하나 붙인다는 것은 부품 하나를 더하는 일이 아니라 연결을 하나 더 만드는 일일 수 있다.
+제품 아키텍처 연구는 제품을 단순한 부품의 모음으로 보지 않는다. 제품은 기능 요소와 물리적 요소, 그리고 그 사이의 연결 방식으로 구성된다. [2] 그래서 기능을 하나 붙인다는 것은 부품 하나를 더하는 일이 아니라 연결을 하나 더 만드는 일일 수 있다.
 
 연결이 늘면 자유도가 생기지만, 동시에 복잡성도 생긴다.
 
@@ -157,7 +157,7 @@ Jobs to Be Done 관점은 고객이 제품을 사는 이유를 제품의 속성�
 
 이때 복잡성은 단순히 화면이 복잡하다는 뜻이 아니다. 제품을 이해하고, 설명하고, 팔고, 지원하고, 고치는 비용이 늘어난다는 뜻이다.
 
-최근 제품 복잡성 연구도 복잡성을 기능 수만으로 보지 않는다. 기능들이 얼마나 서로 다른 일을 하는지, 그리고 기능들이 얼마나 서로 연결되어 있는지가 사용성과 구매 판단에 영향을 준다.[^4] 기능이 많지 않아도 서로 다른 업무 논리가 한 제품 안에 섞이면 제품은 설명하기 어려워진다.
+최근 제품 복잡성 연구도 복잡성을 기능 수만으로 보지 않는다. 기능들이 얼마나 서로 다른 일을 하는지, 그리고 기능들이 얼마나 서로 연결되어 있는지가 사용성과 구매 판단에 영향을 준다. [4] 기능이 많지 않아도 서로 다른 업무 논리가 한 제품 안에 섞이면 제품은 설명하기 어려워진다.
 
 그래서 복잡성은 기능 수보다 배치 실패에서 생긴다.
 
@@ -175,13 +175,13 @@ Jobs to Be Done 관점은 고객이 제품을 사는 이유를 제품의 속성�
 
 기존 고객의 요구는 선명하다. 요청한 사람의 이름이 있다. 불편한 장면이 있다. 영업 기회나 계약 유지 가능성도 붙어 있다. 반면 아직 고객이 아닌 사람의 불편은 흐릿하다. 그들은 회의에 참석하지 않는다. 요구사항 메일도 보내지 않는다.
 
-그래서 회사는 기존 고객의 요구에 더 민감해진다. 이것은 자연스러운 일이다. 다만 이 자연스러운 반응이 계속되면 제품은 현재 고객의 언어에 과도하게 맞춰질 수 있다. 혁신 연구에서 기존 고객의 요구에 지나치게 맞추는 일이 새로운 시장을 보기 어렵게 만들 수 있다는 논의는 오래전부터 있었다.[^3]
+그래서 회사는 기존 고객의 요구에 더 민감해진다. 이것은 자연스러운 일이다. 다만 이 자연스러운 반응이 계속되면 제품은 현재 고객의 언어에 과도하게 맞춰질 수 있다. 혁신 연구에서 기존 고객의 요구에 지나치게 맞추는 일이 새로운 시장을 보기 어렵게 만들 수 있다는 논의는 오래전부터 있었다. [3]
 
 AI가 발전하면서 제품과 서비스는 더 개인화될 수 있다. 추천은 개인별로 달라지고, 화면은 역할에 따라 바뀌고, 문서는 고객의 맥락에 맞게 다시 쓰일 수 있다. 대화형 인터페이스는 사용자가 자기 방식으로 요구사항을 설명하게 만든다.
 
 이 변화는 분명히 기회다.
 
-과거의 범용 제품은 평균적인 사용자를 상정했다. 많은 사람에게 대체로 맞는 구조를 만들고, 세부 차이는 교육, 매뉴얼, 운영 담당자의 설명으로 메웠다. 반면 AI는 고객의 상황을 더 잘 읽고, 고객별 표현과 맥락에 맞춰 제품 경험을 바꿀 가능성을 넓힌다. 대량 맞춤화와 개인화 논의가 AI와 함께 다시 주목받는 이유도 여기에 있다.[^5]
+과거의 범용 제품은 평균적인 사용자를 상정했다. 많은 사람에게 대체로 맞는 구조를 만들고, 세부 차이는 교육, 매뉴얼, 운영 담당자의 설명으로 메웠다. 반면 AI는 고객의 상황을 더 잘 읽고, 고객별 표현과 맥락에 맞춰 제품 경험을 바꿀 가능성을 넓힌다. 대량 맞춤화와 개인화 논의가 AI와 함께 다시 주목받는 이유도 여기에 있다. [5]
 
 하지만 개인화 가능성이 커진다고 해서 모든 차이를 제품의 핵심 구조 안으로 넣어도 된다는 뜻은 아니다. 오히려 AI는 요청이 쌓이는 속도를 높일 수 있다. 예전에는 개발 비용이나 운영 부담 때문에 자연스럽게 걸러지던 맞춤 요구가 이제는 “가능해 보이는 요구”가 되기 때문이다.
 
@@ -243,15 +243,15 @@ AI는 더 많은 개인화를 가능하게 만들 수 있다. 그러나 회사�
 
 ## 참고문헌과 주석
 
-[^1]: Clayton M. Christensen, Taddy Hall, Karen Dillon, and David S. Duncan, “Know Your Customers’ ‘Jobs to Be Done’,” *Harvard Business Review*, 2016. 고객이 제품을 선택하는 이유를 고객이 해결하려는 일의 관점에서 설명한 글이다.
+1. Clayton M. Christensen, Taddy Hall, Karen Dillon, and David S. Duncan, “Know Your Customers’ ‘Jobs to Be Done’,” *Harvard Business Review*, 2016. 고객이 제품을 선택하는 이유를 고객이 해결하려는 일의 관점에서 설명한 글이다.
 
-[^2]: Karl T. Ulrich, “The Role of Product Architecture in the Manufacturing Firm,” *Research Policy* 24, no. 3 (1995): 419-440. 제품 아키텍처를 기능 요소와 물리적 요소의 연결 구조로 설명한다.
+2. Karl T. Ulrich, “The Role of Product Architecture in the Manufacturing Firm,” *Research Policy* 24, no. 3 (1995): 419-440. 제품 아키텍처를 기능 요소와 물리적 요소의 연결 구조로 설명한다.
 
-[^3]: Rebecca M. Henderson and Kim B. Clark, “Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms,” *Administrative Science Quarterly* 35, no. 1 (1990): 9-30; Clayton M. Christensen, *The Innovator’s Dilemma*, Harvard Business School Press, 1997. 기존 지식과 고객 요구에 맞춘 조직이 구조적 변화나 새로운 시장 신호를 놓칠 수 있다는 논의와 연결된다.
+3. Rebecca M. Henderson and Kim B. Clark, “Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms,” *Administrative Science Quarterly* 35, no. 1 (1990): 9-30; Clayton M. Christensen, *The Innovator’s Dilemma*, Harvard Business School Press, 1997. 기존 지식과 고객 요구에 맞춘 조직이 구조적 변화나 새로운 시장 신호를 놓칠 수 있다는 논의와 연결된다.
 
-[^4]: Andreas Furst, Nina Pecornik, and Wayne D. Hoyer, “How Product Complexity Affects Consumer Adoption of New Products: The Role of Feature Heterogeneity and Interrelatedness,” *Journal of the Academy of Marketing Science* 52 (2024): 329-348, DOI: 10.1007/s11747-023-00933-7. 제품 복잡성을 기능 수뿐 아니라 기능 이질성과 연결성 관점에서 보는 배경으로 참고했다.
+4. Andreas Furst, Nina Pecornik, and Wayne D. Hoyer, “How Product Complexity Affects Consumer Adoption of New Products: The Role of Feature Heterogeneity and Interrelatedness,” *Journal of the Academy of Marketing Science* 52 (2024): 329-348, DOI: 10.1007/s11747-023-00933-7. 제품 복잡성을 기능 수뿐 아니라 기능 이질성과 연결성 관점에서 보는 배경으로 참고했다.
 
-[^5]: Frank T. Piller and James Euchner, “Mass Customization in the Age of AI,” *Research-Technology Management* 67, no. 4 (2024), DOI: 10.1080/08956308.2024.2350919. AI와 함께 대량 맞춤화와 개인화 가능성이 다시 논의되는 배경으로 참고했다.
+5. Frank T. Piller and James Euchner, “Mass Customization in the Age of AI,” *Research-Technology Management* 67, no. 4 (2024), DOI: 10.1080/08956308.2024.2350919. AI와 함께 대량 맞춤화와 개인화 가능성이 다시 논의되는 배경으로 참고했다.
 
 
 ---
@@ -288,7 +288,7 @@ AI는 더 많은 개인화를 가능하게 만들 수 있다. 그러나 회사�
 ### 6. 인용과 위키링크 검수
 - Reference Truth Audit: 전체 6건 / 실재 확인 6건 / 실패 0건 / DOI·URL 확인 완료 / 본문-원자료 불일치 0.
 - 깨진 링크: 2026-07-11 frontmatter source_concepts 3건을 실존 노트로 교체 완료.
-- 공개 본문 [[위키링크]]·↩·## Footnotes·text 코드펜스: 없음. 각주는 정상 markdown 각주.
+- 공개 본문 [[위키링크]]·↩·## Footnotes·text 코드펜스: 없음. Quartz 공개 파일은 Markdown 각주 대신 일반 번호 참조로 변환 완료.
 
 ### 7. 홍보/영업 오해 검수
 - 없음.
