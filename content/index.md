@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (15)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (16)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-07-12_published_ai-personalization-product-complexity">
+        <span>
+          <strong>AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?</strong>
+          <em>고객 요청을 기능으로 붙이기 전에 변형의 위치를 정해야 한다</em>
+        </span>
+        <time>2026.07.12</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-07-08_published_inventory-organizational-memory">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>성과가 만든 찬성된 보류와 AI 학습 부채</em>
         </span>
         <time>2026.07.05</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-07-01_published_deadline-reveals-real-priority">
-        <span>
-          <strong>마감일은 왜 회사의 진짜 우선순위를 드러내는가?</strong>
-          <em>마감일과 일정표에 남는 회사의 실제 우선순위</em>
-        </span>
-        <time>2026.07.01</time>
       </a>
     </div>
   </div>

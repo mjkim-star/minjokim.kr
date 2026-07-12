@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 15편</span>
+  <span>원문 16편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
@@ -51,12 +51,20 @@ cssclasses:
     <p class="clean-index-date">가치와 고객</p>
     <div>
       <a class="clean-index-title" href="/research/2026-06-27_published_user-value-buyer-approval-gap">[B2B] 써본 사람은 좋다는데 왜 구매는 멈추는가?</a>
-      <p class="clean-index-meta">사용자의 만족이 구매자의 승인 근거로 번역되는 조건. 함께 읽기: <a href="/research/2026-06-16_published_exception-requests-profit-leakage">예외 요청은 왜 회사 이익을 새게 만드는가?</a>, <a href="/research/2026-06-21_published_incongruity-as-innovation-signal">불일치는 왜 혁신의 첫 신호가 되는가?</a></p>
+      <p class="clean-index-meta">사용자의 만족이 구매자의 승인 근거로 번역되는 조건. 함께 읽기: <a href="/research/2026-07-12_published_ai-personalization-product-complexity">AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?</a>, <a href="/research/2026-06-16_published_exception-requests-profit-leakage">예외 요청은 왜 회사 이익을 새게 만드는가?</a>, <a href="/research/2026-06-21_published_incongruity-as-innovation-signal">불일치는 왜 혁신의 첫 신호가 되는가?</a></p>
     </div>
   </article>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.07.12</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-07-12_published_ai-personalization-product-complexity">AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?</a>
+      <p class="clean-index-meta">고객 요청을 기능으로 붙이기 전에 변형의 위치를 정해야 한다.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.07.08</p>
     <div>
