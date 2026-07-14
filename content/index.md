@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (16)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (17)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-07-15_published_ai-questions-deliberation-part-1">
+        <span>
+          <strong>AI가 질문까지 대신하기 시작했다</strong>
+          <em>질문이 많아졌는데 생각은 왜 깊어지지 않는가</em>
+        </span>
+        <time>2026.07.15</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-07-12_published_ai-personalization-product-complexity">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>창고에 남은 약속과 재고 기억의 조건</em>
         </span>
         <time>2026.07.08</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-07-05_published_successful-company-late-ai-learning">
-        <span>
-          <strong>성과가 좋은 회사는 왜 AI를 늦게 배우는가?</strong>
-          <em>성과가 만든 찬성된 보류와 AI 학습 부채</em>
-        </span>
-        <time>2026.07.05</time>
       </a>
     </div>
   </div>

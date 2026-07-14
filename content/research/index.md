@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 16편</span>
+  <span>원문 17편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
@@ -26,8 +26,8 @@ cssclasses:
   <article class="clean-index-item">
     <p class="clean-index-date">AI와 조직</p>
     <div>
-      <a class="clean-index-title" href="/research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">AI를 도입했는데 왜 회사는 달라지지 않는가?</a>
-      <p class="clean-index-meta">AI 도입을 감지, 선택, 재구성의 조직 회로로 읽는 글. 함께 읽기: <a href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>, <a href="/research/2026-06-15_published_ai-information-cost-decision-cost">AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</a>, <a href="/research/2026-06-03_published_ai-prompt-as-job-description">회사에서 AI 프롬프트는 왜 업무를 다시 정의하게 만드는가?</a></p>
+      <a class="clean-index-title" href="/research/2026-07-15_published_ai-questions-deliberation-part-1">AI가 질문까지 대신하기 시작했다</a>
+      <p class="clean-index-meta">AI가 만든 질문과 반론이 실제 사고로 이어지는 조건. 함께 읽기: <a href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>, <a href="/research/2026-06-15_published_ai-information-cost-decision-cost">AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</a>, <a href="/research/2026-05-27_published_ai-adoption-dynamic-capability-mediation">AI를 도입했는데 왜 회사는 달라지지 않는가?</a></p>
     </div>
   </article>
 
@@ -57,6 +57,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.07.15</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-07-15_published_ai-questions-deliberation-part-1">AI가 질문까지 대신하기 시작했다</a>
+      <p class="clean-index-meta">질문이 많아졌는데 생각은 왜 깊어지지 않는가.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.07.12</p>
     <div>
