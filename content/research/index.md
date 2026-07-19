@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 17편</span>
+  <span>원문 18편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
@@ -18,8 +18,8 @@ cssclasses:
   <article class="clean-index-item">
     <p class="clean-index-date">전략 실행</p>
     <div>
-      <a class="clean-index-title" href="/research/2026-06-03_published_strategy-meeting-management-system">전략은 왜 회의에서 멈추는가?</a>
-      <p class="clean-index-meta">전략, 회의, 지표, 책임, 점검이 실행으로 이어지는 조건. 함께 읽기: <a href="/research/2026-07-01_published_deadline-reveals-real-priority">마감일은 왜 회사의 진짜 우선순위를 드러내는가?</a>, <a href="/research/2026-06-24_published_failure-strategy-withdrawal-judgment">회사는 왜 실패한 전략을 더 오래 붙잡는가?</a></p>
+      <a class="clean-index-title" href="/research/2026-07-20_published_project-results-start-after-completion">프로젝트의 진짜 성과는 완료보고서 다음에 시작된다</a>
+      <p class="clean-index-meta">결과물 인계가 현업 변화로 이어지려면 종료 후의 책임을 설계해야 한다. 함께 읽기: <a href="/research/2026-06-03_published_strategy-meeting-management-system">전략은 왜 회의에서 멈추는가?</a>, <a href="/research/2026-07-01_published_deadline-reveals-real-priority">마감일은 왜 회사의 진짜 우선순위를 드러내는가?</a></p>
     </div>
   </article>
 
@@ -57,6 +57,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.07.20</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-07-20_published_project-results-start-after-completion">프로젝트의 진짜 성과는 완료보고서 다음에 시작된다</a>
+      <p class="clean-index-meta">시스템을 만들었다고 일이 저절로 바뀌지는 않는다.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.07.15</p>
     <div>
