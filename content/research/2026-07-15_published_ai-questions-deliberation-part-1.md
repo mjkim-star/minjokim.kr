@@ -11,12 +11,7 @@ title: "AI가 질문까지 대신하기 시작했다"
 subtitle: "질문이 많아졌는데 생각은 왜 깊어지지 않는가"
 description: "AI가 질문과 반론까지 만들 때 나타날 수 있는 숙의 모방과 합성된 이견을 살피고, 질문의 수와 조직의 사고 깊이가 왜 같지 않은지 설명하는 연구 에세이."
 enableToc: true
-series: "AI와 조직의 질문"
-series_part: 1
-series_total: 2
 target_publish_date: 2026-07-15
-next_part_title: "AI가 회의의 침묵을 채우면 참여가 늘어난 것일까?"
-next_part_target_publish_date: 2026-07-19
 source_draft: "[[2026-07-15_draft_ai-questions-deliberation-part-1]]"
 source_full_draft: "[[2026-07-14_draft_ai-artificial-certainty-deliberation-closure]]"
 source_ready: "[[2026-07-15_ready_ai-questions-deliberation-part-1]]"
@@ -194,8 +189,6 @@ AI가 조직의 판단에 영향을 주는 방식은 적어도 두 갈래로 나
 AI는 질문의 문법과 반론의 형식을 빠르게 제공할 수 있다. 그러나 그 질문이 왜 우리 조직에서 지금 중요하며 무엇을 다시 보게 만드는지는 사람이 현실과 연결해야 한다.
 
 질문의 수가 아니라, 그 질문이 어디서 와서 무엇을 흔드는지가 조직이 실제로 생각했는지를 보여준다.
-
-다음 글: [2부 「AI가 회의의 침묵을 채우면 참여가 늘어난 것일까?」](https://minjokim.kr/research/2026-07-19_published_question-spoken-question-owned-part-2)
 
 ## 참고문헌과 주석
 

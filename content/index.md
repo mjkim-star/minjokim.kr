@@ -24,21 +24,12 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (18)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (17)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-07-19_published_question-spoken-question-owned-part-2">
-        <span>
-          <strong>AI가 회의의 침묵을 채우면 참여가 늘어난 것일까?</strong>
-          <em>좋은 질문이 발언을 대신할 때 리더가 놓치는 것</em>
-        </span>
-        <time>2026.07.19</time>
-      </a>
-    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-07-15_published_ai-questions-deliberation-part-1">
         <span>
@@ -55,6 +46,15 @@ enableToc: false
           <em>고객 요청을 기능으로 붙이기 전에 변형의 위치를 정해야 한다</em>
         </span>
         <time>2026.07.12</time>
+      </a>
+    </div>
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-07-08_published_inventory-organizational-memory">
+        <span>
+          <strong>재고는 왜 회사의 오래된 약속을 기억하는가?</strong>
+          <em>창고에 남은 물건은 끊지 못한 고객 약속과 바꾸지 못한 루틴의 기록일 수 있다</em>
+        </span>
+        <time>2026.07.08</time>
       </a>
     </div>
   </div>
