@@ -27,7 +27,7 @@ cssclasses:
     <p class="clean-index-date">AI와 조직</p>
     <div>
       <a class="clean-index-title" href="/research/2026-07-15_published_ai-questions-deliberation-part-1">AI가 질문까지 대신하기 시작했다</a>
-      <p class="clean-index-meta">AI가 만든 질문과 반론이 실제 사고로 이어지는 조건. 이어 읽기: <a href="/research/2026-07-19_published_question-spoken-question-owned-part-2">질문을 말한 것과 질문을 가진 것은 다르다</a>, <a href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>, <a href="/research/2026-06-15_published_ai-information-cost-decision-cost">AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</a></p>
+      <p class="clean-index-meta">AI가 만든 질문과 반론이 실제 사고로 이어지는 조건. 이어 읽기: <a href="/research/2026-07-19_published_question-spoken-question-owned-part-2">AI가 회의의 침묵을 채우면 참여가 늘어난 것일까?</a>, <a href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>, <a href="/research/2026-06-15_published_ai-information-cost-decision-cost">AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</a></p>
     </div>
   </article>
 
@@ -60,8 +60,8 @@ cssclasses:
   <article class="clean-index-item">
     <p class="clean-index-date">2026.07.19</p>
     <div>
-      <a class="clean-index-title" href="/research/2026-07-19_published_question-spoken-question-owned-part-2">질문을 말한 것과 질문을 가진 것은 다르다</a>
-      <p class="clean-index-meta">AI가 만든 질문이 조직의 질문이 되는 순간.</p>
+      <a class="clean-index-title" href="/research/2026-07-19_published_question-spoken-question-owned-part-2">AI가 회의의 침묵을 채우면 참여가 늘어난 것일까?</a>
+      <p class="clean-index-meta">좋은 질문이 발언을 대신할 때 리더가 놓치는 것.</p>
     </div>
   </article>
 

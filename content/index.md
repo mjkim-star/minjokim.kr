@@ -33,8 +33,8 @@ enableToc: false
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-07-19_published_question-spoken-question-owned-part-2">
         <span>
-          <strong>질문을 말한 것과 질문을 가진 것은 다르다</strong>
-          <em>AI가 만든 질문이 조직의 질문이 되는 순간</em>
+          <strong>AI가 회의의 침묵을 채우면 참여가 늘어난 것일까?</strong>
+          <em>좋은 질문이 발언을 대신할 때 리더가 놓치는 것</em>
         </span>
         <time>2026.07.19</time>
       </a>
