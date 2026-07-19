@@ -195,6 +195,8 @@ AI는 질문의 문법과 반론의 형식을 빠르게 제공할 수 있다. �
 
 질문의 수가 아니라, 그 질문이 어디서 와서 무엇을 흔드는지가 조직이 실제로 생각했는지를 보여준다.
 
+다음 글: [2부 「질문을 말한 것과 질문을 가진 것은 다르다」](https://minjokim.kr/research/2026-07-19_published_question-spoken-question-owned-part-2)
+
 ## 참고문헌과 주석
 
 1. Leonardi, P. M., & Leavell, V. (2026). Knowing Enough to Be Dangerous: The Problem of Artificial Certainty for Expert Authority When Using AI for Decision Making and Planning. *Organization Science, 37*(2), 516-543. https://doi.org/10.1287/orsc.2023.18224
