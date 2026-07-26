@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (18)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (19)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-07-26_published_managerial-time-growth-limit">
+        <span>
+          <strong>성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?</strong>
+          <em>사람을 늘리는 속도와 조직이 사람을 받아들이는 속도는 다르다</em>
+        </span>
+        <time>2026.07.26</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-07-20_published_project-results-start-after-completion">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>질문이 많아졌는데 생각은 왜 깊어지지 않는가</em>
         </span>
         <time>2026.07.15</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-07-12_published_ai-personalization-product-complexity">
-        <span>
-          <strong>AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?</strong>
-          <em>고객 요청을 기능으로 붙이기 전에 변형의 위치를 정해야 한다</em>
-        </span>
-        <time>2026.07.12</time>
       </a>
     </div>
   </div>

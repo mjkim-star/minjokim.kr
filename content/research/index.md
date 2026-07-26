@@ -10,16 +10,16 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 18편</span>
+  <span>원문 19편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
   <article class="clean-index-item">
-    <p class="clean-index-date">전략 실행</p>
+    <p class="clean-index-date">기업 성장</p>
     <div>
-      <a class="clean-index-title" href="/research/2026-07-20_published_project-results-start-after-completion">프로젝트의 진짜 성과는 완료보고서 다음에 시작된다</a>
-      <p class="clean-index-meta">결과물 인계가 현업 변화로 이어지려면 종료 후의 책임을 설계해야 한다. 함께 읽기: <a href="/research/2026-06-03_published_strategy-meeting-management-system">전략은 왜 회의에서 멈추는가?</a>, <a href="/research/2026-07-01_published_deadline-reveals-real-priority">마감일은 왜 회사의 진짜 우선순위를 드러내는가?</a></p>
+      <a class="clean-index-title" href="/research/2026-07-26_published_managerial-time-growth-limit">성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?</a>
+      <p class="clean-index-meta">시장 확장으로 늘어난 관리 부하를 조직이 흡수하는 조건. 함께 읽기: <a href="/research/2026-07-20_published_project-results-start-after-completion">프로젝트의 진짜 성과는 완료보고서 다음에 시작된다</a>, <a href="/research/2026-06-11_published_busy-company-cannot-learn">바쁜 회사는 왜 더 배우지 못하는가?</a></p>
     </div>
   </article>
 
@@ -57,6 +57,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.07.26</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-07-26_published_managerial-time-growth-limit">성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?</a>
+      <p class="clean-index-meta">사람을 늘리는 속도와 조직이 사람을 받아들이는 속도는 다르다.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.07.20</p>
     <div>
