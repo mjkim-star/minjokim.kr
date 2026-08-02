@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 19편</span>
+  <span>원문 20편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
@@ -42,8 +42,8 @@ cssclasses:
   <article class="clean-index-item">
     <p class="clean-index-date">운영과 관리회계</p>
     <div>
-      <a class="clean-index-title" href="/research/2026-07-08_published_inventory-organizational-memory">재고는 왜 회사의 오래된 약속을 기억하는가?</a>
-      <p class="clean-index-meta">재고, 운전자본, 납기 약속, 조직 루틴을 함께 읽는 글. 함께 읽기: <a href="/research/2026-06-16_published_exception-requests-profit-leakage">예외 요청은 왜 회사 이익을 새게 만드는가?</a>, <a href="/research/2026-07-01_published_deadline-reveals-real-priority">마감일은 왜 회사의 진짜 우선순위를 드러내는가?</a></p>
+      <a class="clean-index-title" href="/research/2026-08-02_published_dashboard-information-boundary">숫자를 모두에게 보여주면 판단도 분산될까?</a>
+      <p class="clean-index-meta">대시보드의 정보 접근권과 정보 경계를 바꿀 권한을 구분하는 글. 함께 읽기: <a href="/research/2026-07-08_published_inventory-organizational-memory">재고는 왜 회사의 오래된 약속을 기억하는가?</a>, <a href="/research/2026-06-03_published_strategy-meeting-management-system">전략은 왜 회의에서 멈추는가?</a></p>
     </div>
   </article>
 
@@ -57,6 +57,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.08.02</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-02_published_dashboard-information-boundary">숫자를 모두에게 보여주면 판단도 분산될까?</a>
+      <p class="clean-index-meta">대시보드의 정보 접근권과 화면의 경계를 바꿀 권한은 다르다.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.07.26</p>
     <div>
