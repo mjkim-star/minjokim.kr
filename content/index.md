@@ -34,7 +34,7 @@ enableToc: false
       <a class="latest-original" href="./research/2026-08-02_published_dashboard-information-boundary">
         <span>
           <strong>숫자를 모두에게 보여주면 판단도 분산될까?</strong>
-          <em>셀프서비스 대시보드의 자율성은 누가 정한 정보 경계 위에 놓여 있다</em>
+          <em>직접 숫자를 조회할 수 있어도 정보의 범위는 누군가 먼저 정한다</em>
         </span>
         <time>2026.08.02</time>
       </a>
