@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 20편</span>
+  <span>원문 21편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
@@ -18,8 +18,8 @@ cssclasses:
   <article class="clean-index-item">
     <p class="clean-index-date">기업 성장</p>
     <div>
-      <a class="clean-index-title" href="/research/2026-07-26_published_managerial-time-growth-limit">성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?</a>
-      <p class="clean-index-meta">시장 확장으로 늘어난 관리 부하를 조직이 흡수하는 조건. 함께 읽기: <a href="/research/2026-07-20_published_project-results-start-after-completion">프로젝트의 진짜 성과는 완료보고서 다음에 시작된다</a>, <a href="/research/2026-06-11_published_busy-company-cannot-learn">바쁜 회사는 왜 더 배우지 못하는가?</a></p>
+      <a class="clean-index-title" href="/research/2026-08-06_published_external-resource-growth">작은 회사의 자원은 급여명부 밖에도 있다</a>
+      <p class="clean-index-meta">네트워크와 소싱이 자원 부족을 성장으로 바꾸는 조건. 함께 읽기: <a href="/research/2026-07-26_published_managerial-time-growth-limit">성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?</a>, <a href="/research/2026-06-07_published_sme-network-confusion-internal-conversion">대표의 관계는 언제 회사의 힘이 아니라 혼선이 되는가?</a></p>
     </div>
   </article>
 
@@ -57,6 +57,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.08.06</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-06_published_external-resource-growth">작은 회사의 자원은 급여명부 밖에도 있다</a>
+      <p class="clean-index-meta">외부 자원은 접근만으로 성장하지 않는다. 고르고 묶고 놓는 역량이 필요하다.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.08.02</p>
     <div>

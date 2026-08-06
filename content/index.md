@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (20)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (21)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-08-06_published_external-resource-growth">
+        <span>
+          <strong>작은 회사의 자원은 급여명부 밖에도 있다</strong>
+          <em>네트워크와 소싱이 자원 부족을 성장으로 바꾸는 조건</em>
+        </span>
+        <time>2026.08.06</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-08-02_published_dashboard-information-boundary">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>사람을 늘리는 속도와 조직이 사람을 받아들이는 속도는 다르다</em>
         </span>
         <time>2026.07.26</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-07-20_published_project-results-start-after-completion">
-        <span>
-          <strong>프로젝트의 진짜 성과는 완료보고서 다음에 시작된다</strong>
-          <em>시스템을 만들었다고 일이 저절로 바뀌지는 않는다</em>
-        </span>
-        <time>2026.07.20</time>
       </a>
     </div>
   </div>
