@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (21)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (22)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-08-11_published_change-absorption-capacity">
+        <span>
+          <strong>회사는 변화를 더하면서 무엇을 빼는가</strong>
+          <em>좋은 개선 과제가 겹칠수록 조직이 느려지는 이유</em>
+        </span>
+        <time>2026.08.11</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-08-06_published_external-resource-growth">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>직접 숫자를 조회할 수 있어도 정보의 범위는 누군가 먼저 정한다</em>
         </span>
         <time>2026.08.02</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-07-26_published_managerial-time-growth-limit">
-        <span>
-          <strong>성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?</strong>
-          <em>사람을 늘리는 속도와 조직이 사람을 받아들이는 속도는 다르다</em>
-        </span>
-        <time>2026.07.26</time>
       </a>
     </div>
   </div>

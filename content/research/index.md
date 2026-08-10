@@ -10,11 +10,19 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 21편</span>
+  <span>원문 22편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">조직 변화</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-11_published_change-absorption-capacity">회사는 변화를 더하면서 무엇을 빼는가</a>
+      <p class="clean-index-meta">새 변화를 시작하는 능력과 예전 일을 끝내는 능력을 함께 보는 글. 함께 읽기: <a href="/research/2026-07-20_published_project-results-start-after-completion">프로젝트의 진짜 성과는 완료보고서 다음에 시작된다</a>, <a href="/research/2026-07-26_published_managerial-time-growth-limit">성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">기업 성장</p>
     <div>
@@ -57,6 +65,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.08.11</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-11_published_change-absorption-capacity">회사는 변화를 더하면서 무엇을 빼는가</a>
+      <p class="clean-index-meta">좋은 개선 과제가 겹칠수록 조직이 느려지는 이유.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.08.06</p>
     <div>
