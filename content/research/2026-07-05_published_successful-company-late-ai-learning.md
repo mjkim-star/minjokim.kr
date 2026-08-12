@@ -279,6 +279,6 @@ AI는 정보 탐색 비용을 낮출 수 있다. 그러나 판단, 책임, 조�
 
 4. Daniel A. Levinthal and James G. March, "The Myopia of Learning," *Strategic Management Journal* 14, no. S2 (1993): 95-112. 조직학습이 단기 경험과 성공한 방식에 갇힐 수 있는 위험을 설명한 논문이다.
 
-5. F. Shahzad and J. J. Ferreira, "Artificial intelligence driven dynamic capabilities: unpacking micro-foundational mechanisms," *Management Decision*, 2026. SME 맥락에서 AI 기반 동적역량이 전략적 리더십 프레이밍, 비공식 팀 학습 루틴, 인간-AI 상호작용 규범을 통해 형성된다는 논의를 제공한다.
+5. F. Shahzad and J. J. Ferreira, "Artificial intelligence driven dynamic capabilities: unpacking micro-foundational mechanisms," *Management Decision*, 2026. https://doi.org/10.1108/MD-07-2025-2141. SME 맥락에서 AI 기반 동적역량이 전략적 리더십 프레이밍, 비공식 팀 학습 루틴, 인간-AI 상호작용 규범을 통해 형성된다는 논의를 제공한다.
 
-6. Alexander Sanchez-Rodriguez et al., "Navigating Uncertainty Through AI Adoption: Dynamic Capabilities, Strategic Innovation Performance, and Competitiveness in Ecuadorian SMEs," *Administrative Sciences* 15, no. 12 (2025): 468. 에콰도르 SME 385개사를 대상으로 AI 도입, 동적역량, 혁신성과, 경쟁력의 구조 경로를 분석한 연구다.
+6. Alexander Sanchez-Rodriguez et al., "Navigating Uncertainty Through AI Adoption: Dynamic Capabilities, Strategic Innovation Performance, and Competitiveness in Ecuadorian SMEs," *Administrative Sciences* 15, no. 12 (2025): 468. https://doi.org/10.3390/admsci15120468. 에콰도르 SME 385개사를 대상으로 AI 도입, 동적역량, 혁신성과, 경쟁력의 구조 경로를 분석한 연구다.

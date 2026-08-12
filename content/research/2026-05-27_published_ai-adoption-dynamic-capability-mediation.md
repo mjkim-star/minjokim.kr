@@ -148,8 +148,8 @@ AI 도입은 "무엇을 자동화할 것인가"가 아니라, "AI가 늘린 가�
 
 ## 참고문헌과 주석
 
-1. 2026-05-14_paper_teece-dynamic-capabilities-microfoundations — Teece의 동적역량과 sensing, seizing, transforming/reconfiguring 논의.
-2. 2026-05-16_paper_jie-gooi-lou-digital-maturity-dc-hightech-sme-2025 — Jie, Gooi, Lou(2025)의 중국 하이테크 SME 587개사 PLS-SEM 연구. Source Note는 디지털 성숙도와 혁신성과 사이에서 동적역량이 매개 역할을 한다고 정리한다.
-3. AX_AI직원분업_역할재정의 — AI 직원 분업을 반복도, 예외율, 맥락의존도로 나누는 김민조의 방법론 후보.
-4. 2026-05-19_paper_helfat-peteraf-2015-managerial-cognitive-capabilities — Helfat & Peteraf(2015), *Managerial Cognitive Capabilities and the Microfoundations of Dynamic Capabilities*.
+1. Teece, D. J. (2007). Explicating dynamic capabilities: The nature and microfoundations of (sustainable) enterprise performance. *Strategic Management Journal, 28*(13), 1319-1350. https://doi.org/10.1002/smj.640
+2. Jie, H., Gooi, L. M., & Lou, Y. (2025). Digital maturity, dynamic capabilities and innovation performance in high-tech SMEs. *International Review of Economics & Finance, 99*, 103971. https://doi.org/10.1016/j.iref.2025.103971
+3. Helfat, C. E., & Peteraf, M. A. (2015). Managerial cognitive capabilities and the microfoundations of dynamic capabilities. *Strategic Management Journal, 36*(6), 831-850. https://doi.org/10.1002/smj.2247
 
+본문의 `3단계 회로와 3분류 업무`는 선행연구의 명칭을 옮긴 것이 아니라, 동적역량 논의를 업무 재설계에 적용해 이 글에서 제안한 방법론이다.

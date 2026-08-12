@@ -119,7 +119,8 @@ AI引入的问题，不只是“自动化什么”，而是组织如何感知、
 
 ## 参考文献与注释
 
-1. 2026-05-14_paper_teece-dynamic-capabilities-microfoundations — Teece关于动态能力以及sensing、seizing、transforming/reconfiguring的讨论。
-2. 2026-05-16_paper_jie-gooi-lou-digital-maturity-dc-hightech-sme-2025 — Jie, Gooi, Lou(2025)关于587家中国高科技中小企业的PLS-SEM研究。
-3. AX_AI직원분업_역할재정의 — Kim Minjo关于以重复度、例外率、情境依赖度划分AI与人分工的方法论笔记。
-4. 2026-05-19_paper_helfat-peteraf-2015-managerial-cognitive-capabilities — Helfat & Peteraf(2015), *Managerial Cognitive Capabilities and the Microfoundations of Dynamic Capabilities*.
+1. Teece, D. J. (2007). Explicating dynamic capabilities: The nature and microfoundations of (sustainable) enterprise performance. *Strategic Management Journal, 28*(13), 1319-1350. https://doi.org/10.1002/smj.640
+2. Jie, H., Gooi, L. M., & Lou, Y. (2025). Digital maturity, dynamic capabilities and innovation performance in high-tech SMEs. *International Review of Economics & Finance, 99*, 103971. https://doi.org/10.1016/j.iref.2025.103971
+3. Helfat, C. E., & Peteraf, M. A. (2015). Managerial cognitive capabilities and the microfoundations of dynamic capabilities. *Strategic Management Journal, 36*(6), 831-850. https://doi.org/10.1002/smj.2247
+
+本文提出的“三阶段回路与三类工作”是把动态能力研究应用于工作再设计后形成的方法，不是直接取自某篇参考文献的既有框架名称。

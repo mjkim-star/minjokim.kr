@@ -147,7 +147,8 @@ This is where the academic argument ends. Someone may later turn this method int
 
 ## References and Notes
 
-1. 2026-05-14_paper_teece-dynamic-capabilities-microfoundations — Teece's discussion of dynamic capabilities and sensing, seizing, transforming/reconfiguring.
-2. 2026-05-16_paper_jie-gooi-lou-digital-maturity-dc-hightech-sme-2025 — Jie, Gooi, and Lou's 2025 PLS-SEM study of 587 Chinese high-tech SMEs. The source note summarizes dynamic capabilities as a mediator between digital maturity and innovation performance.
-3. AX_AI직원분업_역할재정의 — Kim Minjo's methodological note on classifying AI-worker division by repetition, exception rate, and contextual dependence.
-4. 2026-05-19_paper_helfat-peteraf-2015-managerial-cognitive-capabilities — Helfat & Peteraf (2015), *Managerial Cognitive Capabilities and the Microfoundations of Dynamic Capabilities*.
+1. Teece, D. J. (2007). Explicating dynamic capabilities: The nature and microfoundations of (sustainable) enterprise performance. *Strategic Management Journal, 28*(13), 1319-1350. https://doi.org/10.1002/smj.640
+2. Jie, H., Gooi, L. M., & Lou, Y. (2025). Digital maturity, dynamic capabilities and innovation performance in high-tech SMEs. *International Review of Economics & Finance, 99*, 103971. https://doi.org/10.1016/j.iref.2025.103971
+3. Helfat, C. E., & Peteraf, M. A. (2015). Managerial cognitive capabilities and the microfoundations of dynamic capabilities. *Strategic Management Journal, 36*(6), 831-850. https://doi.org/10.1002/smj.2247
+
+The `three-stage circuit and three-part work classification` is a method proposed in this essay by applying dynamic-capabilities research to work redesign; it is not the name of a framework taken from a cited source.

@@ -113,8 +113,8 @@ tags:
 
 [1] Ascani, I., Sardini, A., Montemari, M., & Chiucchi, M. S. (2026). Orchestrating the flow of information for decision making: new dynamics between management accountants and operational managers leveraging business intelligence & analytics systems. *Journal of Management Control, 37*, 175-207. https://doi.org/10.1007/s00187-026-00413-3
 
-[2] Kersing, M., Oldenhof, L., Putters, K., & van Zoonen, L. (2025). Dashboard-driven change: reshaping relational dynamics in professional frontline-screen-level networks. *Journal of Professions and Organization, 12*(3), joaf005. https://doi.org/10.1093/jpo/joaf005
+[2] Kersing, M., Oldenhof, L., Putters, K., & van Zoonen, L. (2025). Dashboard-driven change: reshaping relational dynamics in professional frontline-screen-level networks. *Journal of Professions and Organization, 12*(3), 1-18. https://doi.org/10.1093/jpo/joaf005
 
 [3] Haxhiu, E., & Marc, M. (2026). Unintended consequences of management control systems: a systematic review and conceptual framework. *Journal of Management Control*. https://doi.org/10.1007/s00187-026-00422-2
 
-[4] Chambers, C. R., Alves, M., & Aceves, P. (2024). Learning from inconsistent performance feedback. *Organization Science, 36*(4), 1509-1530. https://doi.org/10.1287/orsc.2022.16833
+[4] Chambers, C. R., Alves, M., & Aceves, P. (2025). Learning from inconsistent performance feedback. *Organization Science, 36*(4), 1509-1530. https://doi.org/10.1287/orsc.2022.16833
