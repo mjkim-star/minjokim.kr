@@ -1,5 +1,5 @@
 ---
-title: Appendix
+title: Appendix 문헌 모음
 description: 김민조 연구노트가 직접 인용한 문헌의 검증 기록과 국내외 확장 문헌
 date: 2026-08-12
 updated: 2026-08-12

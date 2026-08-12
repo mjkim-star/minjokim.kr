@@ -10,16 +10,16 @@ function explorerSortByRecentDate(a: any, b: any) {
     let bRank: number | undefined
 
     if (aSlug === "research/index") aRank = 0
-    if (aSlug === "appendix/index") aRank = 1
-    if (aSlug === "translations/index") aRank = 2
-    if (aSlug === "papers-and-books/index") aRank = 3
+    if (aSlug === "translations/index") aRank = 1
+    if (aSlug === "papers-and-books/index") aRank = 2
+    if (aSlug === "appendix/index") aRank = 3
     if (aSlug === "papers-and-books/papers/index") aRank = 0
     if (aSlug === "papers-and-books/books/index") aRank = 1
 
     if (bSlug === "research/index") bRank = 0
-    if (bSlug === "appendix/index") bRank = 1
-    if (bSlug === "translations/index") bRank = 2
-    if (bSlug === "papers-and-books/index") bRank = 3
+    if (bSlug === "translations/index") bRank = 1
+    if (bSlug === "papers-and-books/index") bRank = 2
+    if (bSlug === "appendix/index") bRank = 3
     if (bSlug === "papers-and-books/papers/index") bRank = 0
     if (bSlug === "papers-and-books/books/index") bRank = 1
 

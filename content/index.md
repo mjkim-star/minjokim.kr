@@ -25,7 +25,6 @@ enableToc: false
     <h2>최신 글</h2>
     <div class="section-action-links">
       <a class="section-count-link" href="./research">전체 원문 보기 (22)</a>
-      <a class="section-count-link" href="./appendix">참고문헌 Appendix</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>

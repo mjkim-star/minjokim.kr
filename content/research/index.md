@@ -11,7 +11,6 @@ cssclasses:
 
 <section class="clean-index-summary">
   <span>원문 22편</span>
-  <a href="/appendix">참고문헌 Appendix</a>
   <a href="/translations">번역 글 10편</a>
 </section>
 
