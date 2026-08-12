@@ -113,6 +113,10 @@ function explorerFilter(node: any): boolean {
   return true
 }
 
+function isAppendixPage(page: any): boolean {
+  return `${page.fileData.slug ?? ""}`.startsWith("appendix")
+}
+
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -136,11 +140,11 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "index" && !isAppendixPage(page),
     }),
     Component.ConditionalRender({
       component: Component.ShareButton(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "index" && !isAppendixPage(page),
     }),
     Component.TagList(),
   ],
@@ -172,7 +176,14 @@ export const defaultContentPageLayout: PageLayout = {
 }
 
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => !isAppendixPage(page),
+    }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
