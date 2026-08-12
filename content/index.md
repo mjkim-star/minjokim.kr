@@ -33,10 +33,10 @@ enableToc: false
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-08-11_published_change-absorption-capacity">
         <span>
-          <strong>회사는 변화를 더하면서 무엇을 빼는가</strong>
-          <em>좋은 개선 과제가 겹칠수록 조직이 느려지는 이유</em>
+          <strong>좋은 변화는 왜 서로를 방해하는가</strong>
+          <em>각 부서에서 타당한 개선 과제가 조직 전체에서는 과부하가 되는 이유</em>
         </span>
-        <time>2026.08.11</time>
+        <time>2026.08.12</time>
       </a>
     </div>
     <div class="latest-group">
