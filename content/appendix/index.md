@@ -40,6 +40,28 @@ enableToc: true
 
 DOI가 확인됐다는 사실만으로 본문 해석까지 맞다는 뜻은 아닙니다. 문헌의 실재 확인과 주장 적합성 검수를 분리해 기록합니다.
 
+## 국제 확장 문헌
+
+다음 문헌은 아직 기존 원문의 직접 근거로 소급 적용하지 않은 후속 연구 후보입니다.
+
+1. Simón, C., Revilla, E., & Sáenz, M. J. (2024). Integrating AI in organizations for value creation through Human-AI teaming: A dynamic-capabilities approach. _Journal of Business Research, 182_, 114783. [DOI](https://doi.org/10.1016/j.jbusres.2024.114783)
+   인간과 AI의 협업을 감지, 포착, 재구성의 동적역량 관점에서 연결한다. AI 도입 뒤 역할과 판단을 어떻게 다시 나눌지 확장할 때 적합하다.
+
+2. Hossain, S., Fernando, M., & Akter, S. (2025). Digital leadership: Towards a dynamic managerial capability perspective of artificial intelligence-driven leader capabilities. _Journal of Leadership & Organizational Studies, 32_(2), 189-208. [DOI](https://doi.org/10.1177/15480518251319624)
+   AI 전환에서 리더의 인지와 행동을 동적 관리역량으로 구체화한다. 경영자 인지역량과 AI 도입을 잇는 후속 문헌이다.
+
+3. Pu, G., Gao, Y., Wang, Y., & Qiao, J. (2026). Impact of artificial intelligence on supply chain resilience: A dynamic capabilities perspective. _Technological Forecasting and Social Change, 230_, 124773. [DOI](https://doi.org/10.1016/j.techfore.2026.124773)
+   AI 활용이 공급망 학습과 혁신을 거쳐 회복탄력성으로 이어지는 경로를 분석한다. AI와 재고·공급망 글의 접점을 넓힐 수 있다.
+
+4. Balasubramanian, N., Ye, Y., & Xu, M. (2022). Substituting human decision-making with machine learning: Implications for organizational learning. _Academy of Management Review, 47_(3), 448-465. [DOI](https://doi.org/10.5465/amr.2019.0470)
+   인간의 결정을 기계학습으로 대체할 때 조직학습의 경험과 피드백 구조가 어떻게 달라지는지 묻는다. AI가 질문과 판단을 대신하는 문제와 연결된다.
+
+5. Zahra, S. A., & George, G. (2002). Absorptive capacity: A review, reconceptualization, and extension. _Academy of Management Review, 27_(2), 185-203. [DOI](https://doi.org/10.5465/amr.2002.6587995)
+   흡수역량을 잠재적 역량과 실현된 역량으로 나눈다. 외부 지식을 확보한 뒤 실제 성과로 바꾸는 전환 구간을 더 세밀하게 볼 수 있다.
+
+6. O'Reilly, C. A., & Tushman, M. L. (2013). Organizational ambidexterity: Past, present, and future. _Academy of Management Perspectives, 27_(4), 324-338. [DOI](https://doi.org/10.5465/amp.2013.0025)
+   탐색과 활용을 함께 운영하는 구조와 리더십을 정리한다. 중소기업의 양면성 비용과 변화 포트폴리오의 경계조건을 확장할 수 있다.
+
 ## 국내 확장 문헌: AI 도입과 조직역량
 
 1. 이창근·최동욱 (2024), 「기업의 인공지능 도입, 어떻게 측정할 것인가?: 기업전략 및 조직역량 관찰의 시사점」, _한국경제의 분석, 30_(2), 139-167. [KCI와 DOI](https://doi.org/10.22823/jkea.30.2.202408.139)
