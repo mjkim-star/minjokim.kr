@@ -10,11 +10,19 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 22편</span>
+  <span>원문 23편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">조직 정체성과 변화</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-21_published_company-identity-future">회사를 지키려는 마음이 미래를 막을 때</a>
+      <p class="clean-index-meta">지켜야 할 가치와 약속을 과거의 제품·숙련·절차에서 분리해 미래의 회사다움을 다시 묻는 글. 함께 읽기: <a href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>, <a href="/research/2026-06-24_published_failure-strategy-withdrawal-judgment">실패한 전략은 왜 멈추기 어려운가?</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">조직 변화</p>
     <div>
@@ -65,6 +73,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.08.21</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-21_published_company-identity-future">회사를 지키려는 마음이 미래를 막을 때</a>
+      <p class="clean-index-meta">지켜야 할 회사다움과 바꿔야 할 방식을 구분하는 법.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.08.12 개정</p>
     <div>

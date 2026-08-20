@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (22)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (23)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-08-21_published_company-identity-future">
+        <span>
+          <strong>회사를 지키려는 마음이 미래를 막을 때</strong>
+          <em>지켜야 할 회사다움과 바꿔야 할 방식을 구분하는 법</em>
+        </span>
+        <time>2026.08.21</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-08-11_published_change-absorption-capacity">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>네트워크와 소싱이 자원 부족을 성장으로 바꾸는 조건</em>
         </span>
         <time>2026.08.06</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-08-02_published_dashboard-information-boundary">
-        <span>
-          <strong>숫자를 모두에게 보여주면 판단도 분산될까?</strong>
-          <em>직접 숫자를 조회할 수 있어도 정보의 범위는 누군가 먼저 정한다</em>
-        </span>
-        <time>2026.08.02</time>
       </a>
     </div>
   </div>
