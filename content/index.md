@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (23)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (24)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-08-24_published_protected-slack-exploration">
+        <span>
+          <strong>여유가 생겼는데 왜 실험은 시작되지 않을까?</strong>
+          <em>남은 시간과 예산이 익숙한 업무로 되돌아가는 이유</em>
+        </span>
+        <time>2026.08.24</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-08-21_published_company-identity-future">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>각 부서에서 타당한 개선 과제가 조직 전체에서는 과부하가 되는 이유</em>
         </span>
         <time>2026.08.12</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-08-06_published_external-resource-growth">
-        <span>
-          <strong>작은 회사의 자원은 급여명부 밖에도 있다</strong>
-          <em>네트워크와 소싱이 자원 부족을 성장으로 바꾸는 조건</em>
-        </span>
-        <time>2026.08.06</time>
       </a>
     </div>
   </div>

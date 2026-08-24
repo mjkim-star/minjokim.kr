@@ -10,11 +10,19 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 23편</span>
+  <span>원문 24편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">혁신과 자원배분</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-24_published_protected-slack-exploration">여유가 생겼는데 왜 실험은 시작되지 않을까?</a>
+      <p class="clean-index-meta">남은 시간과 예산이 일상 업무에 다시 흡수되지 않고 탐색으로 바뀌는 조건. 함께 읽기: <a href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>, <a href="/research/2026-06-11_published_busy-company-cannot-learn">바쁜 회사는 왜 더 배우지 못하는가?</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">조직 정체성과 변화</p>
     <div>
@@ -73,6 +81,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.08.24</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-24_published_protected-slack-exploration">여유가 생겼는데 왜 실험은 시작되지 않을까?</a>
+      <p class="clean-index-meta">남은 시간과 예산이 익숙한 업무로 되돌아가는 이유.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.08.21</p>
     <div>
