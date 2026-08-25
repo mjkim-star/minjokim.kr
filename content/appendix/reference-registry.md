@@ -176,51 +176,51 @@ enableToc: false
 
 43. **Mount et al. (2024). Reeling in the Slack: An Integrative Review to Reinstate Slack as a Central Theoretical Construct for Management Research. Academy of Management Annals.**
    - [DOI: 10.5465/annals.2023.0087](https://doi.org/10.5465/annals.2023.0087)
-   - 관련 글: [여유가 생겼는데 왜 실험은 시작되지 않을까?](/research/2026-08-24_published_protected-slack-exploration)
+   - 관련 글: [남는 자원은 왜 모두 같은 여유가 아닌가?](/research/2026-08-24_published_protected-slack-exploration)
 
-44. **Nevmerzhytskyi, Rowe (2026). The silence of the slacked: The negative side effect of slack on problemistic search. Australian Journal of Management.**
-   - [DOI: 10.1177/03128962251340328](https://doi.org/10.1177/03128962251340328)
-   - 관련 글: [여유가 생겼는데 왜 실험은 시작되지 않을까?](/research/2026-08-24_published_protected-slack-exploration)
-
-45. **Noda, T., & Bower, J. L. (1996). Strategy making as iterated processes of resource allocation. Strategic Management Journal, 17(S1), 159-192.**
+44. **Noda, T., & Bower, J. L. (1996). Strategy making as iterated processes of resource allocation. Strategic Management Journal, 17(S1), 159-192.**
    - [DOI: 10.1002/smj.4250171011](https://doi.org/10.1002/smj.4250171011)
    - 관련 글: [회사는 왜 실패한 전략을 더 오래 붙잡는가?](/research/2026-06-24_published_failure-strategy-withdrawal-judgment)
 
-46. **NOHRIA, GULATI (1996). IS SLACK GOOD OR BAD FOR INNOVATION?. Academy of Management Journal.**
+45. **NOHRIA, GULATI (1996). IS SLACK GOOD OR BAD FOR INNOVATION?. Academy of Management Journal.**
    - [DOI: 10.5465/256998](https://doi.org/10.5465/256998)
-   - 관련 글: [여유가 생겼는데 왜 실험은 시작되지 않을까?](/research/2026-08-24_published_protected-slack-exploration)
+   - 관련 글: [남는 자원은 왜 모두 같은 여유가 아닌가?](/research/2026-08-24_published_protected-slack-exploration)
 
-47. **Nonaka (1994). A Dynamic Theory of Organizational Knowledge Creation. Organization Science.**
+46. **Nonaka (1994). A Dynamic Theory of Organizational Knowledge Creation. Organization Science.**
    - [DOI: 10.1287/orsc.5.1.14](https://doi.org/10.1287/orsc.5.1.14)
    - 관련 글: [회사에서 AI 프롬프트는 왜 업무를 다시 정의하게 만드는가?](/research/2026-06-03_published_ai-prompt-as-job-description), [바쁜 회사는 왜 더 배우지 못하는가?](/research/2026-06-11_published_busy-company-cannot-learn)
 
-48. **Ode et al. (2026). Archetypes of SME Resilience: A Systematic Literature Review of Antecedents, Types and Outcomes of Resilience in SMEs. Strategic Change.**
+47. **Ode et al. (2026). Archetypes of SME Resilience: A Systematic Literature Review of Antecedents, Types and Outcomes of Resilience in SMEs. Strategic Change.**
    - [DOI: 10.1002/jsc.70051](https://doi.org/10.1002/jsc.70051)
    - 관련 글: [\[SME\] 대표의 관계는 언제 회사의 힘이 아니라 혼선이 되는가?](/research/2026-06-07_published_sme-network-confusion-internal-conversion)
 
-49. **Olsson et al. (2024). When project outcomes matter: Organizational integration in managing long-term target benefits. International Journal of Project Management.**
+48. **Olsson et al. (2024). When project outcomes matter: Organizational integration in managing long-term target benefits. International Journal of Project Management.**
    - [DOI: 10.1016/j.ijproman.2024.102648](https://doi.org/10.1016/j.ijproman.2024.102648)
    - 관련 글: [프로젝트의 진짜 성과는 완료보고서 다음에 시작된다](/research/2026-07-20_published_project-results-start-after-completion)
 
-50. **Penrose (1995). The Theory of the Growth of the Firm. .**
+49. **Penrose (1995). The Theory of the Growth of the Firm. .**
    - [DOI: 10.1093/0198289774.001.0001](https://doi.org/10.1093/0198289774.001.0001)
    - 관련 글: [성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?](/research/2026-07-26_published_managerial-time-growth-limit), [작은 회사의 자원은 급여명부 밖에도 있다](/research/2026-08-06_published_external-resource-growth)
 
-51. **Piller, Euchner (2024). Mass Customization in the Age of AI. Research-Technology Management.**
+50. **Piller, Euchner (2024). Mass Customization in the Age of AI. Research-Technology Management.**
    - [DOI: 10.1080/08956308.2024.2350919](https://doi.org/10.1080/08956308.2024.2350919)
    - 관련 글: [AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?](/research/2026-07-12_published_ai-personalization-product-complexity)
 
-52. **Sánchez-Rodríguez et al. (2025). Navigating Uncertainty Through AI Adoption: Dynamic Capabilities, Strategic Innovation Performance, and Competitiveness in Ecuadorian SMEs. Administrative Sciences.**
+51. **Sánchez-Rodríguez et al. (2025). Navigating Uncertainty Through AI Adoption: Dynamic Capabilities, Strategic Innovation Performance, and Competitiveness in Ecuadorian SMEs. Administrative Sciences.**
    - [DOI: 10.3390/admsci15120468](https://doi.org/10.3390/admsci15120468)
    - 관련 글: [성과가 좋은 회사는 왜 AI를 늦게 배우는가?](/research/2026-07-05_published_successful-company-late-ai-learning)
 
-53. **Schweiger et al. (2024). Family businesses and strategic change: the role of family ownership. Review of Managerial Science.**
+52. **Schweiger et al. (2024). Family businesses and strategic change: the role of family ownership. Review of Managerial Science.**
    - [DOI: 10.1007/s11846-023-00703-3](https://doi.org/10.1007/s11846-023-00703-3)
    - 관련 글: [회사를 지키려는 마음이 미래를 막을 때](/research/2026-08-21_published_company-identity-future)
 
-54. **Shahzad, Ferreira (2026). Artificial intelligence driven dynamic capabilities: unpacking micro-foundational mechanisms. Management Decision.**
+53. **Shahzad, Ferreira (2026). Artificial intelligence driven dynamic capabilities: unpacking micro-foundational mechanisms. Management Decision.**
    - [DOI: 10.1108/md-07-2025-2141](https://doi.org/10.1108/md-07-2025-2141)
    - 관련 글: [성과가 좋은 회사는 왜 AI를 늦게 배우는가?](/research/2026-07-05_published_successful-company-late-ai-learning)
+
+54. **Sirmon et al. (2011). Resource Orchestration to Create Competitive Advantage. Journal of Management.**
+   - [DOI: 10.1177/0149206310385695](https://doi.org/10.1177/0149206310385695)
+   - 관련 글: [남는 자원은 왜 모두 같은 여유가 아닌가?](/research/2026-08-24_published_protected-slack-exploration)
 
 55. **Staw (1976). Knee-deep in the big muddy: a study of escalating commitment to a chosen course of action. Organizational Behavior and Human Performance.**
    - [DOI: 10.1016/0030-5073(76)90005-2](https://doi.org/10.1016/0030-5073(76)90005-2)

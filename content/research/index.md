@@ -16,10 +16,10 @@ cssclasses:
 
 <section class="clean-index-list">
   <article class="clean-index-item">
-    <p class="clean-index-date">혁신과 자원배분</p>
+    <p class="clean-index-date">자원과 실행</p>
     <div>
-      <a class="clean-index-title" href="/research/2026-08-24_published_protected-slack-exploration">여유가 생겼는데 왜 실험은 시작되지 않을까?</a>
-      <p class="clean-index-meta">남은 시간과 예산이 일상 업무에 다시 흡수되지 않고 탐색으로 바뀌는 조건. 함께 읽기: <a href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>, <a href="/research/2026-06-11_published_busy-company-cannot-learn">바쁜 회사는 왜 더 배우지 못하는가?</a></p>
+      <a class="clean-index-title" href="/research/2026-08-24_published_protected-slack-exploration">남는 자원은 왜 모두 같은 여유가 아닌가?</a>
+      <p class="clean-index-meta">설비·사람·재료·예산의 가용 시점을 겹쳐 실행 가능한 최소 자원 묶음을 찾는 글. 함께 읽기: <a href="/research/2026-05-29_published_sme-ambidexterity-boundary">"양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?</a>, <a href="/research/2026-08-11_published_change-absorption-capacity">좋은 변화는 왜 서로를 방해하는가</a></p>
     </div>
   </article>
 
@@ -82,10 +82,10 @@ cssclasses:
 
 <section class="clean-index-list">
   <article class="clean-index-item">
-    <p class="clean-index-date">2026.08.24</p>
+    <p class="clean-index-date">2026.08.25 개정</p>
     <div>
-      <a class="clean-index-title" href="/research/2026-08-24_published_protected-slack-exploration">여유가 생겼는데 왜 실험은 시작되지 않을까?</a>
-      <p class="clean-index-meta">남은 시간과 예산이 익숙한 업무로 되돌아가는 이유.</p>
+      <a class="clean-index-title" href="/research/2026-08-24_published_protected-slack-exploration">남는 자원은 왜 모두 같은 여유가 아닌가?</a>
+      <p class="clean-index-meta">설비·사람·예산이 따로 남아서는 새 일을 시작할 수 없는 이유.</p>
     </div>
   </article>
 

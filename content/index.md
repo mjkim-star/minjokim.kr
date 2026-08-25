@@ -33,10 +33,10 @@ enableToc: false
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-08-24_published_protected-slack-exploration">
         <span>
-          <strong>여유가 생겼는데 왜 실험은 시작되지 않을까?</strong>
-          <em>남은 시간과 예산이 익숙한 업무로 되돌아가는 이유</em>
+          <strong>남는 자원은 왜 모두 같은 여유가 아닌가?</strong>
+          <em>설비·사람·예산이 따로 남아서는 새 일을 시작할 수 없는 이유</em>
         </span>
-        <time>2026.08.24</time>
+        <time>2026.08.25</time>
       </a>
     </div>
     <div class="latest-group">
