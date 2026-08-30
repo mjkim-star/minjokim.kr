@@ -10,11 +10,19 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 24편</span>
+  <span>원문 25편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">전략실행과 부서조정</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-30_published_same-directive-different-work">같은 지시가 부서를 건널 때 왜 다른 일이 되는가</a>
+      <p class="clean-index-meta">각 부서가 지시를 자기 업무의 언어로 바꾸는 동안 목적과 성공조건이 달라지는 과정. 함께 읽기: <a href="/research/2026-06-03_published_strategy-meeting-management-system">전략은 왜 회의에서 멈추는가?</a>, <a href="/research/2026-08-11_published_change-absorption-capacity">좋은 변화는 왜 서로를 방해하는가</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">자원과 실행</p>
     <div>
@@ -81,6 +89,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.08.30</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-08-30_published_same-directive-different-work">같은 지시가 부서를 건널 때 왜 다른 일이 되는가</a>
+      <p class="clean-index-meta">각 부서가 틀리지 않았는데 회사 전체가 어긋나는 이유.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.08.25 개정</p>
     <div>

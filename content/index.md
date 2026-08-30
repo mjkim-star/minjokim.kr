@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (24)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (25)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-08-30_published_same-directive-different-work">
+        <span>
+          <strong>같은 지시가 부서를 건널 때 왜 다른 일이 되는가</strong>
+          <em>각 부서가 틀리지 않았는데 회사 전체가 어긋나는 이유</em>
+        </span>
+        <time>2026.08.30</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-08-24_published_protected-slack-exploration">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>지켜야 할 회사다움과 바꿔야 할 방식을 구분하는 법</em>
         </span>
         <time>2026.08.21</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-08-11_published_change-absorption-capacity">
-        <span>
-          <strong>좋은 변화는 왜 서로를 방해하는가</strong>
-          <em>각 부서에서 타당한 개선 과제가 조직 전체에서는 과부하가 되는 이유</em>
-        </span>
-        <time>2026.08.12</time>
       </a>
     </div>
   </div>

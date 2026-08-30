@@ -70,6 +70,17 @@ enableToc: true
 2. 이진석 (2011). 전략적 경영의사결정 수단으로서의 시간동인 ABC 모델. _POSRI경영경제연구, 11_(2), 5-29. [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001576367)
    시간과 활동을 중심으로 원가정보를 의사결정에 연결한다.
 
+## 전략실행과 조직조정
+
+1. Rouleau, L. (2005). Micro-practices of strategic sensemaking and sensegiving: How middle managers interpret and sell change every day. _Journal of Management Studies, 42_(7), 1413-1441. [논문](https://doi.org/10.1111/j.1467-6486.2005.00549.x)
+   중간관리자가 일상 대화와 업무 속에서 전략적 변화를 해석하고 다른 사람에게 의미를 전달하는 과정을 보여준다.
+
+2. Elmholdt, K. T., Nielsen, J. A., Wæraas, A., & Meyer, R. E. (2025). It takes a village: Translating management ideas through an ecology of roles. _Journal of Management Studies, 62_(7), 2938-2968. [논문](https://doi.org/10.1111/joms.13155)
+   경영 아이디어가 한 방향으로 복사되는 것이 아니라 여러 역할의 상호작용 속에서 번역되고 달라지는 과정을 설명한다.
+
+3. Holm, C. G., Kringelum, L., & Anand, A. (2026). Creating effective strategy implementation: A systematic review of managerial and organizational levers. _Review of Managerial Science, 20_, 673-705. [논문](https://doi.org/10.1007/s11846-025-00880-3)
+   전략실행 연구 160편을 종합해 중간관리자의 번역·조정 역할과 조직 차원의 실행 조건을 정리한다.
+
 ## 조직공정성과 조직정치
 
 1. 원숙연·성민아 (2023). 정부조직 내 조직공정성인식-조직몰입-조직시민행동의 관계분석. _한국행정학보, 57_(2), 59-98. [논문](https://doi.org/10.18333/KPAR.57.2.59)
