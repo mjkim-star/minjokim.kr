@@ -130,23 +130,24 @@ post_publish_reference_cycle_log: "[[_logs/2026-09-06_post-publish-reference-cyc
 reference_registry_updated: true
 interest_paper_list_updated: true
 public_content_validation: pass
-quartz_status: deployment_ready
+quartz_status: published
+quartz_deployed_commit: "08d3711"
 quartz_user_approval_required: true
 quartz_user_approved: true
 quartz_user_approved_at: 2026-09-06
 quartz_user_approval_note: "사용자 요청 '글 발행하고 외부향도 발행한 글 기준으로 조정할것 있으면 조정해주고'에 따른 원문 발행 및 Quartz 반영 승인."
 quartz_page_match:
-  status: local_pass
+  status: pass
   item_type: korean_original
   korean_original_count: 26
   latest_home_updated: true
   research_index_updated: true
   reference_registry_updated: true
   sitemap_verified: true
-  live_url_status: pending
+  live_url_status: 200
   build_check: pass
   mobile_overflow_check: pass
-next_action: quartz_deploy_and_external_approval
+next_action: external_user_approval_required
 ---
 
 # AI의 판단을 누가 뒤집을 수 있는가
