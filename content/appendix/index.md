@@ -34,6 +34,12 @@ enableToc: true
 8. 이철승·안성준·전병유 (2025). 한국 기업의 내부노동시장 제도와 AI도입. _산업노동연구, 31_(2), 33-68. [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003218861)
    AI 도입을 기술 선택만이 아니라 한국 기업의 고용과 인사 제도 안에서 본다.
 
+9. Krakowski, S., Haftor, D., Luger, J., Pashkevich, N., & Raisch, S. (2026). Human-centered artificial intelligence: A field experiment. _Management Science, 72_(1), 57-72. [논문](https://doi.org/10.1287/mnsc.2022.03849)
+   다국적 제약회사의 현장실험을 통해 업무 절차, 의사결정 권한, 교육과 보상을 사람에게 맞게 설계하는 일이 인간-AI 협업 성과에 어떤 차이를 만드는지 보여 준다.
+
+10. Taş, E., Memmert, L., & Bittner, E. (2026). Episodic oversight in generative AI workflows: A nine-step protocol for preserving human agency (OP-9). _Electronic Markets, 36_, Article 58. [논문](https://doi.org/10.1007/s12525-026-00915-x)
+    독일 기술기업 두 곳의 생성형 AI 업무를 분석해 사람의 감독이 최종 확인 한 번이 아니라 초안, 수정·검증, 최종 검토에 분산되는 과정을 살펴본다.
+
 ## 동적역량과 조직학습
 
 1. Zahra, S. A., & George, G. (2002). Absorptive capacity: A review, reconceptualization, and extension. _Academy of Management Review, 27_(2), 185-203. [논문](https://doi.org/10.5465/amr.2002.6587995)

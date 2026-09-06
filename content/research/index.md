@@ -10,11 +10,19 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 25편</span>
+  <span>원문 26편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">AI와 판단</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-09-06_published_ai-override-human-review">AI의 판단을 누가 뒤집을 수 있는가</a>
+      <p class="clean-index-meta">사람이 최종 확인한다는 형식과 다른 판단을 만들고 실행을 멈출 수 있는 실질 검토를 구분한다. 이어 읽기: <a href="/research/2026-07-15_published_ai-questions-deliberation-part-1">AI가 질문까지 대신하기 시작했다</a>, <a href="/research/2026-06-15_published_ai-information-cost-decision-cost">AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">전략실행과 부서조정</p>
     <div>
@@ -89,6 +97,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.09.06</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-09-06_published_ai-override-human-review">AI의 판단을 누가 뒤집을 수 있는가</a>
+      <p class="clean-index-meta">사람이 마지막으로 확인한다는 형식과 실질적으로 AI 판단을 뒤집을 수 있는 조건은 다르다.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.08.30</p>
     <div>
