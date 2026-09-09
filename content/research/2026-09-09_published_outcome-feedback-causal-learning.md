@@ -138,7 +138,9 @@ quartz_page_match:
   live_url_status: 200
   build_check: pass
   mobile_overflow_check: pass
-next_action: external_channel_draft_staging
+external_platform_staging_status: staged_and_verified
+external_public_publish_status: awaiting_user_review
+next_action: user_review_external_channel_drafts
 ---
 
 # 좋은 결과는 왜 좋은 판단을 증명하지 못하는가
