@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (26)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (27)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-09-09_published_outcome-feedback-causal-learning">
+        <span>
+          <strong>좋은 결과는 왜 좋은 판단을 증명하지 못하는가</strong>
+          <em>성과표가 원인을 말해 주지 않는 이유</em>
+        </span>
+        <time>2026.09.09</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-09-06_published_ai-override-human-review">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>각 부서가 틀리지 않았는데 회사 전체가 어긋나는 이유</em>
         </span>
         <time>2026.08.30</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-08-24_published_protected-slack-exploration">
-        <span>
-          <strong>남는 자원은 왜 모두 같은 여유가 아닌가?</strong>
-          <em>설비·사람·예산이 따로 남아서는 새 일을 시작할 수 없는 이유</em>
-        </span>
-        <time>2026.08.25</time>
       </a>
     </div>
   </div>

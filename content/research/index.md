@@ -10,11 +10,19 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 26편</span>
+  <span>원문 27편</span>
   <a href="/translations">번역 글 10편</a>
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">성과와 조직학습</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-09-09_published_outcome-feedback-causal-learning">좋은 결과는 왜 좋은 판단을 증명하지 못하는가</a>
+      <p class="clean-index-meta">좋은 성과와 좋은 판단을 분리하고 결과·경로·판단을 나눠 다음에 무엇을 반복할지 살핀다. 이어 읽기: <a href="/research/2026-07-05_published_successful-company-late-ai-learning">성과가 좋은 회사는 왜 AI를 늦게 배우는가?</a>, <a href="/research/2026-08-02_published_dashboard-information-boundary">숫자를 모두에게 보여주면 판단도 분산될까?</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">AI와 판단</p>
     <div>
@@ -97,6 +105,14 @@ cssclasses:
 </section>
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.09.09</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-09-09_published_outcome-feedback-causal-learning">좋은 결과는 왜 좋은 판단을 증명하지 못하는가</a>
+      <p class="clean-index-meta">성과표의 숫자와 그 결과를 만든 원인·판단은 같은 정보가 아니다.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.09.06</p>
     <div>
