@@ -119,7 +119,8 @@ post_publish_reference_cycle: pass
 reference_registry_updated: true
 interest_paper_list_updated: true
 public_content_validation: pass
-quartz_status: ready_for_deploy
+quartz_status: published
+quartz_deployed_commit: "404e418"
 domain: minjokim.kr
 quartz_item_type: korean_original
 quartz_user_approval_required: true
@@ -127,17 +128,17 @@ quartz_user_approved: true
 quartz_user_approved_at: 2026-09-09
 quartz_user_approval_note: "사용자 요청 '새로 발행할 글을 기준으로 실행해보자'에 따른 이번 주 원문 발행 및 외부 임시저장 승인."
 quartz_page_match:
-  status: validated
+  status: pass
   item_type: korean_original
   korean_original_count: 27
   latest_home_updated: true
   research_index_updated: true
   reference_registry_updated: true
   sitemap_verified: true
-  live_url_status: pending
+  live_url_status: 200
   build_check: pass
   mobile_overflow_check: pass
-next_action: quartz_deploy
+next_action: external_channel_draft_staging
 ---
 
 # 좋은 결과는 왜 좋은 판단을 증명하지 못하는가
