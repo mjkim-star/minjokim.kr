@@ -86,242 +86,258 @@ enableToc: false
    - [DOI: 10.2307/3556620](https://doi.org/10.2307/3556620)
    - 관련 글: [회사에서 AI 프롬프트는 왜 업무를 다시 정의하게 만드는가?](/research/2026-06-03_published_ai-prompt-as-job-description), [재고는 왜 회사의 오래된 약속을 기억하는가?](/research/2026-07-08_published_inventory-organizational-memory)
 
-21. **Ferris, Kacmar (1992). Perceptions of Organizational Politics. Journal of Management.**
+21. **Ferreira, Otley (2009). The design and use of performance management systems: An extended framework for analysis. Management Accounting Research.**
+   - [DOI: 10.1016/j.mar.2009.07.003](https://doi.org/10.1016/j.mar.2009.07.003)
+   - 관련 글: [모두 끝냈는데, 전략은 아직 끝나지 않았다](/research/2026-09-18_published_local-results-strategic-realization)
+
+22. **Ferris, Kacmar (1992). Perceptions of Organizational Politics. Journal of Management.**
    - [DOI: 10.1177/014920639201800107](https://doi.org/10.1177/014920639201800107)
    - 관련 글: [칭찬이 없으면 왜 사내정치가 커지는가?](/research/2026-05-31_published_recognition-justice-politics-decision-structure)
 
-22. **Fürst, Pecornik, Hoyer (2024). How product complexity affects consumer adoption of new products: The role of feature heterogeneity and interrelatedness. Journal of the Academy of Marketing Science.**
+23. **Friesl, Stensaker, Colman (2021). Strategy implementation: Taking stock and moving forward. Long Range Planning.**
+   - [DOI: 10.1016/j.lrp.2020.102064](https://doi.org/10.1016/j.lrp.2020.102064)
+   - 관련 글: [모두 끝냈는데, 전략은 아직 끝나지 않았다](/research/2026-09-18_published_local-results-strategic-realization)
+
+24. **Fürst, Pecornik, Hoyer (2024). How product complexity affects consumer adoption of new products: The role of feature heterogeneity and interrelatedness. Journal of the Academy of Marketing Science.**
    - [DOI: 10.1007/s11747-023-00933-7](https://doi.org/10.1007/s11747-023-00933-7)
    - 관련 글: [AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?](/research/2026-07-12_published_ai-personalization-product-complexity)
 
-23. **Gaur, Fisher, Raman (2005). An Econometric Analysis of Inventory Turnover Performance in Retail Services. Management Science.**
+25. **Gaur, Fisher, Raman (2005). An Econometric Analysis of Inventory Turnover Performance in Retail Services. Management Science.**
    - [DOI: 10.1287/mnsc.1040.0298](https://doi.org/10.1287/mnsc.1040.0298)
    - 관련 글: [재고는 왜 회사의 오래된 약속을 기억하는가?](/research/2026-07-08_published_inventory-organizational-memory)
 
-24. **Geyskens, Steenkamp, Kumar (2006). Make, Buy, or Ally: A Transaction Cost Theory Meta-Analysis. Academy of Management Journal.**
+26. **Geyskens, Steenkamp, Kumar (2006). Make, Buy, or Ally: A Transaction Cost Theory Meta-Analysis. Academy of Management Journal.**
    - [DOI: 10.5465/amj.2006.21794670](https://doi.org/10.5465/amj.2006.21794670)
    - 관련 글: [작은 회사의 자원은 급여명부 밖에도 있다](/research/2026-08-06_published_external-resource-growth)
 
-25. **Gulati, Marchetti, Puranam (2026). Collaborative Work Management Technologies and Managerial Intensity in U.S. Corporations: An Examination. Management Science.**
+27. **Gulati, Marchetti, Puranam (2026). Collaborative Work Management Technologies and Managerial Intensity in U.S. Corporations: An Examination. Management Science.**
    - [DOI: 10.1287/mnsc.2023.04127](https://doi.org/10.1287/mnsc.2023.04127)
    - 관련 글: [성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?](/research/2026-07-26_published_managerial-time-growth-limit)
 
-26. **Guo et al. (2025). Supply chain resilience: A review from the inventory management perspective. Fundamental Research.**
+28. **Guo et al. (2025). Supply chain resilience: A review from the inventory management perspective. Fundamental Research.**
    - [DOI: 10.1016/j.fmre.2024.08.002](https://doi.org/10.1016/j.fmre.2024.08.002)
    - 관련 글: [재고는 왜 회사의 오래된 약속을 기억하는가?](/research/2026-07-08_published_inventory-organizational-memory)
 
-27. **Hackman, Oldham (1976). Motivation through the design of work: test of a theory. Organizational Behavior and Human Performance.**
+29. **Hackman, Oldham (1976). Motivation through the design of work: test of a theory. Organizational Behavior and Human Performance.**
    - [DOI: 10.1016/0030-5073(76)90016-7](https://doi.org/10.1016/0030-5073(76)90016-7)
    - 관련 글: [회사에서 AI 프롬프트는 왜 업무를 다시 정의하게 만드는가?](/research/2026-06-03_published_ai-prompt-as-job-description)
 
-28. **Haxhiu, Marc (2026). Unintended consequences of management control systems: a systematic review and conceptual framework. Journal of Management Control.**
+30. **Haxhiu, Marc (2026). Unintended consequences of management control systems: a systematic review and conceptual framework. Journal of Management Control.**
    - [DOI: 10.1007/s00187-026-00422-2](https://doi.org/10.1007/s00187-026-00422-2)
    - 관련 글: [숫자를 모두에게 보여주면 판단도 분산될까?](/research/2026-08-02_published_dashboard-information-boundary)
 
-29. **Helfat, Peteraf (2015). Managerial cognitive capabilities and the microfoundations of dynamic capabilities. Strategic Management Journal.**
+31. **Helfat, Peteraf (2015). Managerial cognitive capabilities and the microfoundations of dynamic capabilities. Strategic Management Journal.**
    - [DOI: 10.1002/smj.2247](https://doi.org/10.1002/smj.2247)
    - 관련 글: [AI를 도입했는데 왜 회사는 달라지지 않는가?](/research/2026-05-27_published_ai-adoption-dynamic-capability-mediation)
 
-30. **Henderson, Clark (1990). Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms. Administrative Science Quarterly.**
+32. **Henderson, Clark (1990). Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms. Administrative Science Quarterly.**
    - [DOI: 10.2307/2393549](https://doi.org/10.2307/2393549)
    - 관련 글: [AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?](/research/2026-07-12_published_ai-personalization-product-complexity)
 
-31. **Holm, Kringelum, Anand (2026). Creating effective strategy implementation: a systematic review of managerial and organizational levers. Review of Managerial Science.**
+33. **Holm, Kringelum, Anand (2026). Creating effective strategy implementation: a systematic review of managerial and organizational levers. Review of Managerial Science.**
    - [DOI: 10.1007/s11846-025-00880-3](https://doi.org/10.1007/s11846-025-00880-3)
-   - 관련 글: [같은 지시가 부서를 건널 때 왜 다른 일이 되는가](/research/2026-08-30_published_same-directive-different-work)
+   - 관련 글: [같은 지시가 부서를 건널 때 왜 다른 일이 되는가](/research/2026-08-30_published_same-directive-different-work), [모두 끝냈는데, 전략은 아직 끝나지 않았다](/research/2026-09-18_published_local-results-strategic-realization)
 
-32. **Hutzschenreuter, Horstkotte (2013). Managerial services and complexity in a firm’s expansion process: An empirical study of the impact on the growth of the firm. European Management Journal.**
+34. **Hutzschenreuter, Horstkotte (2013). Managerial services and complexity in a firm’s expansion process: An empirical study of the impact on the growth of the firm. European Management Journal.**
    - [DOI: 10.1016/j.emj.2012.02.003](https://doi.org/10.1016/j.emj.2012.02.003)
    - 관련 글: [성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?](/research/2026-07-26_published_managerial-time-growth-limit)
 
-33. **Jensen, Heckling (1995). SPECIFIC AND GENERAL KNOWLEDGE, AND ORGANIZATIONAL STRUCTURE. Journal of Applied Corporate Finance.**
+35. **Jensen, Heckling (1995). SPECIFIC AND GENERAL KNOWLEDGE, AND ORGANIZATIONAL STRUCTURE. Journal of Applied Corporate Finance.**
    - [DOI: 10.1111/j.1745-6622.1995.tb00283.x](https://doi.org/10.1111/j.1745-6622.1995.tb00283.x)
    - 관련 글: [AI로 정보 생산은 저렴해졌는데 왜 결정은 더 비싸졌는가?](/research/2026-06-15_published_ai-information-cost-decision-cost)
 
-34. **Jiang et al. (2025). Unveiling the influence of social network characteristics on sustainable performance in small and medium-sized enterprises: A dynamic capabilities perspective. PLOS One.**
+36. **Jiang et al. (2025). Unveiling the influence of social network characteristics on sustainable performance in small and medium-sized enterprises: A dynamic capabilities perspective. PLOS One.**
    - [DOI: 10.1371/journal.pone.0325378](https://doi.org/10.1371/journal.pone.0325378)
    - 관련 글: [\[SME\] 대표의 관계는 언제 회사의 힘이 아니라 혼선이 되는가?](/research/2026-06-07_published_sme-network-confusion-internal-conversion)
 
-35. **Jie, Gooi, Lou (2025). Digital maturity, dynamic capabilities and innovation performance in high-tech SMEs. International Review of Economics & Finance.**
+37. **Jie, Gooi, Lou (2025). Digital maturity, dynamic capabilities and innovation performance in high-tech SMEs. International Review of Economics & Finance.**
    - [DOI: 10.1016/j.iref.2025.103971](https://doi.org/10.1016/j.iref.2025.103971)
    - 관련 글: [AI를 도입했는데 왜 회사는 달라지지 않는가?](/research/2026-05-27_published_ai-adoption-dynamic-capability-mediation)
 
-36. **Kersing, M., Oldenhof, L., Putters, K., & van Zoonen, L. (2025). Dashboard-driven change: reshaping relational dynamics in professional frontline-screen-level networks. Journal of Professions and Organization, 12(3), 1-18.**
+38. **Kerr (1975). On the Folly of Rewarding A, While Hoping for B.. Academy of Management Journal.**
+   - [DOI: 10.5465/255378](https://doi.org/10.5465/255378)
+   - 관련 글: [모두 끝냈는데, 전략은 아직 끝나지 않았다](/research/2026-09-18_published_local-results-strategic-realization)
+
+39. **Kersing, M., Oldenhof, L., Putters, K., & van Zoonen, L. (2025). Dashboard-driven change: reshaping relational dynamics in professional frontline-screen-level networks. Journal of Professions and Organization, 12(3), 1-18.**
    - [DOI: 10.1093/jpo/joaf005](https://doi.org/10.1093/jpo/joaf005)
    - 관련 글: [숫자를 모두에게 보여주면 판단도 분산될까?](/research/2026-08-02_published_dashboard-information-boundary)
 
-37. **Klingbeil, Grützner, Schreck (2024). Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI. Computers in Human Behavior.**
+40. **Klingbeil, Grützner, Schreck (2024). Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI. Computers in Human Behavior.**
    - [DOI: 10.1016/j.chb.2024.108352](https://doi.org/10.1016/j.chb.2024.108352)
    - 관련 글: [AI의 판단을 누가 뒤집을 수 있는가](/research/2026-09-06_published_ai-override-human-review)
 
-38. **Konlechner, Ambrosini (2019). Issues and Trends in Causal Ambiguity Research: A Review and Assessment. Journal of Management.**
+41. **Konlechner, Ambrosini (2019). Issues and Trends in Causal Ambiguity Research: A Review and Assessment. Journal of Management.**
    - [DOI: 10.1177/0149206319836163](https://doi.org/10.1177/0149206319836163)
    - 관련 글: [좋은 결과는 왜 좋은 판단을 증명하지 못하는가](/research/2026-09-09_published_outcome-feedback-causal-learning)
 
-39. **Krakowski et al. (2026). Human-Centered Artificial Intelligence: A Field Experiment. Management Science.**
+42. **Krakowski et al. (2026). Human-Centered Artificial Intelligence: A Field Experiment. Management Science.**
    - [DOI: 10.1287/mnsc.2022.03849](https://doi.org/10.1287/mnsc.2022.03849)
    - 관련 글: [AI의 판단을 누가 뒤집을 수 있는가](/research/2026-09-06_published_ai-override-human-review)
 
-40. **Lauenstein, Newark, Baumann (2025). How Mixed Performance Feedback Shapes Exploration: The Moderating Role of Self-Enhancement. Organization Science.**
+43. **Lauenstein, Newark, Baumann (2025). How Mixed Performance Feedback Shapes Exploration: The Moderating Role of Self-Enhancement. Organization Science.**
    - [DOI: 10.1287/orsc.2021.15676](https://doi.org/10.1287/orsc.2021.15676)
    - 관련 글: [좋은 결과는 왜 좋은 판단을 증명하지 못하는가](/research/2026-09-09_published_outcome-feedback-causal-learning)
 
-41. **Lebovitz, Lifshitz-Assaf, Levina (2022). To Engage or Not to Engage with AI for Critical Judgments: How Professionals Deal with Opacity When Using AI for Medical Diagnosis. Organization Science.**
+44. **Lebovitz, Lifshitz-Assaf, Levina (2022). To Engage or Not to Engage with AI for Critical Judgments: How Professionals Deal with Opacity When Using AI for Medical Diagnosis. Organization Science.**
    - [DOI: 10.1287/orsc.2021.1549](https://doi.org/10.1287/orsc.2021.1549)
    - 관련 글: [AI의 판단을 누가 뒤집을 수 있는가](/research/2026-09-06_published_ai-override-human-review)
 
-42. **Lee et al. (2025). The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems.**
+45. **Lee et al. (2025). The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems.**
    - [DOI: 10.1145/3706598.3713778](https://doi.org/10.1145/3706598.3713778)
    - 관련 글: [AI의 판단을 누가 뒤집을 수 있는가](/research/2026-09-06_published_ai-override-human-review)
 
-43. **Lee, Padmanabhan, Whang (1997). Information Distortion in a Supply Chain: The Bullwhip Effect. Management Science.**
+46. **Lee, Padmanabhan, Whang (1997). Information Distortion in a Supply Chain: The Bullwhip Effect. Management Science.**
    - [DOI: 10.1287/mnsc.43.4.546](https://doi.org/10.1287/mnsc.43.4.546)
    - 관련 글: [재고는 왜 회사의 오래된 약속을 기억하는가?](/research/2026-07-08_published_inventory-organizational-memory)
 
-44. **Leonardi, Leavell (2026). Knowing Enough to Be Dangerous: The Problem of “Artificial Certainty” for Expert Authority When Using AI for Decision Making and Planning. Organization Science.**
+47. **Leonardi, Leavell (2026). Knowing Enough to Be Dangerous: The Problem of “Artificial Certainty” for Expert Authority When Using AI for Decision Making and Planning. Organization Science.**
    - [DOI: 10.1287/orsc.2023.18224](https://doi.org/10.1287/orsc.2023.18224)
    - 관련 글: [AI가 질문까지 대신하기 시작했다](/research/2026-07-15_published_ai-questions-deliberation-part-1)
 
-45. **Levitt, March (1988). Organizational Learning. Annual Review of Sociology.**
+48. **Levitt, March (1988). Organizational Learning. Annual Review of Sociology.**
    - [DOI: 10.1146/annurev.so.14.080188.001535](https://doi.org/10.1146/annurev.so.14.080188.001535)
    - 관련 글: [재고는 왜 회사의 오래된 약속을 기억하는가?](/research/2026-07-08_published_inventory-organizational-memory)
 
-46. **Li, Wang (2026). Investigating how digital technology network embeddedness affects small and medium-sized enterprise growth: A dynamic capabilities perspective. Technological Forecasting and Social Change.**
+49. **Li, Wang (2026). Investigating how digital technology network embeddedness affects small and medium-sized enterprise growth: A dynamic capabilities perspective. Technological Forecasting and Social Change.**
    - [DOI: 10.1016/j.techfore.2025.124442](https://doi.org/10.1016/j.techfore.2025.124442)
    - 관련 글: [작은 회사의 자원은 급여명부 밖에도 있다](/research/2026-08-06_published_external-resource-growth)
 
-47. **Lupina-Wegener, Van Dick, Haslam (2026). From Identity Threat to Identity Gain: The Role of Identity Leadership in Helping Employees Negotiate Organizational Change. Journal of Change Management.**
+50. **Lupina-Wegener, Van Dick, Haslam (2026). From Identity Threat to Identity Gain: The Role of Identity Leadership in Helping Employees Negotiate Organizational Change. Journal of Change Management.**
    - [DOI: 10.1080/14697017.2026.2623636](https://doi.org/10.1080/14697017.2026.2623636)
    - 관련 글: [회사를 지키려는 마음이 미래를 막을 때](/research/2026-08-21_published_company-identity-future)
 
-48. **March (1991). Exploration and Exploitation in Organizational Learning. Organization Science.**
+51. **M. Lewis (2015). The politics and consequences of performance measurement. Policy and Society.**
+   - [DOI: 10.1016/j.polsoc.2015.03.001](https://doi.org/10.1016/j.polsoc.2015.03.001)
+   - 관련 글: [모두 끝냈는데, 전략은 아직 끝나지 않았다](/research/2026-09-18_published_local-results-strategic-realization)
+
+52. **March (1991). Exploration and Exploitation in Organizational Learning. Organization Science.**
    - [DOI: 10.1287/orsc.2.1.71](https://doi.org/10.1287/orsc.2.1.71)
    - 관련 글: [바쁜 회사는 왜 더 배우지 못하는가?](/research/2026-06-11_published_busy-company-cannot-learn)
 
-49. **Mendes et al. (2026). Exploration, Exploitation, or Ambidexterity? A Meta-Analysis of SME Strategic Orientation and Performance Across Different Levels of Environmental Munificence. BRQ Business Research Quarterly.**
+53. **Mendes et al. (2026). Exploration, Exploitation, or Ambidexterity? A Meta-Analysis of SME Strategic Orientation and Performance Across Different Levels of Environmental Munificence. BRQ Business Research Quarterly.**
    - [DOI: 10.1177/23409444251397410](https://doi.org/10.1177/23409444251397410)
    - 관련 글: ["양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?](/research/2026-05-29_published_sme-ambidexterity-boundary)
 
-50. **Mirkovski et al. (2024). Achieving entrepreneurial growth despite resource and capability constraints: the role of service intermediaries. Small Business Economics.**
+54. **Mirkovski et al. (2024). Achieving entrepreneurial growth despite resource and capability constraints: the role of service intermediaries. Small Business Economics.**
    - [DOI: 10.1007/s11187-023-00777-z](https://doi.org/10.1007/s11187-023-00777-z)
    - 관련 글: [작은 회사의 자원은 급여명부 밖에도 있다](/research/2026-08-06_published_external-resource-growth)
 
-51. **Morrison (2026). Sociotechnical Systems and Middle Manager Practices: Improving Policy and Strategy Implementation. Healthcare Management Forum.**
+55. **Morrison (2026). Sociotechnical Systems and Middle Manager Practices: Improving Policy and Strategy Implementation. Healthcare Management Forum.**
    - [DOI: 10.1177/08404704261430252](https://doi.org/10.1177/08404704261430252)
    - 관련 글: [같은 지시가 부서를 건널 때 왜 다른 일이 되는가](/research/2026-08-30_published_same-directive-different-work)
 
-52. **Mount et al. (2024). Reeling in the Slack: An Integrative Review to Reinstate Slack as a Central Theoretical Construct for Management Research. Academy of Management Annals.**
+56. **Mount et al. (2024). Reeling in the Slack: An Integrative Review to Reinstate Slack as a Central Theoretical Construct for Management Research. Academy of Management Annals.**
    - [DOI: 10.5465/annals.2023.0087](https://doi.org/10.5465/annals.2023.0087)
    - 관련 글: [남는 자원은 왜 모두 같은 여유가 아닌가?](/research/2026-08-24_published_protected-slack-exploration)
 
-53. **Nikiforow, Knauer, Marsula (2026). Behavioral effects of feedback in management accounting research: a literature review of the current state. Journal of Business Economics.**
+57. **Nikiforow, Knauer, Marsula (2026). Behavioral effects of feedback in management accounting research: a literature review of the current state. Journal of Business Economics.**
    - [DOI: 10.1007/s11573-025-01251-w](https://doi.org/10.1007/s11573-025-01251-w)
    - 관련 글: [좋은 결과는 왜 좋은 판단을 증명하지 못하는가](/research/2026-09-09_published_outcome-feedback-causal-learning)
 
-54. **Noda, T., & Bower, J. L. (1996). Strategy making as iterated processes of resource allocation. Strategic Management Journal, 17(S1), 159-192.**
+58. **Noda, T., & Bower, J. L. (1996). Strategy making as iterated processes of resource allocation. Strategic Management Journal, 17(S1), 159-192.**
    - [DOI: 10.1002/smj.4250171011](https://doi.org/10.1002/smj.4250171011)
    - 관련 글: [회사는 왜 실패한 전략을 더 오래 붙잡는가?](/research/2026-06-24_published_failure-strategy-withdrawal-judgment)
 
-55. **NOHRIA, GULATI (1996). IS SLACK GOOD OR BAD FOR INNOVATION?. Academy of Management Journal.**
+59. **NOHRIA, GULATI (1996). IS SLACK GOOD OR BAD FOR INNOVATION?. Academy of Management Journal.**
    - [DOI: 10.5465/256998](https://doi.org/10.5465/256998)
    - 관련 글: [남는 자원은 왜 모두 같은 여유가 아닌가?](/research/2026-08-24_published_protected-slack-exploration)
 
-56. **Nonaka (1994). A Dynamic Theory of Organizational Knowledge Creation. Organization Science.**
+60. **Nonaka (1994). A Dynamic Theory of Organizational Knowledge Creation. Organization Science.**
    - [DOI: 10.1287/orsc.5.1.14](https://doi.org/10.1287/orsc.5.1.14)
    - 관련 글: [회사에서 AI 프롬프트는 왜 업무를 다시 정의하게 만드는가?](/research/2026-06-03_published_ai-prompt-as-job-description), [바쁜 회사는 왜 더 배우지 못하는가?](/research/2026-06-11_published_busy-company-cannot-learn)
 
-57. **Ode et al. (2026). Archetypes of SME Resilience: A Systematic Literature Review of Antecedents, Types and Outcomes of Resilience in SMEs. Strategic Change.**
+61. **Ode et al. (2026). Archetypes of SME Resilience: A Systematic Literature Review of Antecedents, Types and Outcomes of Resilience in SMEs. Strategic Change.**
    - [DOI: 10.1002/jsc.70051](https://doi.org/10.1002/jsc.70051)
    - 관련 글: [\[SME\] 대표의 관계는 언제 회사의 힘이 아니라 혼선이 되는가?](/research/2026-06-07_published_sme-network-confusion-internal-conversion)
 
-58. **Olsson et al. (2024). When project outcomes matter: Organizational integration in managing long-term target benefits. International Journal of Project Management.**
+62. **Olsson et al. (2024). When project outcomes matter: Organizational integration in managing long-term target benefits. International Journal of Project Management.**
    - [DOI: 10.1016/j.ijproman.2024.102648](https://doi.org/10.1016/j.ijproman.2024.102648)
    - 관련 글: [프로젝트의 진짜 성과는 완료보고서 다음에 시작된다](/research/2026-07-20_published_project-results-start-after-completion)
 
-59. **Penrose (1995). The Theory of the Growth of the Firm. .**
+63. **Penrose (1995). The Theory of the Growth of the Firm. .**
    - [DOI: 10.1093/0198289774.001.0001](https://doi.org/10.1093/0198289774.001.0001)
    - 관련 글: [성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?](/research/2026-07-26_published_managerial-time-growth-limit), [작은 회사의 자원은 급여명부 밖에도 있다](/research/2026-08-06_published_external-resource-growth)
 
-60. **Piller, Euchner (2024). Mass Customization in the Age of AI. Research-Technology Management.**
+64. **Piller, Euchner (2024). Mass Customization in the Age of AI. Research-Technology Management.**
    - [DOI: 10.1080/08956308.2024.2350919](https://doi.org/10.1080/08956308.2024.2350919)
    - 관련 글: [AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?](/research/2026-07-12_published_ai-personalization-product-complexity)
 
-61. **Rouleau (2005). Micro‐Practices of Strategic Sensemaking and Sensegiving: How Middle Managers Interpret and Sell Change Every Day*. Journal of Management Studies.**
+65. **Rouleau (2005). Micro‐Practices of Strategic Sensemaking and Sensegiving: How Middle Managers Interpret and Sell Change Every Day*. Journal of Management Studies.**
    - [DOI: 10.1111/j.1467-6486.2005.00549.x](https://doi.org/10.1111/j.1467-6486.2005.00549.x)
    - 관련 글: [같은 지시가 부서를 건널 때 왜 다른 일이 되는가](/research/2026-08-30_published_same-directive-different-work)
 
-62. **Sánchez-Rodríguez et al. (2025). Navigating Uncertainty Through AI Adoption: Dynamic Capabilities, Strategic Innovation Performance, and Competitiveness in Ecuadorian SMEs. Administrative Sciences.**
+66. **Sánchez-Rodríguez et al. (2025). Navigating Uncertainty Through AI Adoption: Dynamic Capabilities, Strategic Innovation Performance, and Competitiveness in Ecuadorian SMEs. Administrative Sciences.**
    - [DOI: 10.3390/admsci15120468](https://doi.org/10.3390/admsci15120468)
    - 관련 글: [성과가 좋은 회사는 왜 AI를 늦게 배우는가?](/research/2026-07-05_published_successful-company-late-ai-learning)
 
-63. **Schweiger et al. (2024). Family businesses and strategic change: the role of family ownership. Review of Managerial Science.**
+67. **Schweiger et al. (2024). Family businesses and strategic change: the role of family ownership. Review of Managerial Science.**
    - [DOI: 10.1007/s11846-023-00703-3](https://doi.org/10.1007/s11846-023-00703-3)
    - 관련 글: [회사를 지키려는 마음이 미래를 막을 때](/research/2026-08-21_published_company-identity-future)
 
-64. **Shahzad, Ferreira (2026). Artificial intelligence driven dynamic capabilities: unpacking micro-foundational mechanisms. Management Decision.**
+68. **Shahzad, Ferreira (2026). Artificial intelligence driven dynamic capabilities: unpacking micro-foundational mechanisms. Management Decision.**
    - [DOI: 10.1108/md-07-2025-2141](https://doi.org/10.1108/md-07-2025-2141)
    - 관련 글: [성과가 좋은 회사는 왜 AI를 늦게 배우는가?](/research/2026-07-05_published_successful-company-late-ai-learning)
 
-65. **Sirmon et al. (2011). Resource Orchestration to Create Competitive Advantage. Journal of Management.**
+69. **Sirmon et al. (2011). Resource Orchestration to Create Competitive Advantage. Journal of Management.**
    - [DOI: 10.1177/0149206310385695](https://doi.org/10.1177/0149206310385695)
    - 관련 글: [남는 자원은 왜 모두 같은 여유가 아닌가?](/research/2026-08-24_published_protected-slack-exploration)
 
-66. **Spencer, Rerup (2024). The Dynamics of Inferential Interpretation in Experiential Learning: Deciphering Hidden Goals from Ambiguous Experience. Administrative Science Quarterly.**
+70. **Spencer, Rerup (2024). The Dynamics of Inferential Interpretation in Experiential Learning: Deciphering Hidden Goals from Ambiguous Experience. Administrative Science Quarterly.**
    - [DOI: 10.1177/00018392241273301](https://doi.org/10.1177/00018392241273301)
    - 관련 글: [좋은 결과는 왜 좋은 판단을 증명하지 못하는가](/research/2026-09-09_published_outcome-feedback-causal-learning)
 
-67. **Staw (1976). Knee-deep in the big muddy: a study of escalating commitment to a chosen course of action. Organizational Behavior and Human Performance.**
+71. **Staw (1976). Knee-deep in the big muddy: a study of escalating commitment to a chosen course of action. Organizational Behavior and Human Performance.**
    - [DOI: 10.1016/0030-5073(76)90005-2](https://doi.org/10.1016/0030-5073(76)90005-2)
    - 관련 글: [회사는 왜 실패한 전략을 더 오래 붙잡는가?](/research/2026-06-24_published_failure-strategy-withdrawal-judgment)
 
-68. **Strobl, Shepherd, Hughes (2025). Unleashing R&D networks for ambidexterity: The interplay between internal and external networking capabilities. Industrial Marketing Management.**
+72. **Strobl, Shepherd, Hughes (2025). Unleashing R&D networks for ambidexterity: The interplay between internal and external networking capabilities. Industrial Marketing Management.**
    - [DOI: 10.1016/j.indmarman.2024.12.006](https://doi.org/10.1016/j.indmarman.2024.12.006)
    - 관련 글: [작은 회사의 자원은 급여명부 밖에도 있다](/research/2026-08-06_published_external-resource-growth)
 
-69. **Sun, Ning, Li (2024). Tackling Tensions Between Project Owner and Project Manager in Benefits Realization of Public Projects: A Paradox Perspective. IEEE Transactions on Engineering Management.**
+73. **Sun, Ning, Li (2024). Tackling Tensions Between Project Owner and Project Manager in Benefits Realization of Public Projects: A Paradox Perspective. IEEE Transactions on Engineering Management.**
    - [DOI: 10.1109/tem.2024.3454165](https://doi.org/10.1109/tem.2024.3454165)
    - 관련 글: [프로젝트의 진짜 성과는 완료보고서 다음에 시작된다](/research/2026-07-20_published_project-results-start-after-completion)
 
-70. **Taş, Memmert, Bittner (2026). Episodic oversight in generative AI workflows: A nine-step protocol for preserving human agency (OP-9). Electronic Markets.**
+74. **Taş, Memmert, Bittner (2026). Episodic oversight in generative AI workflows: A nine-step protocol for preserving human agency (OP-9). Electronic Markets.**
    - [DOI: 10.1007/s12525-026-00915-x](https://doi.org/10.1007/s12525-026-00915-x)
    - 관련 글: [AI의 판단을 누가 뒤집을 수 있는가](/research/2026-09-06_published_ai-override-human-review)
 
-71. **Teece (2007). Explicating dynamic capabilities: the nature and microfoundations of (sustainable) enterprise performance. Strategic Management Journal.**
+75. **Teece (2007). Explicating dynamic capabilities: the nature and microfoundations of (sustainable) enterprise performance. Strategic Management Journal.**
    - [DOI: 10.1002/smj.640](https://doi.org/10.1002/smj.640)
    - 관련 글: [AI를 도입했는데 왜 회사는 달라지지 않는가?](/research/2026-05-27_published_ai-adoption-dynamic-capability-mediation)
 
-72. **Teerikangas, Gjerald, Meglio (2026). Resistant, Ready or Engaged – with What Change? A Review and Transformative Research Agenda. Journal of Change Management.**
+76. **Teerikangas, Gjerald, Meglio (2026). Resistant, Ready or Engaged – with What Change? A Review and Transformative Research Agenda. Journal of Change Management.**
    - [DOI: 10.1080/14697017.2026.2621657](https://doi.org/10.1080/14697017.2026.2621657)
    - 관련 글: [좋은 변화는 왜 서로를 방해하는가](/research/2026-08-11_published_change-absorption-capacity)
 
-73. **Ulaga, Chacour (2001). Measuring Customer-Perceived Value in Business Markets. Industrial Marketing Management.**
+77. **Ulaga, Chacour (2001). Measuring Customer-Perceived Value in Business Markets. Industrial Marketing Management.**
    - [DOI: 10.1016/s0019-8501(99)00122-4](https://doi.org/10.1016/s0019-8501(99)00122-4)
    - 관련 글: [\[B2B\] 써본 사람은 좋다는데 왜 구매는 멈추는가?](/research/2026-06-27_published_user-value-buyer-approval-gap)
 
-74. **Ulrich (1995). The role of product architecture in the manufacturing firm. Research Policy.**
+78. **Ulrich (1995). The role of product architecture in the manufacturing firm. Research Policy.**
    - [DOI: 10.1016/0048-7333(94)00775-3](https://doi.org/10.1016/0048-7333(94)00775-3)
    - 관련 글: [AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?](/research/2026-07-12_published_ai-personalization-product-complexity)
 
-75. **Vaccaro, Almaatouq, Malone (2024). When combinations of humans and AI are useful: A systematic review and meta-analysis. Nature Human Behaviour.**
+79. **Vaccaro, Almaatouq, Malone (2024). When combinations of humans and AI are useful: A systematic review and meta-analysis. Nature Human Behaviour.**
    - [DOI: 10.1038/s41562-024-02024-1](https://doi.org/10.1038/s41562-024-02024-1)
    - 관련 글: [AI의 판단을 누가 뒤집을 수 있는가](/research/2026-09-06_published_ai-override-human-review)
 
-76. **von Zahn et al. (2025). Knowing (Not) to Know: Explainable Artificial Intelligence and Human Metacognition. Information Systems Research.**
+80. **von Zahn et al. (2025). Knowing (Not) to Know: Explainable Artificial Intelligence and Human Metacognition. Information Systems Research.**
    - [DOI: 10.1287/isre.2024.1431](https://doi.org/10.1287/isre.2024.1431)
    - 관련 글: [AI의 판단을 누가 뒤집을 수 있는가](/research/2026-09-06_published_ai-override-human-review)
 
-77. **Woodruff (1997). Customer value: The next source for competitive advantage. Journal of the Academy of Marketing Science.**
+81. **Woodruff (1997). Customer value: The next source for competitive advantage. Journal of the Academy of Marketing Science.**
    - [DOI: 10.1007/bf02894350](https://doi.org/10.1007/bf02894350)
    - 관련 글: [불일치는 왜 혁신의 첫 신호가 되는가?](/research/2026-06-21_published_incongruity-as-innovation-signal), [\[B2B\] 써본 사람은 좋다는데 왜 구매는 멈추는가?](/research/2026-06-27_published_user-value-buyer-approval-gap)
 
-78. **Zeithaml (1988). Consumer Perceptions of Price, Quality, and Value: A Means-End Model and Synthesis of Evidence. Journal of Marketing.**
+82. **Zeithaml (1988). Consumer Perceptions of Price, Quality, and Value: A Means-End Model and Synthesis of Evidence. Journal of Marketing.**
    - [DOI: 10.1177/002224298805200302](https://doi.org/10.1177/002224298805200302)
    - 관련 글: [불일치는 왜 혁신의 첫 신호가 되는가?](/research/2026-06-21_published_incongruity-as-innovation-signal), [\[B2B\] 써본 사람은 좋다는데 왜 구매는 멈추는가?](/research/2026-06-27_published_user-value-buyer-approval-gap)
 
-79. **Zheng, Zwikael (2025). From outputs to outcomes: Meeting a threshold of short-term project management success as a necessary condition for achieving long-term impact. International Journal of Project Management.**
+83. **Zheng, Zwikael (2025). From outputs to outcomes: Meeting a threshold of short-term project management success as a necessary condition for achieving long-term impact. International Journal of Project Management.**
    - [DOI: 10.1016/j.ijproman.2025.102789](https://doi.org/10.1016/j.ijproman.2025.102789)
    - 관련 글: [프로젝트의 진짜 성과는 완료보고서 다음에 시작된다](/research/2026-07-20_published_project-results-start-after-completion)
 
-80. **Zika-Viktorsson, Sundström, Engwall (2006). Project overload: An exploratory study of work and management in multi-project settings. International Journal of Project Management.**
+84. **Zika-Viktorsson, Sundström, Engwall (2006). Project overload: An exploratory study of work and management in multi-project settings. International Journal of Project Management.**
    - [DOI: 10.1016/j.ijproman.2006.02.010](https://doi.org/10.1016/j.ijproman.2006.02.010)
    - 관련 글: [좋은 변화는 왜 서로를 방해하는가](/research/2026-08-11_published_change-absorption-capacity)

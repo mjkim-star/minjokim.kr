@@ -10,11 +10,24 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 27편</span>
+  <span>원문 28편</span>
+  <a href="/topics">연구범위로 묶어 읽기</a>
   <a href="/translations">번역 글 10편</a>
 </section>
 
+글을 발행 순서가 아니라 연구과정별로 찾으려면 [연구 주제 지도](/topics)에서 시작할 수 있습니다. 전략의 선택부터 의미 번역, 권한과 조정, 실행과 완결, 성과와 학습까지 일곱 과정으로 나누고 Human-AI와 중소기업 등의 맥락은 횡단 렌즈로 구분했습니다.
+
+## 먼저 읽을 글
+
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">성과와 전략판정</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-09-18_published_local-results-strategic-realization">모두 끝냈는데, 전략은 아직 끝나지 않았다</a>
+      <p class="clean-index-meta">과업 완료와 부서 목표 달성을 전략적 실현과 구분하고, 흩어진 증거를 누가 어떤 기준으로 판정할지 묻는다. 이어 읽기: <a href="/research/2026-07-20_published_project-results-start-after-completion">프로젝트의 진짜 성과는 완료보고서 다음에 시작된다</a>, <a href="/research/2026-09-09_published_outcome-feedback-causal-learning">좋은 결과는 왜 좋은 판단을 증명하지 못하는가</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">성과와 조직학습</p>
     <div>
@@ -104,7 +117,17 @@ cssclasses:
   </article>
 </section>
 
+## 전체 발행 순서
+
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.09.18</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-09-18_published_local-results-strategic-realization">모두 끝냈는데, 전략은 아직 끝나지 않았다</a>
+      <p class="clean-index-meta">각 부서의 완료보고가 모인 뒤 전략의 실현 여부를 별도로 판정해야 하는 이유.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.09.09</p>
     <div>

@@ -76,6 +76,12 @@ enableToc: true
 2. 이진석 (2011). 전략적 경영의사결정 수단으로서의 시간동인 ABC 모델. _POSRI경영경제연구, 11_(2), 5-29. [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001576367)
    시간과 활동을 중심으로 원가정보를 의사결정에 연결한다.
 
+3. 오원선·오현종·김진환 (2003). 전략적 불확실성과 관리회계시스템의 적합이 기업성과에 미치는 영향. _회계정보연구, 21_, 135-171. [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000903638)
+   국내 기업을 대상으로, 관리회계시스템을 전략적 불확실성에 맞춰 조정할수록 성과가 달라진다는 것을 보여준다. 성과자료를 전략적 불확실성을 놓고 계속 대화하는 재료로 쓰는 방식이 국내 기업에서 어떻게 나타나는지 가늠하게 한다.
+
+4. 박준완 (2010). 균형성과표 도입기업과 미도입기업의 성과지표 관계분석. _경영연구, 25_(2), 341-366. [논문](https://doi.org/10.22903/jbr.2010.25.2.341)
+   균형성과표를 도입한 기업과 그렇지 않은 기업에서 학습·프로세스·재무 지표 사이의 인과관계 자체가 다르게 나타난다는 것을 국내 기업 자료로 보여준다. 부서별 지표가 왜 하나의 전략적 결과로 저절로 이어지지 않는지 생각하게 한다.
+
 ## 전략실행과 조직조정
 
 1. Rouleau, L. (2005). Micro-practices of strategic sensemaking and sensegiving: How middle managers interpret and sell change every day. _Journal of Management Studies, 42_(7), 1413-1441. [논문](https://doi.org/10.1111/j.1467-6486.2005.00549.x)
@@ -86,6 +92,9 @@ enableToc: true
 
 3. Holm, C. G., Kringelum, L., & Anand, A. (2026). Creating effective strategy implementation: A systematic review of managerial and organizational levers. _Review of Managerial Science, 20_, 673-705. [논문](https://doi.org/10.1007/s11846-025-00880-3)
    전략실행 연구 160편을 종합해 중간관리자의 번역·조정 역할과 조직 차원의 실행 조건을 정리한다.
+
+4. 김대은·문창웅·엄석진 (2022). 조직구조와 전략 간의 정합성이 조직성과에 미치는 영향: 서울지역 일반고등학교를 중심으로. _한국행정학보, 56_(4), 215-258. [논문](https://doi.org/10.18333/KPAR.56.4.215)
+   조직구조와 전략의 정합성을 2수준 다층모형으로 분석해, 여러 분석수준을 함께 보는 전략실행 연구가 국내에서도 가능함을 보여준다. 다만 표본이 기업이 아닌 학교 조직이어서 결론을 곧바로 기업에 옮기기는 어렵다.
 
 ## 조직공정성과 조직정치
 

@@ -1,6 +1,6 @@
 ---
 title: 김민조 연구노트
-description: 조직, 전략, 동적역량, AI 전환을 이론과 방법론의 관점에서 탐구하는 공개 연구노트
+description: 조직의 의도가 전략, 결정, 책임, 일, 조정과 학습을 거쳐 공동의 실행으로 전환되는 과정을 탐구하는 공개 연구노트
 date: 2026-05-27
 published: 2026-05-27
 enableToc: false
@@ -13,10 +13,10 @@ enableToc: false
     <img class="section-mark" src="/static/icon.png" alt="" />
     <p class="section-label hero-label">Research Note</p>
   </div>
-  <p class="hero-kicker">김민조 연구노트는 좋은 이론이 현장에서 멈추는 지점을 살핍니다.</p>
-  <p class="hero-question">좋은 이론은 왜 현장에서 빈번하게 멈추는가.</p>
-  <p class="hero-body">경영학 박사이자 경영지도사로서, 전략, 의사결정, 관리회계, 조직학습, AI 전환을 통해 판단이 실행으로 이어지는 조건을 기록합니다.</p>
-  <p class="hero-body"><a href="./about">김민조 소개와 연구 주제 보기</a></p>
+  <p class="hero-kicker">김민조 연구노트는 전략과 판단이 실제 일로 이어지는 조건을 살핍니다.</p>
+  <p class="hero-question">조직의 의도는 어떻게 공동의 실행으로 전환되는가.</p>
+  <p class="hero-body">경영학 박사이자 경영지도사로서, 전략, 의사결정, 관리회계, 조직학습, AI 전환을 하나의 실행구조 안에서 탐구합니다.</p>
+  <p class="hero-body"><a href="./topics">연구범위와 세부주제 보기</a> · <a href="./about">김민조 소개와 연구 배경</a></p>
 </section>
 
 <section class="home-section latest-section">
@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (27)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (28)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-09-18_published_local-results-strategic-realization">
+        <span>
+          <strong>모두 끝냈는데, 전략은 아직 끝나지 않았다</strong>
+          <em>부서별 완료를 전략의 성과로 묶는 마지막 판단</em>
+        </span>
+        <time>2026.09.18</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-09-09_published_outcome-feedback-causal-learning">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>사람이 마지막으로 확인하면 된다는 말의 빈칸</em>
         </span>
         <time>2026.09.06</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-08-30_published_same-directive-different-work">
-        <span>
-          <strong>같은 지시가 부서를 건널 때 왜 다른 일이 되는가</strong>
-          <em>각 부서가 틀리지 않았는데 회사 전체가 어긋나는 이유</em>
-        </span>
-        <time>2026.08.30</time>
       </a>
     </div>
   </div>
@@ -76,6 +76,8 @@ enableToc: false
 
 <section class="home-section scope-section">
   <p class="section-label">Research Scope</p>
+
+<p class="publication-note">공개 글은 하나의 중심 질문 아래 일곱 연구과정과 다섯 횡단 렌즈로 연결됩니다. <a href="./topics">연구 주제 지도 보기</a></p>
 
 <div class="research-cards">
   <section>

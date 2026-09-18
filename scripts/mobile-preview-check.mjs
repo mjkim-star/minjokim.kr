@@ -1,4 +1,4 @@
-import playwright from "file:///C:/Users/%EA%B9%80%EB%AF%BC%EC%A1%B0/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/.pnpm/playwright@1.61.0/node_modules/playwright/index.js"
+import playwright from "file:///C:/Users/%EA%B9%80%EB%AF%BC%EC%A1%B0/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright/index.js"
 import fs from "node:fs/promises"
 
 const { chromium } = playwright
@@ -10,7 +10,7 @@ const pages = [
   { name: "home", path: "/" },
   {
     name: "article",
-    path: "/research/2026-06-27_published_user-value-buyer-approval-gap.html",
+    path: "/research/2026-09-18_published_local-results-strategic-realization.html",
   },
   { name: "research", path: "/research" },
 ]
