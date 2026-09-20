@@ -27,11 +27,23 @@ appendix_reference_hash: "sha256:365bbe546eabeac3f5b66e3ea3b42443ca36db0e2fabaa8
 publication_quality_status: claude_red_team_pass
 academic_review_status: claude_red_team_pass
 channel: Quartz
-quartz_status: ready_for_quartz
+public_content_validation: pass
+quartz_status: published
 domain: minjokim.kr
 quartz_item_type: korean_original
+quartz_deployed_commit: "9d117f9"
 quartz_page_match:
-  status: pending
+  status: pass
+  live_url: "https://minjokim.kr/research/2026-09-19_published_plan-deviation-adaptation-drift"
+  live_url_status: 200
+  home_listed: true
+  research_index_listed: true
+  topics_indexed: true
+  reference_registry_updated: true
+  sitemap_listed: true
+  published_item_count: 29
+  build_status: pass
+  mobile_preview_status: pass
 cited_refs:
   - "2026-06-11_published_busy-company-cannot-learn"
   - "2026-06-16_published_exception-requests-profit-leakage"
