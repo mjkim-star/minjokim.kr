@@ -96,6 +96,28 @@ enableToc: true
 4. 김대은·문창웅·엄석진 (2022). 조직구조와 전략 간의 정합성이 조직성과에 미치는 영향: 서울지역 일반고등학교를 중심으로. _한국행정학보, 56_(4), 215-258. [논문](https://doi.org/10.18333/KPAR.56.4.215)
    조직구조와 전략의 정합성을 2수준 다층모형으로 분석해, 여러 분석수준을 함께 보는 전략실행 연구가 국내에서도 가능함을 보여준다. 다만 표본이 기업이 아닌 학교 조직이어서 결론을 곧바로 기업에 옮기기는 어렵다.
 
+## 계획과 실행의 간극
+
+1. Feldman, M. S., & Pentland, B. T. (2003). Reconceptualizing organizational routines as a source of flexibility and change. _Administrative Science Quarterly, 48_(1), 94-118. [논문](https://doi.org/10.2307/3556620)
+   업무 루틴을 정해진 절차와 실제 수행으로 나누어, 계획과 실행이 처음부터 다른 층위에서 움직인다는 것을 보여준다.
+
+2. 김귀영 (2007). 팀제도입에 따른 조직루틴의 변화에 관한 연구. _한국행정학보, 41_(1), 49-69. [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001048880)
+   국내 조직이 팀제를 도입한 뒤 정해진 절차와 실제 업무 처리 방식이 어떻게 벌어지는지 심층면접으로 확인한다.
+
+## 안전과학과 조직 회복탄력성
+
+1. Rasmussen, J. (1997). Risk management in a dynamic society: A modelling problem. _Safety Science, 27_(2-3), 183-213. [논문](https://doi.org/10.1016/S0925-7535(97)00052-0)
+   비용과 업무 부담이 쌓이면 정해진 절차가 조금씩, 눈에 띄지 않게 안전한 범위의 경계 쪽으로 옮겨간다는 이동 개념을 제시한다.
+
+2. Hollnagel, E. (2016). Resilience engineering: A new understanding of safety. _대한인간공학회지, 35_(3), 185-191. [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002122503)
+   계획된 일과 실제로 이뤄지는 일의 차이를 안전공학 관점에서 정리한 논문을 국내 학술지에서 직접 읽을 수 있다.
+
+3. 하민철·홍성만 (2017). 고위험시스템의 사고예방과 관리 탐색: 유해화학물질 위험관리에 대한 '정상사고이론'(Normal Accident Theory)을 넘어. _한국공공관리학보, 31_(4), 367-388. [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002309324)
+   사고는 시스템의 복잡성 때문에 피할 수 없다는 시각과 조직이 학습해 위험을 다룰 수 있다는 시각을 국내 위험물 관리 사례로 맞세운다.
+
+4. Stabile, S., Bentivenga, R., Pietrafesa, E., Sorrentino, E., Bernabei, M., Colabianchi, S., & Costantino, F. (2025). Assessing resilience practices in the digital transformation era: A storytelling-based cross-sectional study in Italy. _Applied Sciences, 15_(11), 6291. [논문](https://doi.org/10.3390/app15116291)
+   이탈리아 제조기업 334곳을 조사해, 기업들이 눈앞의 신호에 대응하는 데는 강해도 반복되는 신호를 읽어 계획을 고치는 데는 약하다는 것을 보여준다.
+
 ## 조직공정성과 조직정치
 
 1. 원숙연·성민아 (2023). 정부조직 내 조직공정성인식-조직몰입-조직시민행동의 관계분석. _한국행정학보, 57_(2), 59-98. [논문](https://doi.org/10.18333/KPAR.57.2.59)

@@ -14,6 +14,7 @@ enableToc: true
 - implementation practices와 실제 수행
 - 새로운 시스템과 업무방식의 채택·정착·루틴화
 - 예외, 범위변경, 우회와 비공식 작업
+- 계획 이탈의 국소 적응·상호의존성 변경·전략 수정 신호 구분
 - 지연·왜곡·재작업에 대한 intervention과 repair
 - 완료, 중단, 철회, 대체와 실효 상태의 구분
 - 로컬 과업 완료와 전략적 closure의 불일치
@@ -25,6 +26,7 @@ enableToc: true
 
 | 세부주제 | 글 |
 |---|---|
+| 계획 이탈과 실행복구 | [계획과 다른 실행은 모두 실패일까](/research/2026-09-19_published_plan-deviation-adaptation-drift) |
 | AI 도입과 업무 재구성 | [AI를 도입했는데 왜 회사는 달라지지 않는가?](/research/2026-05-27_published_ai-adoption-dynamic-capability-mediation) |
 | 전략 철회와 중단 기준 | [회사는 왜 실패한 전략을 더 오래 붙잡는가?](/research/2026-06-24_published_failure-strategy-withdrawal-judgment) |
 | 개인화와 제품 운영경계 | [AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?](/research/2026-07-12_published_ai-personalization-product-complexity) |
@@ -32,6 +34,6 @@ enableToc: true
 
 ## 남은 질문
 
-과업의 완료, 새로운 방식의 정착과 전략적 목적의 실현은 어떤 증거로 구분할 수 있는가?
+과업의 완료, 새로운 방식의 정착과 전략적 목적의 실현은 어떤 증거로 구분할 수 있는가? 계획과 다른 실행 가운데 현장의 적응으로 남길 것과 공동의 계획을 다시 열어야 할 것을 누가 판정할 수 있는가?
 
 [연구 주제 지도로 돌아가기](/topics)

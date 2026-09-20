@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 28편</span>
+  <span>원문 29편</span>
   <a href="/topics">연구범위로 묶어 읽기</a>
   <a href="/translations">번역 글 10편</a>
 </section>
@@ -20,6 +20,14 @@ cssclasses:
 ## 먼저 읽을 글
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">전략실행과 운영조정</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-09-19_published_plan-deviation-adaptation-drift">계획과 다른 실행은 모두 실패일까</a>
+      <p class="clean-index-meta">계획에서 벗어난 실행을 잡음·국소 적응·상호의존성 변경·전략 수정 신호로 구분하고, 현장 판단이 다른 사람의 약속까지 바꾸는 순간 무엇을 함께 맞춰야 하는지 살핀다. 이어 읽기: <a href="/research/2026-08-30_published_same-directive-different-work">같은 지시가 부서를 건널 때 왜 다른 일이 되는가</a>, <a href="/research/2026-06-11_published_busy-company-cannot-learn">바쁜 회사는 왜 더 배우지 못하는가?</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">성과와 전략판정</p>
     <div>
@@ -120,6 +128,14 @@ cssclasses:
 ## 전체 발행 순서
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.09.19</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-09-19_published_plan-deviation-adaptation-drift">계획과 다른 실행은 모두 실패일까</a>
+      <p class="clean-index-meta">현장 적응과 조용한 표류를 구분하고, 변경된 약속을 공동의 실행으로 다시 묶는 기준.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.09.18</p>
     <div>

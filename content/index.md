@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (28)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (29)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-09-19_published_plan-deviation-adaptation-drift">
+        <span>
+          <strong>계획과 다른 실행은 모두 실패일까</strong>
+          <em>현장 적응과 조용한 표류를 가르는 기준</em>
+        </span>
+        <time>2026.09.19</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-09-18_published_local-results-strategic-realization">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>성과표가 원인을 말해 주지 않는 이유</em>
         </span>
         <time>2026.09.09</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-09-06_published_ai-override-human-review">
-        <span>
-          <strong>AI의 판단을 누가 뒤집을 수 있는가</strong>
-          <em>사람이 마지막으로 확인하면 된다는 말의 빈칸</em>
-        </span>
-        <time>2026.09.06</time>
       </a>
     </div>
   </div>
