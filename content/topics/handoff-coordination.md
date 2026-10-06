@@ -12,6 +12,7 @@ enableToc: true
 ## 세부 연구주제
 
 - 순차·상호·공유자원 의존성
+- 과업 공동사용이 만드는 제품·팀 간 변경 의존성과 검증 부담
 - 부서, 계층, 전문영역과 조직경계 간 handoff
 - accountability, predictability, common understanding
 - 일정, 자원, 기준과 우선순위 충돌의 조정
@@ -25,6 +26,7 @@ enableToc: true
 
 | 세부주제 | 글 |
 |---|---|
+| 공용 과업과 변경 의존성 | [업무를 함께 쓰면, 문제도 해결책도 연결된다](/research/2026-10-06_published_shared-task-reliability-learning) |
 | 외부 관계의 내부 전환 | [대표의 관계는 언제 회사의 힘이 아니라 혼선이 되는가?](/research/2026-06-07_published_sme-network-confusion-internal-conversion) |
 | 사용자 가치와 구매 승인 | [써본 사람은 좋다는데 왜 구매는 멈추는가?](/research/2026-06-27_published_user-value-buyer-approval-gap) |
 | 외부자원과 선택권 | [작은 회사의 자원은 급여명부 밖에도 있다](/research/2026-08-06_published_external-resource-growth) |

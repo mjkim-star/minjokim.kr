@@ -14,6 +14,7 @@ enableToc: true
 - 결과와 원 decision·commitment 사이의 인과 귀속
 - 성공과 실패의 performance feedback
 - 경험의 조직 기억, 규칙과 routine 전환
+- 공용 과업을 통한 교차 개선과 해결 경험의 적용 범위
 - 결과에 따른 판단 수정, 중단과 재시작
 - 자원·권한·업무의 재배치와 reconfiguration
 - 반복 Episode가 조직역량과 Dynamic Capability로 집합되는 조건
@@ -25,6 +26,7 @@ enableToc: true
 
 | 세부주제 | 글 |
 |---|---|
+| 공용 업무와 교차 개선 | [업무를 함께 쓰면, 문제도 해결책도 연결된다](/research/2026-10-06_published_shared-task-reliability-learning) |
 | 경험의 조직학습 전환 | [바쁜 회사는 왜 더 배우지 못하는가?](/research/2026-06-11_published_busy-company-cannot-learn) |
 | 성공함정과 AI 학습 | [성과가 좋은 회사는 왜 AI를 늦게 배우는가?](/research/2026-07-05_published_successful-company-late-ai-learning) |
 | 재고와 조직 기억 | [재고는 왜 회사의 오래된 약속을 기억하는가?](/research/2026-07-08_published_inventory-organizational-memory) |

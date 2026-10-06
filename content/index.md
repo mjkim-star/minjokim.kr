@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (29)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (30)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-10-06_published_shared-task-reliability-learning">
+        <span>
+          <strong>업무를 함께 쓰면, 문제도 해결책도 연결된다</strong>
+          <em>공용 견적표에서 자동차 플랫폼까지, 함께 쓰는 업무의 두 가지 효과</em>
+        </span>
+        <time>2026.10.06</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-09-19_published_plan-deviation-adaptation-drift">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>부서별 완료를 전략의 성과로 묶는 마지막 판단</em>
         </span>
         <time>2026.09.18</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-09-09_published_outcome-feedback-causal-learning">
-        <span>
-          <strong>좋은 결과는 왜 좋은 판단을 증명하지 못하는가</strong>
-          <em>성과표가 원인을 말해 주지 않는 이유</em>
-        </span>
-        <time>2026.09.09</time>
       </a>
     </div>
   </div>

@@ -353,3 +353,11 @@ enableToc: false
 87. **Zika-Viktorsson, Sundström, Engwall (2006). Project overload: An exploratory study of work and management in multi-project settings. International Journal of Project Management.**
    - [DOI: 10.1016/j.ijproman.2006.02.010](https://doi.org/10.1016/j.ijproman.2006.02.010)
    - 관련 글: [좋은 변화는 왜 서로를 방해하는가](/research/2026-08-11_published_change-absorption-capacity)
+
+88. **Glauber, Kretschmer (2026). Task co-use and product improvement: An organization design perspective. Strategic Management Journal, 47(5), 1433-1466.**
+   - [DOI: 10.1002/smj.70042](https://doi.org/10.1002/smj.70042)
+   - 관련 글: [업무를 함께 쓰면, 문제도 해결책도 연결된다](/research/2026-10-06_published_shared-task-reliability-learning)
+
+89. **Joseph, Sengul (2025). Organization design: Current insights and future research directions. Journal of Management, 51(1), 249-308.**
+   - [DOI: 10.1177/01492063241271242](https://doi.org/10.1177/01492063241271242)
+   - 관련 글: [업무를 함께 쓰면, 문제도 해결책도 연결된다](/research/2026-10-06_published_shared-task-reliability-learning)

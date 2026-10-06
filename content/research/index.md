@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 29편</span>
+  <span>원문 30편</span>
   <a href="/topics">연구범위로 묶어 읽기</a>
   <a href="/translations">번역 글 10편</a>
 </section>
@@ -20,6 +20,14 @@ cssclasses:
 ## 먼저 읽을 글
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">공용 업무와 조직학습</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-10-06_published_shared-task-reliability-learning">업무를 함께 쓰면, 문제도 해결책도 연결된다</a>
+      <p class="clean-index-meta">공용 업무를 고칠 때 직접 영향을 확인할 범위와 해결 경험을 나눌 범위를 구분한다. 자동차산업의 실증과 사무직 적용 해석을 나눠 읽는다. 이어 읽기: <a href="/research/2026-09-19_published_plan-deviation-adaptation-drift">계획과 다른 실행은 모두 실패일까</a>, <a href="/research/2026-07-12_published_ai-personalization-product-complexity">AI가 개인화를 쉽게 만들수록 제품은 왜 더 복잡해지는가?</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">전략실행과 운영조정</p>
     <div>
@@ -128,6 +136,14 @@ cssclasses:
 ## 전체 발행 순서
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.10.06</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-10-06_published_shared-task-reliability-learning">업무를 함께 쓰면, 문제도 해결책도 연결된다</a>
+      <p class="clean-index-meta">공용 견적표에서 자동차 플랫폼까지, 수정의 영향과 해결 경험의 적용 범위를 구분하는 글.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.09.19</p>
     <div>
