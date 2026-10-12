@@ -361,3 +361,23 @@ enableToc: false
 89. **Joseph, Sengul (2025). Organization design: Current insights and future research directions. Journal of Management, 51(1), 249-308.**
    - [DOI: 10.1177/01492063241271242](https://doi.org/10.1177/01492063241271242)
    - 관련 글: [업무를 함께 쓰면, 문제도 해결책도 연결된다](/research/2026-10-06_published_shared-task-reliability-learning)
+
+90. **Göndöcs, Horváth, Dörfler (2025). Uncovering the dynamics of human-AI hybrid performance: A qualitative meta-analysis of empirical studies. International Journal of Human-Computer Studies, 205, 103622.**
+   - [DOI: 10.1016/j.ijhcs.2025.103622](https://doi.org/10.1016/j.ijhcs.2025.103622)
+   - 관련 글: [AI와 함께 만든 성과는 누구의 것인가](/research/2026-10-13_published_human-ai-performance-attribution)
+
+91. **Kleiner, Stead, Antons (2025). Whom to credit or blame? Understanding attributions and achievement emotions in human-AI teams. Academy of Management Proceedings, 2025(1).**
+   - [DOI: 10.5465/AMPROC.2025.335bp](https://doi.org/10.5465/AMPROC.2025.335bp)
+   - 관련 글: [AI와 함께 만든 성과는 누구의 것인가](/research/2026-10-13_published_human-ai-performance-attribution)
+
+92. **Antle, Demski (1988). The controllability principle in responsibility accounting. The Accounting Review, 63(4), 700-718.**
+   - [대학이 공개한 원문 PDF](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/8/36875/files/2016/12/Antle_Demski-21540z0.pdf)
+   - 관련 글: [AI와 함께 만든 성과는 누구의 것인가](/research/2026-10-13_published_human-ai-performance-attribution)
+
+93. **Zureich (2023). The (Un)controllability principle: The benefits of holding employees accountable for uncontrollable factors. Journal of Accounting Research, 61(2), 653-690.**
+   - [DOI: 10.1111/1475-679X.12467](https://doi.org/10.1111/1475-679X.12467)
+   - 관련 글: [AI와 함께 만든 성과는 누구의 것인가](/research/2026-10-13_published_human-ai-performance-attribution)
+
+94. **Passlack, Hammerschmidt, Posegga (2026). With great power comes great responsibility: What shapes AI literacy for responsible interactions of knowledge workers with AI? Information Systems Frontiers, 28, 11-46.**
+   - [DOI: 10.1007/s10796-025-10648-5](https://doi.org/10.1007/s10796-025-10648-5)
+   - 관련 글: [AI와 함께 만든 성과는 누구의 것인가](/research/2026-10-13_published_human-ai-performance-attribution)

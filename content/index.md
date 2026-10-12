@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (30)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (31)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-10-13_published_human-ai-performance-attribution">
+        <span>
+          <strong>AI와 함께 만든 성과는 누구의 것인가</strong>
+          <em>함께 만든 결과를 평가하는 일과 잘못을 가리는 일은 다르다</em>
+        </span>
+        <time>2026.10.13</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-10-06_published_shared-task-reliability-learning">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>현장 적응과 조용한 표류를 가르는 기준</em>
         </span>
         <time>2026.09.19</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-09-18_published_local-results-strategic-realization">
-        <span>
-          <strong>모두 끝냈는데, 전략은 아직 끝나지 않았다</strong>
-          <em>부서별 완료를 전략의 성과로 묶는 마지막 판단</em>
-        </span>
-        <time>2026.09.18</time>
       </a>
     </div>
   </div>

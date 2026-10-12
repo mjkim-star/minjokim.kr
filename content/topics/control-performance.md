@@ -25,6 +25,7 @@ enableToc: true
 
 | 세부주제 | 글 |
 |---|---|
+| 인간-AI 공동지표의 평가·보상과 개인 과실 판정 | [AI와 함께 만든 성과는 누구의 것인가](/research/2026-10-13_published_human-ai-performance-attribution) |
 | 인정 기준과 조직정치 | [칭찬이 없으면 왜 사내정치가 커지는가?](/research/2026-05-31_published_recognition-justice-politics-decision-structure) |
 | 예외업무의 비용·수익 귀속 | [예외 요청은 왜 회사 이익을 새게 만드는가?](/research/2026-06-16_published_exception-requests-profit-leakage) |
 | 대시보드와 정보경계 | [숫자를 모두에게 보여주면 판단도 분산될까?](/research/2026-08-02_published_dashboard-information-boundary) |

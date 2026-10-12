@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 30편</span>
+  <span>원문 31편</span>
   <a href="/topics">연구범위로 묶어 읽기</a>
   <a href="/translations">번역 글 10편</a>
 </section>
@@ -20,6 +20,14 @@ cssclasses:
 ## 먼저 읽을 글
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">Human-AI 성과와 책임</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-10-13_published_human-ai-performance-attribution">AI와 함께 만든 성과는 누구의 것인가</a>
+      <p class="clean-index-meta">공동결과를 평가·보상에 반영하는 일과 개인의 잘못을 판정하는 일을 구분한다. 통제 밖 정보의 가치와 학습 효과를 검토하되 인간-AI 현장 적용은 제안으로 한정한다. 이어 읽기: <a href="/research/2026-09-06_published_ai-override-human-review">AI의 판단을 누가 뒤집을 수 있는가</a>, <a href="/research/2026-09-09_published_outcome-feedback-causal-learning">좋은 결과는 왜 좋은 판단을 증명하지 못하는가</a></p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">공용 업무와 조직학습</p>
     <div>
@@ -136,6 +144,14 @@ cssclasses:
 ## 전체 발행 순서
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.10.13</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-10-13_published_human-ai-performance-attribution">AI와 함께 만든 성과는 누구의 것인가</a>
+      <p class="clean-index-meta">함께 만든 결과를 평가하는 기준과 개인의 잘못을 가리는 근거는 다르다.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.10.06</p>
     <div>
