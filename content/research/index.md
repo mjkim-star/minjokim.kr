@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 31편</span>
+  <span>원문 32편</span>
   <a href="/topics">연구범위로 묶어 읽기</a>
   <a href="/translations">번역 글 10편</a>
 </section>
@@ -20,6 +20,13 @@ cssclasses:
 ## 먼저 읽을 글
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">전문성과 팀의 학습</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-10-15_published_team-experience-expertise-update">경력자를 맞이한 팀이 다시 배워야 할 것</a>
+      <p class="clean-index-meta">새 구성원의 적응과 기존 팀의 전문성 기대 갱신을 함께 살핀다. 개인의 경력과 공동 경험을 구분하되, 영입 문제를 동료의 태도나 공동 경험 부족으로 단정하지 않는다. 이어 읽기: <a href="/research/2026-07-26_published_managerial-time-growth-limit">성장은 왜 시장보다 관리자의 시간에서 먼저 멈추는가?</a>, <a href="/research/2026-10-06_published_shared-task-reliability-learning">업무를 함께 쓰면, 문제도 해결책도 연결된다</a></p>
+    </div>
+  </article>
   <article class="clean-index-item">
     <p class="clean-index-date">Human-AI 성과와 책임</p>
     <div>
@@ -144,6 +151,14 @@ cssclasses:
 ## 전체 발행 순서
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.10.15</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-10-15_published_team-experience-expertise-update">경력자를 맞이한 팀이 다시 배워야 할 것</a>
+      <p class="clean-index-meta">새 동료의 강점을 알아보고, 전임자에게 맞춰진 기대와 실제 업무 배분도 다시 살피는 글.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.10.13</p>
     <div>

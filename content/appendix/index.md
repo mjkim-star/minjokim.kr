@@ -8,6 +8,20 @@ enableToc: true
 
 [연구노트에서 직접 인용한 문헌 보기](/appendix/reference-registry)
 
+## 전문성과 공동 경험
+
+1. Reagans, R., Argote, L., & Brooks, D. (2005). Individual experience and experience working together: Predicting learning rates from knowing who knows what and knowing how to work together. _Management Science, 51_(6), 869-881. [논문](https://doi.org/10.1287/mnsc.1050.0366)
+   개인의 경력, 조직에 쌓인 경험과 함께 일한 경험을 나누어 살핀 병원 연구다. 경력이 풍부한 사람을 모으는 일과 서로의 전문성을 활용하는 일이 어떻게 다른지 읽는 출발점이다.
+
+2. Argote, L., Guo, J., Haan, K.-W., Rosengart, M. R., Teng, C. Y., & Kahn, J. M. (2026). Transactive memory systems and hospital trauma team performance: Shared experience in action teams. _Organization Science, 37_(1), 48-70. [논문](https://doi.org/10.1287/orsc.2024.19022)
+   병원 외상팀의 행동 영상으로 공동 경험과 전문성에 대한 공동 이해를 살폈다. 중환자실과 병원 전체 체류기간의 결과를 구분해 읽고, 관찰연구를 회사의 인과 효과로 옮기지 않는 데 주의한다. 온라인 공개는 2025년 12월이다.
+
+3. Kost, D., Hærem, T., & Pentland, B. (2026). Transactive memory systems and team performance: The mediating role of routines. _Industrial and Corporate Change, 35_(4), 955-982. [논문](https://doi.org/10.1093/icc/dtaf062)
+   위기대응 모의과제에서 전문성에 관한 인식과 역할 사이의 실제 행동을 연결한다. 누가 무엇을 아는지 안다는 것만으로 협업 결과를 설명할 수 있는지 묻는다.
+
+4. Lewis, K., Belliveau, M., Herndon, B., & Keller, J. (2007). Group cognition, membership change, and performance: Investigating the benefits and detriments of collective knowledge. _Organizational Behavior and Human Decision Processes, 103_(2), 159-178. [논문](https://doi.org/10.1016/j.obhdp.2007.01.005)
+   일부 구성원이 바뀐 뒤 이전 집단의 지식 구조에 의존하는 문제를 실험했다. 오래된 공동 경험이 새 동료의 전문성을 활용하는 데 언제 한계가 되는지 살펴볼 반례다. 기업 영입 실패의 확정 원인으로 읽지는 않는다.
+
 ## AI와 조직
 
 1. Simón, C., Revilla, E., & Sáenz, M. J. (2024). Integrating AI in organizations for value creation through Human-AI teaming: A dynamic-capabilities approach. _Journal of Business Research, 182_, 114783. [논문](https://doi.org/10.1016/j.jbusres.2024.114783)

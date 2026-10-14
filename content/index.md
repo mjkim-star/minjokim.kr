@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (31)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (32)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-10-15_published_team-experience-expertise-update">
+        <span>
+          <strong>경력자를 맞이한 팀이 다시 배워야 할 것</strong>
+          <em>새 사람의 강점을 배우는 일은 기존 팀에도 남아 있다</em>
+        </span>
+        <time>2026.10.15</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-10-13_published_human-ai-performance-attribution">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>공용 견적표에서 자동차 플랫폼까지, 함께 쓰는 업무의 두 가지 효과</em>
         </span>
         <time>2026.10.06</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-09-19_published_plan-deviation-adaptation-drift">
-        <span>
-          <strong>계획과 다른 실행은 모두 실패일까</strong>
-          <em>현장 적응과 조용한 표류를 가르는 기준</em>
-        </span>
-        <time>2026.09.19</time>
       </a>
     </div>
   </div>
