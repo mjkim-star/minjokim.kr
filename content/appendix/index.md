@@ -8,6 +8,17 @@ enableToc: true
 
 [연구노트에서 직접 인용한 문헌 보기](/appendix/reference-registry)
 
+## 시험 설계와 학습의 경계
+
+1. Thomke, S., & Bell, D. E. (2001). Sequential Testing in Product Development. _Management Science, 47_(2), 308-323. [논문](https://doi.org/10.1287/mnsc.47.2.308.9838)
+   시험 비용, 현실 재현 수준과 시험 간 관계를 비교한 수리모형이다. 공식 초록의 조건부 결과를 읽는 출발점이며 사무 업무의 적정 시험 횟수 공식으로 쓰지는 않는다.
+
+2. Camuffo, A., Gambardella, A., Messinese, D., Novelli, E., Paolucci, E., & Spina, C. (2024). A scientific approach to entrepreneurial decision-making: Large-scale replication and extension. _Strategic Management Journal, 45_(6), 1209-1237. [논문](https://doi.org/10.1002/smj.3580)
+   759개 기업이 참여한 네 무작위 현장실험으로 학습 접근 교육의 영향을 살폈다. 특정 사무 업무의 시험 설계가 효과적이라는 직접 검증과는 구분한다.
+
+3. Camuffo, A., Gambardella, A., & Teodorovicz, T. (2026). Unleashing the value of a “scientific approach” to entrepreneurship: Building an empirical research agenda. _Strategic Entrepreneurship Journal_, Early View. [논문](https://doi.org/10.1002/sej.70038)
+   2026년 7월 24일 온라인 공개된 연구 의제 논평이다. 학습 접근의 보완 조건, 적용 경계와 과잉 처방의 위험을 검토하며 새 현장실험으로 읽지 않는다.
+
 ## 전문성과 공동 경험
 
 1. Reagans, R., Argote, L., & Brooks, D. (2005). Individual experience and experience working together: Predicting learning rates from knowing who knows what and knowing how to work together. _Management Science, 51_(6), 869-881. [논문](https://doi.org/10.1287/mnsc.1050.0366)

@@ -24,12 +24,21 @@ enableToc: false
   <div class="section-title-row">
     <h2>최신 글</h2>
     <div class="section-action-links">
-      <a class="section-count-link" href="./research">전체 원문 보기 (32)</a>
+      <a class="section-count-link" href="./research">전체 원문 보기 (33)</a>
       <a class="section-count-link" href="./translations">번역 글 보기 (10)</a>
     </div>
   </div>
   <!-- 첫 화면에는 한글 원문만 노출하고, 번역본은 별도 목차에서 봅니다. -->
   <div class="latest-list">
+    <div class="latest-group">
+      <a class="latest-original" href="./research/2026-10-21_published_test-coverage-before-repetition">
+        <span>
+          <strong>시험은 작게 해도, 중요한 조건은 빼면 안 된다</strong>
+          <em>같은 시험을 더 하기 전에, 실제로 쓸 때 생길 문제를 넣어 보자</em>
+        </span>
+        <time>2026.10.21</time>
+      </a>
+    </div>
     <div class="latest-group">
       <a class="latest-original" href="./research/2026-10-15_published_team-experience-expertise-update">
         <span>
@@ -46,15 +55,6 @@ enableToc: false
           <em>함께 만든 결과를 평가하는 일과 잘못을 가리는 일은 다르다</em>
         </span>
         <time>2026.10.13</time>
-      </a>
-    </div>
-    <div class="latest-group">
-      <a class="latest-original" href="./research/2026-10-06_published_shared-task-reliability-learning">
-        <span>
-          <strong>업무를 함께 쓰면, 문제도 해결책도 연결된다</strong>
-          <em>공용 견적표에서 자동차 플랫폼까지, 함께 쓰는 업무의 두 가지 효과</em>
-        </span>
-        <time>2026.10.06</time>
       </a>
     </div>
   </div>

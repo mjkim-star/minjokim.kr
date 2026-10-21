@@ -24,6 +24,7 @@ enableToc: true
 
 | 세부주제 | 글 |
 |---|---|
+| 도입 판단 전에 남겨야 할 시험 조건 | [시험은 작게 해도, 중요한 조건은 빼면 안 된다](/research/2026-10-21_published_test-coverage-before-repetition) |
 | 탐색과 활용의 동시 요구 | ["양손잡이 조직"은 언제 미덕이 아니라 비용이 되는가?](/research/2026-05-29_published_sme-ambidexterity-boundary) |
 | 불일치와 이슈 인식 | [불일치는 왜 혁신의 첫 신호가 되는가?](/research/2026-06-21_published_incongruity-as-innovation-signal) |
 | 실제 우선순위의 형성 | [마감일은 왜 회사의 진짜 우선순위를 드러내는가?](/research/2026-07-01_published_deadline-reveals-real-priority) |

@@ -16,6 +16,7 @@ enableToc: true
 - 경험의 조직 기억, 규칙과 routine 전환
 - 개인 경험과 공동 경험, 구성원 변경 뒤 오래된 전문성 기대의 수정
 - 공용 과업을 통한 교차 개선과 해결 경험의 적용 범위
+- 반복 확인과 빠진 사용 조건을 구분하는 다음 시험의 설계
 - 결과에 따른 판단 수정, 중단과 재시작
 - 자원·권한·업무의 재배치와 reconfiguration
 - 반복 Episode가 조직역량과 Dynamic Capability로 집합되는 조건
@@ -27,6 +28,7 @@ enableToc: true
 
 | 세부주제 | 글 |
 |---|---|
+| 다음 시험의 조건과 확인 범위 | [시험은 작게 해도, 중요한 조건은 빼면 안 된다](/research/2026-10-21_published_test-coverage-before-repetition) |
 | 공동 경험과 전문성 기대의 갱신 | [경력자를 맞이한 팀이 다시 배워야 할 것](/research/2026-10-15_published_team-experience-expertise-update) |
 | 공용 업무와 교차 개선 | [업무를 함께 쓰면, 문제도 해결책도 연결된다](/research/2026-10-06_published_shared-task-reliability-learning) |
 | 경험의 조직학습 전환 | [바쁜 회사는 왜 더 배우지 못하는가?](/research/2026-06-11_published_busy-company-cannot-learn) |

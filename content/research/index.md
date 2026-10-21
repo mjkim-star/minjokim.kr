@@ -10,7 +10,7 @@ cssclasses:
 현장 문제를 출발점으로 삼되, 이론과 방법론의 관점에서 다시 읽은 원문 글입니다.
 
 <section class="clean-index-summary">
-  <span>원문 32편</span>
+  <span>원문 33편</span>
   <a href="/topics">연구범위로 묶어 읽기</a>
   <a href="/translations">번역 글 10편</a>
 </section>
@@ -20,6 +20,13 @@ cssclasses:
 ## 먼저 읽을 글
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">시험 설계와 학습</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-10-21_published_test-coverage-before-repetition">시험은 작게 해도, 중요한 조건은 빼면 안 된다</a>
+      <p class="clean-index-meta">같은 조건에서 결과가 흔들리는지 확인하는 일과 빠진 사용 상황을 시험에 넣는 일을 구분한다. 도입 여부를 판단하기 위해 다음 시험에서 무엇을 확인해야 하는지 살핀다.</p>
+    </div>
+  </article>
   <article class="clean-index-item">
     <p class="clean-index-date">전문성과 팀의 학습</p>
     <div>
@@ -151,6 +158,14 @@ cssclasses:
 ## 전체 발행 순서
 
 <section class="clean-index-list">
+  <article class="clean-index-item">
+    <p class="clean-index-date">2026.10.21</p>
+    <div>
+      <a class="clean-index-title" href="/research/2026-10-21_published_test-coverage-before-repetition">시험은 작게 해도, 중요한 조건은 빼면 안 된다</a>
+      <p class="clean-index-meta">같은 시험을 더 하기 전에, 실제로 쓸 때 생길 중요한 문제를 다음 시험에 넣어 보자는 제안.</p>
+    </div>
+  </article>
+
   <article class="clean-index-item">
     <p class="clean-index-date">2026.10.15</p>
     <div>
